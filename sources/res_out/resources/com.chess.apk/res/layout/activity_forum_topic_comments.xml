@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/snackBarContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.google.inputmethod.material.appbar.AppBarLayout
+        android:id="@+id/appBar"
+        android:background="@color/colorToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stateListAnimator="@null">
+        <com.chess.utils.android.toolbar.CenteredToolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </com.google.inputmethod.material.appbar.AppBarLayout>
+    <include
+        android:id="@+id/contentForumTopicComments"
+        layout="@layout/content_forum_topic_comments"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

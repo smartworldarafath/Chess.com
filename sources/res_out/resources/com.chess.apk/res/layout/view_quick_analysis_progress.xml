@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textSize="@dimen/text_size_normal"
+        android:textColor="@color/black_40"
+        android:gravity="center"
+        android:id="@+id/progressTxt"
+        android:padding="@dimen/half_margin_standard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reviewing_your_game"
+        android:layout_marginStart="@dimen/half_margin_standard"
+        android:layout_marginEnd="@dimen/half_margin_standard"/>
+</merge>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/action_overflow_menu"
+    android:background="?attr/actionBarItemBackground"
+    android:layout_width="36dp"
+    android:layout_height="48dp"
+    android:scaleType="centerInside"
+    android:contentDescription="@string/nav_more"
+    app:tint="@color/colorToolbarIcon"/>

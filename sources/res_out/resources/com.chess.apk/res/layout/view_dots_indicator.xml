@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:scaleType="fitXY">
+    <TextView
+        android:textSize="@dimen/text_size_large"
+        android:id="@+id/textDot1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/glyph_bullet"
+        style="@style/TextViewStyle.WhiteText"/>
+    <TextView
+        android:textSize="@dimen/text_size_large"
+        android:id="@+id/textDot2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/glyph_bullet"
+        style="@style/TextViewStyle.WhiteText"/>
+    <TextView
+        android:textSize="@dimen/text_size_large"
+        android:id="@+id/textDot3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/glyph_bullet"
+        style="@style/TextViewStyle.WhiteText"/>
+</merge>

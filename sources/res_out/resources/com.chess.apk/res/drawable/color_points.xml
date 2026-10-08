@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="90dp"
+    android:width="90dp"
+    android:viewportWidth="90"
+    android:viewportHeight="90">
+    <path
+        android:fillColor="#e3aa24"
+        android:pathData="m5,11.38v-6.38h11.81l5.28,8.16h-9.26z"/>
+    <path
+        android:fillColor="#e3aa24"
+        android:pathData="m85,11.38c0,-0.56 0,-3.55 0,-3.6v-2.78h-11.81l-5.28,8.16h9.26l7.84,-1.78z"/>
+    <path
+        android:fillColor="#e3aa24"
+        android:pathData="m38.68,61.48c-2.12,0 -11.62,-0.47 -20.06,-8.53 -9.04,-8.62 -13.62,-22.61 -13.62,-41.57h8c0,16.58 3.7,28.58 11,35.65 6.83,6.62 14.41,6.45 14.75,6.44l0.35,7.99s-0.19,0 -0.42,0z"/>
+    <path
+        android:fillColor="#e3aa24"
+        android:pathData="m51.33,61.48c-0.23,0 -0.38,0 -0.42,0l0.38,-7.99c0.28,0.01 7.89,0.17 14.72,-6.44 7.3,-7.07 11,-19.07 11,-35.65h8c0,18.96 -4.58,32.95 -13.62,41.57 -8.43,8.05 -17.93,8.53 -20.06,8.53z"/>
+    <path
+        android:fillColor="#f7c631"
+        android:pathData="m25.93,76.16v-4.68h0.68c6.02,0 9.5,-4.84 9.59,-10.83v-7.51h17.59v4.19,3.32c0.09,5.99 3.58,10.82 9.59,10.82h0.68v4.68c1.09,0.45 8.35,1.86 8.35,1.86v6.98h-23.68,-3.47 -27.68v-6.98s7.26,-1.41 8.35,-1.86z"/>
+    <path
+        android:fillColor="#f7c631"
+        android:pathData="m68.3,10.45v-5.45h-46.6v5.45c0,18.98 -0.4,23.79 2,29.76 2.41,5.96 10.05,15.77 21.29,15.77s18.88,-9.8 21.29,-15.77 2,-10.78 2,-29.76z"/>
+    <path
+        android:fillColor="#fce26a"
+        android:pathData="m44.98,5h-23.28v5.45c0,18.98 -0.4,23.79 2,29.76 1.3,3.21 4.12,7.52 8.19,10.83 8.26,-12.14 13.1,-26.77 13.1,-42.53 0,-0.2 0,-1.66 -0.02,-3.51z"/>
+    <path
+        android:fillColor="#e3aa24"
+        android:pathData="m68.3,13.16h-46.6v1.84h46.6z"/>
+    <path
+        android:fillColor="#fce26a"
+        android:pathData="m72.41,78.02h-54.83v6.98h54.83z"/>
+    <path
+        android:fillColor="#fce26a"
+        android:pathData="m64.07,71.48h-38.14v4.68h38.14z"/>
+</vector>

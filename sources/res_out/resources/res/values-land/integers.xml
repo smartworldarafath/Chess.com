@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="articles_column_count">2</integer>
+    <integer name="flair_columns_count">8</integer>
+    <integer name="intercom_max_composer_lines">3</integer>
+    <integer name="lesson_filters_column_count">4</integer>
+    <integer name="mtrl_calendar_header_orientation">0</integer>
+    <integer name="mtrl_calendar_selection_text_lines">6</integer>
+</resources>

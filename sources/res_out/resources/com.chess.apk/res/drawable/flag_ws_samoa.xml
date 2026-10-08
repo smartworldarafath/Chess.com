@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="24dp"
+    android:width="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="24">
+    <group>
+        <clip-path android:pathData="m0,0h32v24h-32z"/>
+        <path
+            android:fillColor="#e02828"
+            android:pathData="m0,0v24h32v-24z"
+            android:fillType="evenOdd"/>
+        <group>
+            <clip-path
+                android:pathData="m0,0v24h32v-24z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#0b548c"
+                android:pathData="m0,0v14h16v-14z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#e7e6e5"
+                android:pathData="m3.566,7.772 l-1.06,0.64 0.242,-1.249 -0.883,-0.935 1.195,-0.051 0.506,-1.166 0.506,1.166h1.193l-0.881,0.985 0.265,1.249z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#e7e6e5"
+                android:pathData="m11.566,7.772 l-1.06,0.64 0.242,-1.249 -0.883,-0.935 1.195,-0.051 0.506,-1.166 0.506,1.166h1.193l-0.881,0.985 0.265,1.249z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#e7e6e5"
+                android:pathData="m7.466,4.138 l-0.998,0.602 0.228,-1.175 -0.831,-0.88 1.125,-0.048 0.476,-1.097 0.476,1.097h1.123l-0.829,0.927 0.25,1.175z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#e7e6e5"
+                android:pathData="m8.546,8.425 l-0.624,0.376 0.142,-0.735 -0.519,-0.55 0.703,-0.03 0.297,-0.686 0.297,0.686h0.702l-0.518,0.579 0.156,0.735z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#e7e6e5"
+                android:pathData="m7.409,12.828 l-1.497,0.904 0.341,-1.763 -1.246,-1.319 1.688,-0.071 0.714,-1.646 0.714,1.646h1.685l-1.243,1.391 0.374,1.763z"
+                android:fillType="evenOdd"/>
+        </group>
+    </group>
+</vector>

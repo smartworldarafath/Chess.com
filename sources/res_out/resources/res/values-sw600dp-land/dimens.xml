@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="friends_list_horizontal_margin">64dp</dimen>
+    <dimen name="home_connect_header_item_image_margin">45dp</dimen>
+    <dimen name="home_connect_header_item_margin_vertical">37dp</dimen>
+    <dimen name="home_learn_landscape_coach_field_height">136dp</dimen>
+    <dimen name="home_new_game_config_tile_column_width">88dp</dimen>
+    <dimen name="home_play_stats_item_image_size">40dp</dimen>
+    <dimen name="home_play_stats_tile_min_width">104dp</dimen>
+    <dimen name="learn_content_vertical_space">24dp</dimen>
+    <dimen name="lesson_coach_bubble_max_width">196dp</dimen>
+</resources>

@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_feed_comments">
+        <item quantity="one">%d комментарий</item>
+        <item quantity="few">%d комментария</item>
+        <item quantity="many">%d комментариев</item>
+        <item quantity="other">%d комментариев</item>
+    </plurals>
+    <plurals name="activity_feed_current_streak">
+        <item quantity="one">Текущая серия: %d день</item>
+        <item quantity="few">Текущая серия: %d дня</item>
+        <item quantity="many">Текущая серия: %d дней</item>
+        <item quantity="other">Текущая серия: %d дней</item>
+    </plurals>
+    <plurals name="activity_feed_draws_chip">
+        <item quantity="one">%d ничья</item>
+        <item quantity="few">%d ничьи</item>
+        <item quantity="many">%d ничьих</item>
+        <item quantity="other">%d ничьих</item>
+    </plurals>
+    <plurals name="activity_feed_losses_chip">
+        <item quantity="one">%d поражение</item>
+        <item quantity="few">%d поражения</item>
+        <item quantity="many">%d поражений|</item>
+        <item quantity="other">%d поражений</item>
+    </plurals>
+    <plurals name="activity_feed_pin_limit">
+        <item quantity="one">Ты можешь закрепить не более %d публикации. Открепи публикацию, чтобы добавить ещё одну.|</item>
+        <item quantity="few">Ты можешь закрепить не более %d публикаций. Открепи публикацию, чтобы добавить ещё одну.</item>
+        <item quantity="many">Ты можешь закрепить не более %d публикаций. Открепи публикацию, чтобы добавить ещё одну.</item>
+        <item quantity="other">Ты можешь закрепить не более %d публикаций. Открепи публикацию, чтобы добавить ещё одну.</item>
+    </plurals>
+    <plurals name="activity_feed_played_games">
+        <item quantity="one">Сыграна %d партия</item>
+        <item quantity="few">Сыграно %d партии</item>
+        <item quantity="many">Сыграно %d партий</item>
+        <item quantity="other">Сыграно %d партий</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_points">
+        <item quantity="one">%d puzzle point</item>
+        <item quantity="few">%d puzzle points</item>
+        <item quantity="many">%d puzzle points</item>
+        <item quantity="other">%d puzzle points</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_streak">
+        <item quantity="one">%d puzzle correct in a row</item>
+        <item quantity="few">%d puzzles correct in a row</item>
+        <item quantity="many">%d puzzles correct in a row</item>
+        <item quantity="other">%d puzzles correct in a row</item>
+    </plurals>
+    <plurals name="activity_feed_reactions">
+        <item quantity="one">%d реакция</item>
+        <item quantity="few">%d реакции</item>
+        <item quantity="many">%d реакций</item>
+        <item quantity="other">%d реакций</item>
+    </plurals>
+    <plurals name="activity_feed_streak_milestone_value">
+        <item quantity="one">%d День</item>
+        <item quantity="few">%d Дн.</item>
+        <item quantity="many">%d Дн.</item>
+        <item quantity="other">%d Дн.</item>
+    </plurals>
+    <plurals name="activity_feed_wins_chip">
+        <item quantity="one">%d выигрыш</item>
+        <item quantity="few">%d выигрыша</item>
+        <item quantity="many">%d выигрышей</item>
+        <item quantity="other">%d выигрышей</item>
+    </plurals>
+    <plurals name="add_x_friends">
+        <item quantity="one">Добавить %d друга</item>
+        <item quantity="few">Добавить %d друзей</item>
+        <item quantity="many">Добавить %d друзей</item>
+        <item quantity="other">Добавить %d друзей</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_user">
+        <item quantity="one">Сыграй %d игру, чтобы получить рейтинг</item>
+        <item quantity="few">Сыграй %d игры, чтобы получить рейтинг</item>
+        <item quantity="many">Сыграй %d игр, чтобы получить рейтинг</item>
+        <item quantity="other">Сыграй %d игр, чтобы получить рейтинг</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_visitor">
+        <item quantity="one">Статистика появится после %d игры</item>
+        <item quantity="few">Статистика появится после %d игр</item>
+        <item quantity="many">Статистика появится после %d игр</item>
+        <item quantity="other">Статистика появится после %d игр</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_decreased">
+        <item quantity="one">Уменьшено на %d балл</item>
+        <item quantity="few">Уменьшено на %d балла</item>
+        <item quantity="many">Уменьшено на %d баллов</item>
+        <item quantity="other">Уменьшено на %d баллов</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_increased">
+        <item quantity="one">Увеличено на %d балл</item>
+        <item quantity="few">Увеличено на %d балла</item>
+        <item quantity="many">Увеличено на %d баллов</item>
+        <item quantity="other">Увеличено на %d баллов</item>
+    </plurals>
+    <plurals name="app_update_message_no_action">
+        <item quantity="one">Эта версия приложения перестанет поддерживаться через %1$d день. Пожалуйста, установите обновление.</item>
+        <item quantity="few">Эта версия приложения перестанет поддерживаться через %1$d дня. Пожалуйста, установите обновление.</item>
+        <item quantity="many">Эта версия приложения перестанет поддерживаться через %1$d дней. Пожалуйста, установите обновление.</item>
+        <item quantity="other">Эта версия приложения перестанет поддерживаться через %1$d дней. Пожалуйста, установите обновление.</item>
+    </plurals>
+    <plurals name="app_update_message_with_action">
+        <item quantity="one">Эта версия приложения перестанет поддерживаться через %1$d день.</item>
+        <item quantity="few">Эта версия приложения перестанет поддерживаться через %1$d дня.</item>
+        <item quantity="many">Эта версия приложения перестанет поддерживаться через %1$d дней.</item>
+        <item quantity="other">Эта версия приложения перестанет поддерживаться через %1$d дней.</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_crowns">
+        <item quantity="one">%1$s, рейтинг %2$s, у вас %3$d корона</item>
+        <item quantity="few">%1$s, рейтинг %2$s, у вас %3$d короны</item>
+        <item quantity="many">%1$s, рейтинг %2$s, у вас %3$d корон</item>
+        <item quantity="other">%1$s, рейтинг %2$s, у вас %3$d корон</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_points">
+        <item quantity="one">%1$s, рейтинг %2$s, заработай %3$d балл</item>
+        <item quantity="few">%1$s, рейтинг %2$s, заработай %3$d балла</item>
+        <item quantity="many">%1$s, рейтинг %2$s, заработай %3$d баллов</item>
+        <item quantity="other">%1$s, рейтинг %2$s, заработай %3$d баллов</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_hours">
+        <item quantity="one">Твоя онлайн-игра временно ограничена из-за нарушения нашей &lt;a href=%1$s&gt;политики сообщества&lt;/a&gt;. Ты сможешь снова играть через %2$d час</item>
+        <item quantity="few">Твоя онлайн-игра временно ограничена из-за нарушения нашей &lt;a href=%1$s&gt;политики сообщества&lt;/a&gt;. Ты сможешь снова играть через %2$d часа</item>
+        <item quantity="many">Твоя онлайн-игра временно ограничена из-за нарушения нашей &lt;a href=%1$s&gt;политики сообщества&lt;/a&gt;. Ты сможешь снова играть через %2$d часов</item>
+        <item quantity="other">Твоя онлайн-игра временно ограничена из-за нарушения нашей &lt;a href=%1$s&gt;политики сообщества&lt;/a&gt;. Ты сможешь снова играть через %2$d часов</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_minutes">
+        <item quantity="one">Твоя онлайн-игра временно ограничена из-за нарушения нашей &lt;a href=%1$s&gt;политики сообщества&lt;/a&gt;. Ты сможешь снова играть через %2$d минуту</item>
+        <item quantity="few">Твоя онлайн-игра временно ограничена из-за нарушения нашей &lt;a href=%1$s&gt;политики сообщества&lt;/a&gt;. Ты сможешь снова играть через %2$d минуты</item>
+        <item quantity="many">Твоя онлайн-игра временно ограничена из-за нарушения нашей &lt;a href=%1$s&gt;политики сообщества&lt;/a&gt;. Ты сможешь снова играть через %2$d минут</item>
+        <item quantity="other">Твоя онлайн-игра временно ограничена из-за нарушения нашей &lt;a href=%1$s&gt;политики сообщества&lt;/a&gt;. Ты сможешь снова играть через %2$d минут</item>
+    </plurals>
+    <plurals name="coach_nudge_board_highlighted_squares">
+        <item quantity="one">Доска с %d выделенным полем</item>
+        <item quantity="few">Доска с %d выделенными полями</item>
+        <item quantity="many">Доска с %d выделенными полями</item>
+        <item quantity="other">Доска с %d выделенными полями</item>
+    </plurals>
+    <plurals name="daily_puzzle_keep_streak_alive">
+        <item quantity="one">Сохрани свою серию в %d день!</item>
+        <item quantity="few">Сохрани свою серию в %d дня!</item>
+        <item quantity="many">Сохрани свою серию в %d дней!</item>
+        <item quantity="other">Сохрани свою серию в %d дней!</item>
+    </plurals>
+    <plurals name="daily_seeks_modal_subtitle">
+        <item quantity="one">Теперь у вашего соперника есть %d день, чтобы сделать ход.</item>
+        <item quantity="few">Теперь у вашего соперника есть %d дня, чтобы сделать ход.</item>
+        <item quantity="many">Теперь у вашего соперника есть %d дней, чтобы сделать ход.</item>
+        <item quantity="other">Теперь у вашего соперника есть %d дней, чтобы сделать ход.</item>
+    </plurals>
+    <plurals name="daily_seeks_pending_modal_subtitle">
+        <item quantity="one">После того как соперник примет ваш вызов, у него будет %d день, чтобы сделать первый ход.</item>
+        <item quantity="few">После того как соперник примет ваш вызов, у него будет %d дня, чтобы сделать первый ход.</item>
+        <item quantity="many">После того как соперник примет ваш вызов, у него будет %d дней, чтобы сделать первый ход.</item>
+        <item quantity="other">После того как соперник примет ваш вызов, у него будет %d дней, чтобы сделать первый ход.</item>
+    </plurals>
+    <plurals name="event_reward_points_to_unlock">
+        <item quantity="one">До разблокировки: %1$d %%tokenIcon%%</item>
+        <item quantity="few">До разблокировки: %1$d %%tokenIcon%%</item>
+        <item quantity="many">До разблокировки: %1$d %%tokenIcon%%</item>
+        <item quantity="other">До разблокировки: %1$d %%tokenIcon%%</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Перемотать на %d секунду вперед</item>
+        <item quantity="few">Перемотать на %d секунды вперед</item>
+        <item quantity="many">Перемотать на %d секунд вперед</item>
+        <item quantity="other">Перемотать на %d секунды вперед</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Перемотать на %d секунду назад</item>
+        <item quantity="few">Перемотать на %d секунды назад</item>
+        <item quantity="many">Перемотать на %d секунд назад</item>
+        <item quantity="other">Перемотать на %d секунды назад</item>
+    </plurals>
+    <plurals name="first_daily_move_game_message_plural">
+        <item quantity="one">В этой заочной партии ваш противник может потратить на каждый ход до %d дня.</item>
+        <item quantity="few">В этой заочной партии ваш противник может потратить на каждый ход до %d дней.</item>
+        <item quantity="many">В этой заочной партии ваш противник может потратить на каждый ход до %d дней.</item>
+        <item quantity="other">В этой заочной партии ваш противник может потратить на каждый ход до %d дней.</item>
+    </plurals>
+    <plurals name="first_daily_move_message_plural">
+        <item quantity="one">Теперь у вашего соперника есть %d день, чтобы сделать ход.</item>
+        <item quantity="few">Теперь у вашего соперника есть %d дня, чтобы сделать ход.</item>
+        <item quantity="many">Теперь у вашего соперника есть %d дней, чтобы сделать ход.</item>
+        <item quantity="other">Теперь у вашего соперника есть %d дней, чтобы сделать ход.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_game_count">
+        <item quantity="one">Дебют применялся %1$d раз.</item>
+        <item quantity="few">Дебют применялся %1$d раза.</item>
+        <item quantity="many">Дебют применялся %1$d раз.</item>
+        <item quantity="other">Дебют применялся %1$d раз.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_opening_stats">
+        <item quantity="one">Вы применяли этот дебют %1$d раз, выиграв %2$s партий.</item>
+        <item quantity="few">Вы применяли этот дебют %1$d раза, выиграв %2$s партий.</item>
+        <item quantity="many">Вы применяли этот дебют %1$d раз, выиграв %2$s партий.</item>
+        <item quantity="other">Вы применяли этот дебют %1$d раз, выиграв %2$s партий.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_revised_opening_stats">
+        <item quantity="one">Дебют применялся %1$d раз с %2$s побед.</item>
+        <item quantity="few">Дебют применялся %1$d раза с %2$s побед.</item>
+        <item quantity="many">Дебют применялся %1$d раз с %2$s побед.</item>
+        <item quantity="other">Дебют применялся %1$d раз с %2$s побед.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+        <item quantity="other">%d нового уведомления</item>
+    </plurals>
+    <plurals name="play_more_blitz_games_count">
+        <item quantity="one">Сыграйте %d партию в блиц, чтобы получить рейтинг!</item>
+        <item quantity="few">Сыграйте ещё %d партии в блиц, чтобы получить рейтинг!</item>
+        <item quantity="many">Сыграйте ещё %d партий в блиц, чтобы получить рейтинг!</item>
+        <item quantity="other">Сыграйте ещё %d партий в блиц, чтобы получить рейтинг!</item>
+    </plurals>
+    <plurals name="play_more_bullet_games_count">
+        <item quantity="one">Сыграйте %d партию в пулю, чтобы получить рейтинг!</item>
+        <item quantity="few">Сыграйте ещё %d партии в пулю, чтобы получить рейтинг!</item>
+        <item quantity="many">Сыграйте ещё %d партий в пулю, чтобы получить рейтинг!</item>
+        <item quantity="other">Сыграйте ещё %d партий в пулю, чтобы получить рейтинг!</item>
+    </plurals>
+    <plurals name="play_more_chess960_games_count">
+        <item quantity="one">Сыграйте %d партию в Chess960, чтобы получить рейтинг!</item>
+        <item quantity="few">Сыграйте ещё %d партии в Chess960, чтобы получить рейтинг!</item>
+        <item quantity="many">Сыграйте ещё %d партий в Chess960, чтобы получить рейтинг!</item>
+        <item quantity="other">Сыграйте ещё %d партий в Chess960, чтобы получить рейтинг!</item>
+    </plurals>
+    <plurals name="play_more_rapid_games_count">
+        <item quantity="one">Сыграйте %d партию в рапид, чтобы получить рейтинг!</item>
+        <item quantity="few">Сыграйте ещё %d партии в рапид, чтобы получить рейтинг!</item>
+        <item quantity="many">Сыграйте ещё %d партий в рапид, чтобы получить рейтинг!</item>
+        <item quantity="other">Сыграйте ещё %d партий в рапид, чтобы получить рейтинг!</item>
+    </plurals>
+    <plurals name="plural_day_streak">
+        <item quantity="one">%d день подряд</item>
+        <item quantity="few">%d дня подряд</item>
+        <item quantity="many">%d дней подряд</item>
+        <item quantity="other">%d дней подряд</item>
+    </plurals>
+    <plurals name="plural_day_streak_">
+        <item quantity="one">день подряд!</item>
+        <item quantity="few">дня подряд!</item>
+        <item quantity="many">дней подряд!</item>
+        <item quantity="other">дней подряд!</item>
+    </plurals>
+    <plurals name="plural_puzzle_path_you_have_prestiged">
+        <item quantity="one">Вы вернулись на сложности %dX</item>
+        <item quantity="few">Вы вернулись на повышенной сложности %dX</item>
+        <item quantity="many">Вы вернулись на повышенной сложности %dX</item>
+        <item quantity="other">Вы вернулись на повышенной сложности %dX</item>
+    </plurals>
+    <plurals name="plural_streak_days">
+        <item quantity="one">%d День</item>
+        <item quantity="few">%d Дн.</item>
+        <item quantity="many">%d Дн.</item>
+        <item quantity="other">%d Дн.</item>
+    </plurals>
+    <plurals name="puzzle_bonus_reward_x_label">
+        <item quantity="one">Награда: %d очко</item>
+        <item quantity="few">Награда: %d очка</item>
+        <item quantity="many">Награда: %d очков</item>
+        <item quantity="other">Награда: %d очков</item>
+    </plurals>
+    <plurals name="puzzle_bonus_x_daily_subtitle">
+        <item quantity="one">%d задача решена</item>
+        <item quantity="few">%d задачи решено</item>
+        <item quantity="many">%d задач решено</item>
+        <item quantity="other">%d задач решено</item>
+    </plurals>
+    <plurals name="puzzle_path_x_friends_passed_this_tier_already">
+        <item quantity="one">%d друг уже прошел этот путь</item>
+        <item quantity="few">%d друга уже прошли этот путь</item>
+        <item quantity="many">%d друзей уже прошли этот путь</item>
+        <item quantity="other">%d друзей уже прошли этот путь</item>
+    </plurals>
+    <plurals name="puzzles_rated_subtitle">
+        <item quantity="one">Тренируемся, решая более %d задачи</item>
+        <item quantity="few">Тренируемся, решая более %d задач</item>
+        <item quantity="many">Тренируемся, решая более %d задач</item>
+        <item quantity="other">Тренируемся, решая более %d задач</item>
+    </plurals>
+    <plurals name="relative_date_x_days_ago">
+        <item quantity="one">%d день назад</item>
+        <item quantity="few">%d дня назад</item>
+        <item quantity="many">%d дней назад</item>
+        <item quantity="other">%d дней назад</item>
+    </plurals>
+    <plurals name="stats_chess_com_players">
+        <item quantity="one">пользователь Chess.com</item>
+        <item quantity="few">пользователя Chess.com</item>
+        <item quantity="many">пользователей Chess.com</item>
+        <item quantity="other">пользователей Chess.com</item>
+    </plurals>
+    <plurals name="stats_games_today">
+        <item quantity="one">партия сегодня</item>
+        <item quantity="few">партии сегодня</item>
+        <item quantity="many">партий сегодня</item>
+        <item quantity="other">партий сегодня</item>
+    </plurals>
+    <plurals name="stats_masters_playing_now">
+        <item quantity="one">шахматист со званием играет сейчас</item>
+        <item quantity="few">шахматиста со званием играют сейчас</item>
+        <item quantity="many">шахматистов со званием играют сейчас</item>
+        <item quantity="other">шахматистов со званием играют сейчас</item>
+    </plurals>
+    <plurals name="stats_playing_now">
+        <item quantity="one">играет сейчас</item>
+        <item quantity="few">играют сейчас</item>
+        <item quantity="many">играют сейчас</item>
+        <item quantity="other">играют сейчас</item>
+    </plurals>
+    <plurals name="upgrade_puzzles_count">
+        <item quantity="one">Более %d тысячи задач</item>
+        <item quantity="few">Более %d тысяч задач</item>
+        <item quantity="many">Более %d тысяч задач</item>
+        <item quantity="other">Более %d тысяч задач</item>
+    </plurals>
+    <plurals name="user_profile_provisional_tile">
+        <item quantity="one">Играть %d партию</item>
+        <item quantity="few">Играть %d партии</item>
+        <item quantity="many">Играть %d партий</item>
+        <item quantity="other">Играть %d партий</item>
+    </plurals>
+    <plurals name="x_bishop">
+        <item quantity="one">%d слон</item>
+        <item quantity="few">%d слона</item>
+        <item quantity="many">%d слонов</item>
+        <item quantity="other">%d слонов</item>
+    </plurals>
+    <plurals name="x_challenges">
+        <item quantity="one">%d задание</item>
+        <item quantity="few">%d задания</item>
+        <item quantity="many">%d заданий</item>
+        <item quantity="other">%d заданий</item>
+    </plurals>
+    <plurals name="x_contacts_found">
+        <item quantity="one">Найден %d контакт</item>
+        <item quantity="few">Найдено %d контакта</item>
+        <item quantity="many">Найдено %d контактов</item>
+        <item quantity="other">Найдено %d контактов</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+        <item quantity="other">%d дней</item>
+    </plurals>
+    <plurals name="x_days_in_a_row_new">
+        <item quantity="one">%d день подряд!</item>
+        <item quantity="few">%d дня подряд!</item>
+        <item quantity="many">%d дней подряд!</item>
+        <item quantity="other">%d дней подряд!</item>
+    </plurals>
+    <plurals name="x_days_move">
+        <item quantity="one">%1$d день на ход</item>
+        <item quantity="few">%1$d дня на ход</item>
+        <item quantity="many">%1$d дней на ход</item>
+        <item quantity="other">%1$d дней на ход</item>
+    </plurals>
+    <plurals name="x_days_short">
+        <item quantity="one">%dд</item>
+        <item quantity="few">%dд</item>
+        <item quantity="many">%dд</item>
+        <item quantity="other">%dд</item>
+    </plurals>
+    <plurals name="x_friends_added">
+        <item quantity="one">Добавлен %d друг!</item>
+        <item quantity="few">Добавлено %d друга!</item>
+        <item quantity="many">Добавлено %d друзей!</item>
+        <item quantity="other">Добавлено %d друзей!</item>
+    </plurals>
+    <plurals name="x_friends_online">
+        <item quantity="one">%d друг в сети</item>
+        <item quantity="few">%d друга в сети</item>
+        <item quantity="many">%d друзей в сети</item>
+        <item quantity="other">%d друзей в сети</item>
+    </plurals>
+    <plurals name="x_games_analyzed">
+        <item quantity="one">%1$d партия проанализирована</item>
+        <item quantity="few">%1$d партии проанализированы</item>
+        <item quantity="many">%1$d партий проанализированы</item>
+        <item quantity="other">%1$d партий проанализированы</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+        <item quantity="many">%d часов</item>
+        <item quantity="other">%d часов</item>
+    </plurals>
+    <plurals name="x_hours_short">
+        <item quantity="one">%dч</item>
+        <item quantity="few">%dч</item>
+        <item quantity="many">%dч</item>
+        <item quantity="other">%dч</item>
+    </plurals>
+    <plurals name="x_knight">
+        <item quantity="one">%d конь</item>
+        <item quantity="few">%d коня</item>
+        <item quantity="many">%d коней</item>
+        <item quantity="other">%d коней</item>
+    </plurals>
+    <plurals name="x_lessons">
+        <item quantity="one">%d урок</item>
+        <item quantity="few">%d урока</item>
+        <item quantity="many">%d уроков</item>
+        <item quantity="other">%d уроков</item>
+    </plurals>
+    <plurals name="x_min">
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+    <plurals name="x_minutes_short">
+        <item quantity="one">%dмин</item>
+        <item quantity="few">%dмин</item>
+        <item quantity="many">%dмин</item>
+        <item quantity="other">%dмин</item>
+    </plurals>
+    <plurals name="x_months">
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+        <item quantity="many">%d месяцев</item>
+        <item quantity="other">%d месяцев</item>
+    </plurals>
+    <plurals name="x_new_announcements">
+        <item quantity="one">%d новое объявление</item>
+        <item quantity="few">%d новых объявления</item>
+        <item quantity="many">%d новых объявлений</item>
+        <item quantity="other">%d новых объявлений</item>
+    </plurals>
+    <plurals name="x_new_notes">
+        <item quantity="one">%d новая заметка</item>
+        <item quantity="few">%d новых заметки</item>
+        <item quantity="many">%d новых заметок</item>
+        <item quantity="other">%d новых заметок</item>
+    </plurals>
+    <plurals name="x_new_posts">
+        <item quantity="one">%d новый пост</item>
+        <item quantity="few">%d новых поста</item>
+        <item quantity="many">%d новых постов</item>
+        <item quantity="other">%d новых постов</item>
+    </plurals>
+    <plurals name="x_new_topics">
+        <item quantity="one">%d новая тема</item>
+        <item quantity="few">%d новых темы</item>
+        <item quantity="many">%d новых тем</item>
+        <item quantity="other">%d новых тем</item>
+    </plurals>
+    <plurals name="x_num_points">
+        <item quantity="one">%d очко</item>
+        <item quantity="few">%d очка</item>
+        <item quantity="many">%d очков</item>
+        <item quantity="other">%d очков</item>
+    </plurals>
+    <plurals name="x_pawn">
+        <item quantity="one">%d пешка</item>
+        <item quantity="few">%d пешки</item>
+        <item quantity="many">%d пешек</item>
+        <item quantity="other">%d пешек</item>
+    </plurals>
+    <plurals name="x_puzzles_solved_new">
+        <item quantity="one">%d задача решена!</item>
+        <item quantity="few">%d задачи решены!</item>
+        <item quantity="many">%d задач решено!</item>
+        <item quantity="other">%d задач решено!</item>
+    </plurals>
+    <plurals name="x_queen">
+        <item quantity="one">%d ферзь</item>
+        <item quantity="few">%d ферзя</item>
+        <item quantity="many">%d ферзей</item>
+        <item quantity="other">%d ферзей</item>
+    </plurals>
+    <plurals name="x_rook">
+        <item quantity="one">%d ладья</item>
+        <item quantity="few">%d ладьи</item>
+        <item quantity="many">%d ладей</item>
+        <item quantity="other">%d ладей</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
+        <item quantity="other">%d секунд</item>
+    </plurals>
+    <plurals name="x_seconds_short">
+        <item quantity="one">%dсек</item>
+        <item quantity="few">%dсек</item>
+        <item quantity="many">%dсек</item>
+        <item quantity="other">%dсек</item>
+    </plurals>
+    <plurals name="x_trophies">
+        <item quantity="one">%d трофей</item>
+        <item quantity="few">%d трофея</item>
+        <item quantity="many">%d трофеев</item>
+        <item quantity="other">%d трофеев</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d года</item>
+        <item quantity="many">%d лет</item>
+        <item quantity="other">%d лет</item>
+    </plurals>
+</resources>

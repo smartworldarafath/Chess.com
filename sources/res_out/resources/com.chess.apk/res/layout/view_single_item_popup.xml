@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textSize="15sp"
+    android:textColor="@color/textDark"
+    android:id="@+id/itemTv"
+    android:background="?attr/selectableItemBackgroundBorderless"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minWidth="128dp"
+    android:textAllCaps="true"
+    android:fontFamily="@font/custom_medium"
+    android:textDirection="locale"
+    android:textAlignment="viewStart"
+    android:paddingHorizontal="@dimen/margin_standard"
+    android:paddingVertical="@dimen/margin_x_standard"/>

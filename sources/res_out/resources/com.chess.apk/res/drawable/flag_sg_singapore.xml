@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="24dp"
+    android:width="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="24">
+    <group>
+        <clip-path android:pathData="m0,0h32v24h-32z"/>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m0,0h32v24h-32z"/>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m0,0v24h32v-24z"
+            android:fillType="evenOdd"/>
+        <group>
+            <clip-path
+                android:pathData="m0,0v24h32v-24z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#fa412d"
+                android:pathData="m0,0v12h32v-12z"
+                android:fillType="evenOdd"/>
+        </group>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m12.321,1.75 l0.353,1.087h1.142l-0.924,0.672 0.353,1.087 -0.924,-0.672 -0.924,0.672 0.353,-1.087 -0.924,-0.672h1.142z"/>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m9.571,3.75 l0.353,1.087h1.142l-0.924,0.672 0.353,1.087 -0.924,-0.672 -0.924,0.672 0.353,-1.087 -0.924,-0.672h1.142z"/>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m15.068,3.75 l0.353,1.087h1.142l-0.924,0.672 0.353,1.087 -0.924,-0.672 -0.924,0.672 0.353,-1.087 -0.924,-0.672h1.142z"/>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m10.571,6.75 l0.353,1.087h1.142l-0.924,0.672 0.353,1.087 -0.924,-0.672 -0.924,0.672 0.353,-1.087 -0.924,-0.672h1.142z"/>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m14.068,6.75 l0.353,1.087h1.142l-0.924,0.672 0.353,1.087 -0.924,-0.672 -0.924,0.672 0.353,-1.087 -0.924,-0.672h1.142z"/>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m7,1c0.523,0 1.027,0.08 1.5,0.229 -2.029,0.637 -3.5,2.533 -3.5,4.771 0,2.239 1.472,4.133 3.5,4.771 -0.474,0.149 -0.977,0.229 -1.5,0.229 -2.761,0 -5,-2.239 -5,-5s2.239,-5 5,-5z"/>
+    </group>
+</vector>

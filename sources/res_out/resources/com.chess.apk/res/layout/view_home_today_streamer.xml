@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardBackground"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="@dimen/margin_small"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:importantForAccessibility="no"
+        android:layout_marginStart="@dimen/margin_standard"/>
+    <TextView
+        android:textSize="15sp"
+        android:id="@+id/name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginStart="@dimen/margin_standard"
+        android:layout_marginEnd="@dimen/margin_standard"
+        style="@style/Bold"/>
+    <ImageView
+        android:id="@+id/stream_icon"
+        android:background="@drawable/stream_badge_background"
+        android:padding="2dp"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:importantForAccessibility="no"
+        android:layout_marginEnd="@dimen/margin_standard"
+        app:srcCompat="@drawable/glyph_media_signal_right"
+        app:tint="@color/white"/>
+</merge>

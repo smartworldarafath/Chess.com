@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:id="@+id/nextView"
+    android:paddingTop="@dimen/next_lesson_default_margin"
+    android:paddingBottom="@dimen/next_lesson_default_margin"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textSize="@dimen/text_size_normal"
+        android:textColor="@color/white_65"
+        android:gravity="center"
+        android:id="@+id/nextCourseSectionTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_standard"
+        android:text="@string/next_course"
+        android:textAllCaps="true"/>
+    <TextView
+        android:textSize="@dimen/text_size_large"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:id="@+id/nextCourseNameTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/next_lesson_default_margin"
+        android:fontFamily="@font/custom_bold"/>
+    <com.chess.internal.views.RaisedButton
+        android:theme="@style/PrimaryButtonTheme"
+        android:id="@+id/startCourseBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start_course"
+        app:cardBackgroundColor="@color/accent"/>
+</LinearLayout>

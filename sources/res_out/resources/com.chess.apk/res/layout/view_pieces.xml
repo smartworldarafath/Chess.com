@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal">
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="no">
+        <TextView
+            android:textSize="20dp"
+            android:ellipsize="end"
+            android:id="@+id/backgroundTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-4dp"
+            android:layout_marginBottom="-3dp"
+            android:minWidth="54dp"
+            android:maxLines="1"
+            android:includeFontPadding="false"
+            android:importantForAccessibility="no"
+            android:layout_marginStart="-8dp"/>
+        <TextView
+            android:textSize="20dp"
+            android:ellipsize="end"
+            android:id="@+id/frontTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-4dp"
+            android:layout_marginBottom="-3dp"
+            android:minWidth="54dp"
+            android:maxLines="1"
+            android:includeFontPadding="false"
+            android:importantForAccessibility="no"
+            android:layout_marginStart="-8dp"/>
+    </FrameLayout>
+    <TextView
+        android:textSize="11sp"
+        android:ellipsize="end"
+        android:layout_gravity="bottom"
+        android:id="@+id/pointsTv"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:includeFontPadding="false"
+        android:importantForAccessibility="no"/>
+</merge>

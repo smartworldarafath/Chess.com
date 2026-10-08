@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="daily_puzzle_correct_move_messages">
+        <item>Good eye! That’s the right move.</item>
+        <item>Nice job. That was the best move.</item>
+        <item>Yup. That’s the right idea.</item>
+        <item>I would’ve made the same move.</item>
+        <item>Nice!</item>
+        <item>Exactly!</item>
+        <item>Bingo!</item>
+        <item>You’re a natural!</item>
+        <item>That was the best move on the board.</item>
+        <item>Great job!</item>
+    </array>
+    <array name="daily_puzzle_hint_move_messages">
+        <item>Here is the best move.</item>
+        <item>Make this move to get unstuck.</item>
+        <item>Here’s a hint to get you thinking.</item>
+        <item>This is the best move.</item>
+        <item>This move will get you unstuck.</item>
+        <item>This is the right idea.</item>
+        <item>You should make this move.</item>
+        <item>This move is better than all the rest.</item>
+        <item>Here’s what I would play.</item>
+        <item>This move should help.</item>
+    </array>
+    <array name="daily_puzzle_hint_piece_messages">
+        <item>The best move is with this piece.</item>
+        <item>Keep your eye on this piece.</item>
+        <item>This piece could make a big difference here.</item>
+        <item>Look for a move with this piece.</item>
+        <item>There’s a game-changing move with this piece.</item>
+        <item>Look at this piece and imagine what comes next.</item>
+        <item>Do you see an attack, check, or capture with this piece?</item>
+        <item>The main idea involves this piece.</item>
+        <item>I’d look at this piece if I were you.</item>
+        <item>Look at every possible move with this piece.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_first_heart_loss_messages">
+        <item>That’s not the best move.</item>
+        <item>That’s a heart down, but you have more chances.</item>
+        <item>Don’t give up. You still have more chances.</item>
+        <item>That’s not right, but you still have four more chances.</item>
+        <item>Try to make the most of your remaining hearts.</item>
+        <item>Don’t sweat that one. You still have more hearts.</item>
+        <item>There’s a better move on the board. You still have four more attempts.</item>
+        <item>You lost a heart, but you still have four more attempts.</item>
+        <item>It’s okay. Trial and error will narrow down your options.</item>
+        <item>Forget about that mistake. You have four more attempts left.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_generic_messages">
+        <item>Not quite. Think carefully before spending another heart.</item>
+        <item>Look for checks, attacks, and captures.</item>
+        <item>Try using a hint if you’re stuck.</item>
+        <item>That’s not the best move. Try again.</item>
+        <item>There’s a better move on the board.</item>
+        <item>Take your time before spending a heart.</item>
+        <item>Remember to think about your opponent’s response.</item>
+        <item>Which move puts you in a better position?</item>
+        <item>Try again. There’s a better move.</item>
+        <item>I see what you’re thinking, but that’s not the best move.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_last_heart_remaining_messages">
+        <item>One heart remaining. Think carefully.</item>
+        <item>You’re on your last try. You got this.</item>
+        <item>Take your time. Only one heart remaining.</item>
+        <item>Really focus on this move. You only have one heart left.</item>
+        <item>Remember to look at every possible move on your last attempt.</item>
+        <item>This is your last chance to solve the puzzle.</item>
+        <item>You can still complete this puzzle with your last attempt remaining.</item>
+        <item>One heart left. You can do this!</item>
+        <item>That’s not the best move. You’ve got one more try left.</item>
+        <item>Stay focused. You have one more attempt left.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_out_of_hearts_messages">
+        <item>That was tricky. Come back tomorrow for another puzzle.</item>
+        <item>Out of hearts. See the solution or keep trying on your own.</item>
+        <item>That was your last heart. You can see the solution or keep trying.</item>
+        <item>There will be another puzzle to solve tomorrow.</item>
+        <item>See the solution or keep trying on your own?</item>
+        <item>Your hearts are gone, but you can keep trying if you want.</item>
+        <item>You can keep solving or see the solution.</item>
+        <item>Your hearts are gone, but you can keep trying.</item>
+        <item>You’re out of attempts. Keep trying or see the solution.</item>
+        <item>If you’re stuck, you can see the solution. If you think you have it, keep trying!</item>
+    </array>
+    <array name="daily_puzzle_solved_all_hearts_messages">
+        <item>Perfect! You didn’t make a mistake or use a hint.</item>
+        <item>No mistakes? Impressive!</item>
+        <item>That’s a perfect run! Nice job.</item>
+        <item>You didn’t even need a hint! Great work.</item>
+        <item>You made that look easy!</item>
+        <item>Perfect run, and you didn’t even spend a heart.</item>
+        <item>Nailed it! You didn’t spend any hearts.</item>
+        <item>Great job solving with no mistakes!</item>
+        <item>Wow! A perfect puzzle.</item>
+        <item>That’s right! You solved with no mistakes.</item>
+    </array>
+    <array name="daily_puzzle_solved_generic_messages">
+        <item>Nice! Watch the video to learn more about this puzzle.</item>
+        <item>Nailed it! That’s the right move.</item>
+        <item>Impressive! That was a tricky puzzle.</item>
+        <item>Yes! That move was key to this puzzle.</item>
+        <item>That’s a good puzzle to remember for the future.</item>
+        <item>That’s how it’s done! Remember, there’s a new puzzle every day.</item>
+        <item>Good eye! You found the right solution.</item>
+        <item>That puzzle was no match for you!</item>
+        <item>You’ve got a knack for solving puzzles.</item>
+        <item>Yes! That puzzle wasn’t easy.</item>
+    </array>
+    <array name="daily_puzzle_solved_no_hearts_messages">
+        <item>That was a tricky one. Try again tomorrow.</item>
+        <item>Come back tomorrow and try a new puzzle.</item>
+        <item>Now you know what you could’ve played. Watch this video to learn more.</item>
+        <item>Check out this video to learn about the best moves.</item>
+        <item>Try again tomorrow. Every puzzle is a chance to improve.</item>
+        <item>You’re out of hearts. Watch this video to learn about the best moves.</item>
+        <item>You missed the best moves, but there’s still something to learn.</item>
+        <item>Want to understand the best moves? Check out this video.</item>
+        <item>Nice try. You’ll get another chance tomorrow.</item>
+        <item>Hopefully this taught you something. Try again tomorrow.</item>
+    </array>
+    <array name="daily_puzzle_solved_one_heart_remaining_messages">
+        <item>You got it on your last heart. Nice job!</item>
+        <item>Crushed it, and with only one heart left.</item>
+        <item>That’s right! Nice job.</item>
+        <item>You nailed it with only one heart left!</item>
+        <item>Great job solving with only a heart left!</item>
+        <item>I knew you would solve that one.</item>
+        <item>Nice job solving today’s Daily Puzzle.</item>
+        <item>Wow! Remember those tactics for the future.</item>
+        <item>Just in time! You solved with only one heart remaining.</item>
+        <item>There you go! Great job.</item>
+    </array>
+    <array name="daily_puzzle_starting_position_messages">
+        <item>It’s your turn. Do you see the best move?</item>
+        <item>Your turn. There’s one move better than the rest.</item>
+        <item>How would you play in a real game?</item>
+        <item>It’s your time to shine. What’s the best move?</item>
+        <item>It’s your move. Try to think a couple moves ahead.</item>
+        <item>You have a good move. Do you see it?</item>
+        <item>There’s one move better than the rest on the board.</item>
+        <item>It’s your move. You can do this!</item>
+        <item>Think carefully before making your first move.</item>
+        <item>If you get stuck, you can spend a heart to get a hint.</item>
+    </array>
+    <array name="daily_puzzle_welcome_messages">
+        <item>Welcome! This is a fun one.</item>
+        <item>Today’s Daily Puzzle is a thinker.</item>
+        <item>I know you can solve the Daily Puzzle.</item>
+        <item>You’ve got this!</item>
+        <item>Expect some twists in today’s Daily Puzzle.</item>
+        <item>I know you can solve today’s Daily Puzzle.</item>
+        <item>Remember to use hints if you get stuck on today’s puzzle.</item>
+        <item>There are many possible moves but only one best move.</item>
+        <item>I believe in you!</item>
+        <item>Welcome! Today’s puzzle is tricky, so take your time.</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0,25-fach</item>
+        <item>0,5-fach</item>
+        <item>0,75-fach</item>
+        <item>Standard</item>
+        <item>1,25-fach</item>
+        <item>1,5-fach</item>
+        <item>2-fach</item>
+    </array>
+    <array name="game_review_placeholders_impersonal">
+        <item>Reviewing the game…</item>
+        <item>Calculating best lines…</item>
+        <item>One moment while I analyze…</item>
+        <item>Give me a second to review…</item>
+        <item>One second, analyzing now…</item>
+        <item>Give me a moment, reviewing now…</item>
+        <item>Hang tight, I’m almost done analyzing…</item>
+        <item>Hang tight, I’m almost done reviewing…</item>
+        <item>Almost there, one second…</item>
+        <item>Game Review loading…</item>
+        <item>Loading Game Review now…</item>
+        <item>Loading Game Review…</item>
+        <item>One moment…</item>
+        <item>Analyzing…</item>
+        <item>Admiring the pretty horse pieces…</item>
+    </array>
+    <array name="game_review_placeholders_personal">
+        <item>Reviewing your game…</item>
+        <item>Analyzing your game…</item>
+        <item>Checking your game…</item>
+        <item>Looking over your game…</item>
+        <item>Reviewing your moves…</item>
+        <item>Analyzing your moves…</item>
+        <item>Almost there, reviewing your moves…</item>
+        <item>Almost there, your game review is coming…</item>
+        <item>One moment while your Game Review loads…</item>
+        <item>Breaking down your game now…</item>
+        <item>One moment while I break your game down…</item>
+        <item>Your Game Review is loading…</item>
+    </array>
+    <array name="learningTilesArray">
+        <item>Oben Spiele, in denen du den gegnerischen Zug erwartest</item>
+        <item>Unten Alle Spiele</item>
+        <item>Aus</item>
+    </array>
+    <array name="loading_phrases">
+        <item>Suche immer nach Schachs, Schlagmöglichkeiten und Angriffen.</item>
+        <item>Die Sizilianische Verteidigung ist die beliebteste Antwort auf 1.e4.</item>
+        <item>Entwickle Figuren von den Ausgangsfeldern, um die Kontrolle über das Brett zu erhalten.</item>
+        <item>Die Dame zu früh in die Partie zu bringen, kann gefährlich sein.</item>
+        <item>Such nach Bauernzügen, die es Dir erlauben, Deine Figuren zu entwickeln.</item>
+        <item>In der Eröffnung die gleiche Figur zweimal zu ziehen, wird im Allgemeinen als Tempoverschwendung angesehen.</item>
+        <item>Der Bewertungsbalken zeigt nach jedem Zug den Vorteil der Stellung an.</item>
+        <item>Ein Patzer %Blunder% ist ein Zug, der die Stellung eines Spielers erheblich verschlechtert.</item>
+        <item>Verpasst %Miss% bedeutet, dass eine taktische Gelegenheit oder Chance, einen gegnerischen Fehler zu bestrafen, übersehen wurde.</item>
+        <item>Ein Fehler %Mistake% ist ein schlechter Zug, der die Stellung deutlich verschlechtert.</item>
+        <item>Ein ungenauer Zug %Inaccuracy% ist ein Zug, der eindeutig schlechter als der beste Zug ist.</item>
+        <item>Ein Theoriezug %Book% ist ein bekannter Zug der Eröffnungstheorie, der von starken Spielern regelmäßig gespielt wird.</item>
+        <item>Ein guter Zug %Good% ist gut, aber es hätte auch bessere Züge gegeben!</item>
+        <item>Ein exzellenter %Excellent% Zug ist im Wesentlichen der beste Zug: Darauf kannst du stolz sein!</item>
+        <item>Ein bester %Best% Zug ist der, den die Engine als besten Zug empfiehlt.</item>
+        <item>Ein großartiger Zug %Great% ist ein kritischer Zug, der den Partieverlauf verändert hat.</item>
+        <item>Ein brillanter %Brilliant% Zug bedeutet, dass Du ein großartiges Opfer gefunden hast.</item>
+        <item>Die Genauigkeit ist ein Maß dafür, wie nahe Deine Züge an den besten %Best% Zügen dran waren.</item>
+        <item>Learning a new opening is a fun way of keeping chess fresh.</item>
+        <item>After 3 moves there are 121 million possible positions.</item>
+        <item>Some believe the \"Greek Gift Sacrifice\" was named after Gioachino Greco, who was Italian.</item>
+        <item>Stanley Kubrick hustled chess in Washington Square Park to pay for food in his early 20s.</item>
+        <item>There are nearly 1,800 grandmasters in the world.</item>
+        <item>En passant is French for \"in passing\".</item>
+        <item>If \"rook\" comes from the Persian word \"rukh\" meaning chariot, why does the piece look like a tower?</item>
+        <item>Abhimanyu Mishra became the youngest grandmaster ever at the age of 12 years, 4 months, and 25 days.</item>
+        <item>The name \"Deep Blue\" came from a naming contest held by IBM and is a play on their nickname \"Big Blue.\"</item>
+        <item>Zugzwang is German for \"compulsion to move\" and happens when any move made puts the player at a disadvantage.</item>
+        <item>The chess game played in Blade Runner is a recreation of the \"Immortal Game\" between Adolf Anderssen and Lionel Kiseritzky in 1851.</item>
+        <item>There are 960 legal starting positions in a game of Chess960.</item>
+        <item>English chess masters were recruited as code breakers during World War II.</item>
+        <item>Until the mid-1800s, chess games were played without a time limit.</item>
+        <item>Until the 1600s, castling required two moves.</item>
+        <item>The current format for writing chess moves down, algebraic notation, was formalized in 1981.</item>
+        <item>The first chess computer, The Mechanical Turk, was actually just a guy hiding in a box pretending to be an automaton.</item>
+        <item>The last time checkmate happened in a World Championship match was 1929.</item>
+        <item>In 1951, IM Robert Wade played a simultaneous exhibition against 30 Russian schoolboys. Wade won 0 games, drew 10, and lost the other 20.</item>
+        <item>The quickest checkmate possible is only 2 moves.</item>
+        <item>World Champion Alexander Alekhine had a cat named \"Chess\".</item>
+        <item>During the 1978 World Championship, Anatoly Karpov hired a hypnotist to sit in the front row and stare at his opponent.</item>
+        <item>World Champion Mikhail Tal only had 3 fingers on his right hand.</item>
+        <item>The Evans Gambit is named after 19th Century Welsh sea captain William Davies Evans.</item>
+        <item>The 1984–85 World Championship was abandoned after 5 months and 48 games for the health of the players.</item>
+        <item>The longest chess game in the history of the World Championship was game 6 of the 2021 World Championship, at 136 moves.</item>
+        <item>\"The blunders are all there on the board, waiting to be made.\" - Savielly Tartakower</item>
+        <item>\"There are two types of sacrifices: Correct ones, and mine.\" - Mikhail Tal</item>
+        <item>\"Chess is the gymnasium of the mind.\" - Blaise Pascal</item>
+        <item>\"Even a poor plan is better than no plan at all.\" - Mikhail Chigorin</item>
+        <item>\"The winner of the game is the player who makes the next to last mistake.\" - Savielly Tartakower</item>
+        <item>\"I am Alekhine, chess champion of the world. I have a cat called Chess.\" - Alexander Alekhine, when stopped at the Polish-Russian border without a passport.</item>
+        <item>\"Chess problems demand from the composer the same virtues that characterize all worthwhile art.\" - Vladimir Nabokov</item>
+        <item>\"Chess is a matter of delicate judgment, knowing when to punch and how to duck.\" - Bobby Fischer</item>
+        <item>\"Steady effort pays off, even if not always in an immediate, tangible way.\" - Garry Kasparov</item>
+        <item>\"A passed pawn increases in strength as the number of pieces on the board diminishes.\" - Jose Raul Capablanca</item>
+        <item>\"Chess is the art which expresses the science of logic.\" - Mikhail Botvninnik</item>
+        <item>\"If revenge motivates you, go for it!\" - Viswanathan Anand</item>
+        <item>\"If you want to play well, it\'s important to concentrate on the now.\" - Vassily Ivanchuk</item>
+        <item>\"The biggest challenge is to fulfill your own ideas about yourself\" - Judit Polgar</item>
+        <item>%websiteName% was founded in 2005 by two college friends, Erik and Jay.</item>
+        <item>%websiteName% members play over a billion games a month!</item>
+    </array>
+    <array name="offline_coach_messages">
+        <item>Ah, my favorite student! It’s good to see you.</item>
+        <item>Welcome back. It’s great to see you.</item>
+        <item>It’s nice to see you, my friend.</item>
+        <item>If it isn’t my favorite student. Hello!</item>
+        <item>It’s a beautiful day to play some chess.</item>
+        <item>A puzzle a day keeps the bad moves away.</item>
+        <item>One puzzle a day keeps blunders away.</item>
+        <item>Want to level up? Start with a puzzle.</item>
+        <item>I’m ready to teach if you’re ready to learn.</item>
+        <item>What chess activity do you want to do?</item>
+        <item>What are you going to focus on today?</item>
+        <item>If you need anything, I’m here to help you learn.</item>
+        <item>Learning new chess openings can be so exciting.</item>
+        <item>My favorite part of teaching is seeing my students improve.</item>
+        <item>Playing chess is a fun way to keep your brain sharp.</item>
+        <item>When I don’t feel like playing a game, I do a few puzzles instead.</item>
+        <item>Lass uns heute eine neue Schachstrategie lernen.</item>
+        <item>How’s it going? Ready to play some chess?</item>
+        <item>It’s always great to see you. Welcome back.</item>
+        <item>Ah yes, welcome back!</item>
+        <item>Good to see you! It’s better here when you’re around.</item>
+        <item>Win or lose, every game teaches you something.</item>
+        <item>Chess trains focus, logic, and imagination all at once!</item>
+        <item>Look who’s here! My favorite chess player returns.</item>
+        <item>You play the games, I’ll help you understand them.</item>
+        <item>I’m your coach. I’ll help you learn, improve, and see chess in new ways.</item>
+        <item>I’m here to help you learn, review your games, and uncover your best moves.</item>
+        <item>Ich bin echt froh, dass du da bist! Lass uns zusammen spielen und was Neues lernen.</item>
+        <item>Great to see you again. I’m glad you’re taking time for chess today.</item>
+        <item>Willkommen zurück! Machen wir einfach da weiter, wo du aufgehört hast.</item>
+        <item>Schön, dich wiederzusehen! Lass uns heute was Neues lernen.</item>
+        <item>Puzzles are a quick way to stay sharp.</item>
+        <item>Play a bot for a low-stress way to improve!</item>
+        <item>Want to warm up with some puzzles?</item>
+        <item>Welcome! I hope you like learning as much as I like coaching!</item>
+        <item>Want to learn something new today? Try a lesson!</item>
+        <item>Good to see you! I love seeing my students get better at chess.</item>
+        <item>Chess is always exciting. Did you know most games are unique among billions of possibilities?</item>
+        <item>Want to improve? Make chess part of your daily routine!</item>
+        <item>There’s always something new to learn in chess. Where should we start?</item>
+        <item>One of my favorite ways to keep chess fresh is to learn a new opening!</item>
+        <item>By the way, if you play a game against a bot, you can play with hints and takebacks.</item>
+        <item>You’re here, so it must be time for chess!</item>
+        <item>Every move is a step forward. Great job showing up to the board.</item>
+        <item>Consistent effort leads to real progress.</item>
+        <item>Focus today will pay off tomorrow.</item>
+        <item>Glad to have you back. Ready to play?</item>
+        <item>Chess rewards patience and discipline.</item>
+        <item>Glad to have you back. Ready to learn?</item>
+        <item>Progress is built over many small improvements.</item>
+        <item>Welcome! This is where good habits are built.</item>
+        <item>Ready to test your chess skills?</item>
+        <item>Willkommen zurück! Mal sehen, was du heute so drauf hast.</item>
+    </array>
+    <array name="puzzles_coach_comments_10_in_a_row">
+        <item>Das sind 10 in Folge! Unglaublich, wie du das machst!</item>
+        <item>Du hast eine unglaubliche Erfolgsserie!</item>
+        <item>Deine Sicht ist hervorragend! Das sind 10 in Folge!</item>
+        <item>Zehn perfekte Taktikaufgaben in Folge!? Fantastisch!</item>
+        <item>Legendäre Erfolgsserie! Du löst alles!</item>
+    </array>
+    <array name="puzzles_coach_comments_3_in_a_row">
+        <item>Drei hintereinander! Hör jetzt nicht auf!</item>
+        <item>Du machst das super!</item>
+        <item>1-2-3 in Folge! Tolle Leistung!</item>
+        <item>Bei dir sieht das ganz einfach aus!</item>
+        <item>Toller Zug! Du hast eine Glückssträhne!</item>
+    </array>
+    <array name="puzzles_coach_comments_5_in_a_row">
+        <item>Wow! Du bist echt gut in Form!</item>
+        <item>Fünf in Folge! Das ist großartig!</item>
+        <item>Diese Taktikaufgaben sind zu einfach für dich!</item>
+        <item>Mach weiter so! Du machst das toll!</item>
+        <item>Du bist gut im Lösen von Taktikaufgaben!</item>
+    </array>
+    <array name="puzzles_coach_comments_7_in_a_row">
+        <item>Deine Genauigkeit ist sehr beeindruckend!</item>
+        <item>Dein Brett steht in Flammen! Das sind sieben Richtige in Folge!</item>
+        <item>Du siehst alles! Ausgezeichnet.</item>
+        <item>Du könntest das hauptberuflich machen… wenn es so etwas gäbe.</item>
+        <item>Sieben Taktikaufgaben hintereinander?! Genial!</item>
+    </array>
+    <array name="puzzles_coach_comments_general">
+        <item>Gut gemacht!</item>
+        <item>Ja! Genau so!</item>
+        <item>Gut gelöst!</item>
+        <item>Perfekt! Gute Arbeit.</item>
+        <item>Super! Du hast die Lösung gefunden!</item>
+        <item>Du hast es geschafft! Gut gemacht!</item>
+        <item>Volltreffer! Genau so ist es.</item>
+        <item>Sehr gut!</item>
+        <item>Du hast die Lösung gefunden. Ausgezeichnet!</item>
+        <item>Richtig! Gut gespielt.</item>
+        <item>Gut gemacht!</item>
+        <item>Fantastisch!</item>
+        <item>Großartig!</item>
+        <item>Ja, genau! Du hast es!</item>
+        <item>Sehr gut gelöst!</item>
+        <item>Clever gespielt!</item>
+        <item>Das ist richtig! Gut gespielt!</item>
+        <item>Deine Augen sind echt gut! Tolle Arbeit!</item>
+        <item>Tolles Spiel! Du hast es geschafft!</item>
+        <item>Tolles Spiel!</item>
+    </array>
+    <array name="puzzles_coach_comments_solution_shown">
+        <item>Hier ist die richtige Antwort.</item>
+        <item>Hier ist die Lösung der Taktikaufgabe.</item>
+        <item>Guter Versuch! Hier ist die richtige Antwort.</item>
+        <item>Was für eine knifflige Taktikaufgabe. Probieren wir noch eine.</item>
+        <item>Mal sehen, ob du dir dieses Muster merken kannst.</item>
+        <item>Selbst meine besten Schüler lösen nicht alle Taktikaufgaben richtig.</item>
+        <item>Mach dir keine Sorgen. Nächstes Mal schaffst du es!</item>
+        <item>Wiederhole diese Aufgabe und versuche, dir das Muster zu merken.</item>
+        <item>Wiederhole diese Aufgabe und versuche, jeden Zug zu verstehen!</item>
+        <item>Coach zur Rettung! Was für eine lustige Aufgabe.</item>
+        <item>Das ist okay. Taktikaufgaben sind manchmal knifflig!</item>
+        <item>Ich helfe immer gerne!</item>
+        <item>Das war ein guter Versuch. Bereit für eine weitere Aufgabe?</item>
+        <item>Schau dir die Aufgabe an und versuche, die Züge zu verstehen.</item>
+        <item>Du kannst eine Taktikaufgabe jederzeit zum Üben wiederholen.</item>
+        <item>Guter Versuch! Bist du bereit für eine neue Aufgabe?</item>
+    </array>
+    <array name="puzzles_coach_home_array">
+        <item>Das Lösen von Taktikaufgaben ist die beste Methode, um Mustererkennung und taktisches Geschick zu entwickeln.</item>
+        <item>Man sagt, dass Schach zu 99% aus Taktik besteht... Gute Neuigkeiten! Genau darum geht es bei den Taktikaufgaben.</item>
+        <item>Wenn du jeden Tag Taktikaufgaben absolvierst, fällt es dir leichter, die Fehler deiner Gegner zu erkennen.</item>
+        <item>Tägliche Taktikaufgaben helfen dir, sichere Züge für deine eigenen Partien zu wählen.</item>
+        <item>Taktikaufgaben helfen dir, deine Eröffnungen sicherer, deine Mittelspiele selbstbewusster und deine Endspiele genauer zu spielen.</item>
+        <item>Taktikaufgaben sind großartig, um dein Schachspiel zu trainieren und zu verbessern - und sie machen auch noch jede Menge Spaß!</item>
+        <item>Wenn du eine Taktikaufgabe falsch gelöst hast, solltest du es immer noch einmal versuchen und die Lösung durchgehen, um zu sehen, was du übersehen hast.</item>
+        <item>Hast du Lust, die Dinge zu beschleunigen? Erhalte Punkte für schnelles Lösen im Puzzle Rush, wo dein dritter Fehler dein letzter ist!</item>
+        <item>Wenn du ein paar Minuten Zeit hast, wird der Puzzle Rush dein Gehirn trainieren!</item>
+        <item>Wusstest du, dass die täglichen Taktikaufgaben im Laufe der Woche schwieriger werden? Sonntagsaufgaben sind anspruchsvoll!</item>
+        <item>Verpasse keine Taktikaufgabe!</item>
+        <item>Zeit, deine taktischen Muskeln mit ein paar Taktikaufgaben zu trainieren?</item>
+        <item>Es ist Zeit, die Lösung zu finden!</item>
+        <item>In jeder Taktikaufgabe funktioniert nur ein Zug... Kannst du ihn finden?</item>
+        <item>Willkommen zurück! Machen wir uns ans Lösen…</item>
+        <item>Lust auf Geschwindigkeit? Wie wäre es mit einer Runde Puzzle Rush?</item>
+        <item>Du denkst, du bist schneller als die meisten im Lösen von Taktikaufgaben? Wärme dich mit einem Puzzle Battle auf!</item>
+    </array>
+    <array name="skills_name">
+        <item>Anfänger</item>
+        <item>Fortgeschrittener</item>
+        <item>Mittleres Niveau</item>
+        <item>Überdurchschnittlich</item>
+        <item>Experte+</item>
+    </array>
+</resources>

@@ -1,0 +1,4 @@
+package=com.chess.features.play.gameover.compose
+file=GameOverPlayModalContentV2
+private:GameOverModalContentPreview:provider=com.chess.features.play.gameover.compose.base.AnalysisStatePreviewParameterProvider
+private:AbortedGameOverModalContentPreview

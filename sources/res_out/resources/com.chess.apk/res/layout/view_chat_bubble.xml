@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_gravity="top"
+        android:id="@+id/chatBubbleArrow"
+        android:visibility="gone"
+        android:layout_width="@dimen/half_margin_standard"
+        android:layout_height="@dimen/half_margin_standard"
+        android:rotation="180"
+        android:importantForAccessibility="no"
+        android:layout_marginStart="@dimen/margin_small"
+        app:srcCompat="@drawable/chat_arrow_tail_white"
+        app:tint="@color/white"/>
+    <TextView
+        android:textColor="@color/black"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/chatMessage"
+        android:background="@drawable/status_chat_bubble"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:lines="1"
+        style="@style/ChatBubbleText"/>
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_gravity="center_vertical"
+        android:id="@+id/animationView"
+        android:visibility="gone"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="@dimen/margin_x_small"/>
+    <ImageView
+        android:layout_gravity="center_vertical"
+        android:id="@+id/emote"
+        android:visibility="gone"
+        android:layout_width="@dimen/large_icon_size"
+        android:layout_height="@dimen/large_icon_size"
+        android:importantForAccessibility="no"
+        android:layout_marginHorizontal="@dimen/margin_small"/>
+</merge>

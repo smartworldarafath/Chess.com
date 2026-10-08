@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_feed_comments">
+        <item quantity="one">%d commentaire</item>
+        <item quantity="other">%d commentaires</item>
+    </plurals>
+    <plurals name="activity_feed_current_streak">
+        <item quantity="one">Série actuelle : %d jour</item>
+        <item quantity="other">Série actuelle : %d jours</item>
+    </plurals>
+    <plurals name="activity_feed_draws_chip">
+        <item quantity="one">%d nulle</item>
+        <item quantity="other">%d nulles</item>
+    </plurals>
+    <plurals name="activity_feed_losses_chip">
+        <item quantity="one">%d défaite</item>
+        <item quantity="other">%d défaites</item>
+    </plurals>
+    <plurals name="activity_feed_pin_limit">
+        <item quantity="one">Vous pouvez épingler maximum %d publication. Désépinglez une publication pour en ajouter une autre.</item>
+        <item quantity="other">Vous pouvez épingler maximum %d publications. Désépinglez une publication pour en ajouter une autre.</item>
+    </plurals>
+    <plurals name="activity_feed_played_games">
+        <item quantity="one">A joué %d partie</item>
+        <item quantity="other">A joué %d parties</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_points">
+        <item quantity="one">%d point de résolution</item>
+        <item quantity="other">%d points de résolution</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_streak">
+        <item quantity="one">%d problème résolu d’affilée</item>
+        <item quantity="other">%d problèmes résolus d’affilée</item>
+    </plurals>
+    <plurals name="activity_feed_reactions">
+        <item quantity="one">%d réaction</item>
+        <item quantity="other">%d réactions</item>
+    </plurals>
+    <plurals name="activity_feed_streak_milestone_value">
+        <item quantity="one">%d jour</item>
+        <item quantity="other">%d jours</item>
+    </plurals>
+    <plurals name="activity_feed_wins_chip">
+        <item quantity="one">%d victoire</item>
+        <item quantity="other">%d victoires</item>
+    </plurals>
+    <plurals name="add_x_friends">
+        <item quantity="one">+ Ajouter %d ami</item>
+        <item quantity="other">+ Ajouter %d amis</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_user">
+        <item quantity="one">Jouez %d partie pour obtenir votre classement</item>
+        <item quantity="other">Jouez %d parties pour obtenir votre classement</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_visitor">
+        <item quantity="one">Les statistiques apparaîtront après %d partie</item>
+        <item quantity="other">Les statistiques apparaîtront après %d parties</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_decreased">
+        <item quantity="one">Diminution de %d point</item>
+        <item quantity="other">Diminution de %d points</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_increased">
+        <item quantity="one">Augmentation de %d point</item>
+        <item quantity="other">Augmentation de %d points</item>
+    </plurals>
+    <plurals name="app_update_message_no_action">
+        <item quantity="one">Cette version de l’app expirera dans %1$d jour. Veuillez la mettre à jour.</item>
+        <item quantity="other">Cette version de l’app expirera dans %1$d jours. Veuillez la mettre à jour.</item>
+    </plurals>
+    <plurals name="app_update_message_with_action">
+        <item quantity="one">Cette version de l’app expirera dans %1$d jour.</item>
+        <item quantity="other">Cette version de l’app expirera dans %1$d jours.</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_crowns">
+        <item quantity="one">%1$s, classement %2$s, vous avez %3$d couronne</item>
+        <item quantity="other">%1$s, classement %2$s, vous avez %3$d couronnes</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_points">
+        <item quantity="one">%1$s, classement %2$s, gagnez %3$d point</item>
+        <item quantity="other">%1$s, classement %2$s, gagnez %3$d points</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_hours">
+        <item quantity="one">Votre jeu en ligne est actuellement restreint parce que vous avez enfreint notre &lt;a href=%1$s&gt;Politique communautaire&lt;/a&gt;. Vous pourrez jouer à nouveau dans %2$d heure.</item>
+        <item quantity="other">Votre jeu en ligne est actuellement restreint parce que vous avez enfreint notre &lt;a href=%1$s&gt;Politique communautaire&lt;/a&gt;. Vous pourrez jouer à nouveau dans %2$d heures.</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_minutes">
+        <item quantity="one">Votre jeu en ligne est actuellement restreint parce que vous avez enfreint notre &lt;a href=%1$s&gt;Politique communautaire&lt;/a&gt;. Vous pourrez jouer à nouveau dans %2$d minute.</item>
+        <item quantity="other">Votre jeu en ligne est actuellement restreint parce que vous avez enfreint notre &lt;a href=%1$s&gt;Politique communautaire&lt;/a&gt;. Vous pourrez jouer à nouveau dans %2$d minutes.</item>
+    </plurals>
+    <plurals name="coach_nudge_board_highlighted_squares">
+        <item quantity="one">Échiquier avec %d case surlignée</item>
+        <item quantity="other">Échiquier avec %d cases surlignées</item>
+    </plurals>
+    <plurals name="daily_puzzle_keep_streak_alive">
+        <item quantity="one">Poursuivez votre série de %d jour !</item>
+        <item quantity="other">Poursuivez votre série de %d jours !</item>
+    </plurals>
+    <plurals name="daily_seeks_modal_subtitle">
+        <item quantity="one">Votre adversaire a %d jour pour jouer son coup.</item>
+        <item quantity="other">Votre adversaire a %d jours pour jouer son coup.</item>
+    </plurals>
+    <plurals name="daily_seeks_pending_modal_subtitle">
+        <item quantity="one">Après que votre adversaire a accepté votre défi, il aura %d jour pour jouer son premier coup.</item>
+        <item quantity="other">Après que votre adversaire a accepté votre défi, il aura %d jours pour jouer son premier coup.</item>
+    </plurals>
+    <plurals name="event_reward_points_to_unlock">
+        <item quantity="one">%1$d %%tokenIcon%% pour débloquer</item>
+        <item quantity="other">%1$d %%tokenIcon%% pour débloquer</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Avancer de %d seconde</item>
+        <item quantity="other">Avancer de %d secondes</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Revenir en arrière de %d seconde</item>
+        <item quantity="other">Revenir en arrière de %d secondes</item>
+    </plurals>
+    <plurals name="first_daily_move_game_message_plural">
+        <item quantity="one">Ceci est une partie d’échecs en différé où votre adversaire a jusqu’à %d jour pour jouer.</item>
+        <item quantity="other">Ceci est une partie d’échecs en différé où votre adversaire a jusqu’à %d jours pour jouer.</item>
+    </plurals>
+    <plurals name="first_daily_move_message_plural">
+        <item quantity="one">Votre adversaire a maintenant %d jour pour jouer.</item>
+        <item quantity="other">Votre adversaire a maintenant %d jours pour jouer.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_game_count">
+        <item quantity="one">Jouée %1$d fois.</item>
+        <item quantity="other">Jouée %1$d fois.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_opening_stats">
+        <item quantity="one">Vous avez joué cette ouverture %1$d fois, avec un taux de victoire de %2$s.</item>
+        <item quantity="other">Vous avez joué cette ouverture %1$d fois, avec un taux de victoire de %2$s.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_revised_opening_stats">
+        <item quantity="one">Jouée %1$d fois. %2$s de victoires.</item>
+        <item quantity="other">Jouée %1$d fois. %2$s de victoires.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nouvelle notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+    </plurals>
+    <plurals name="play_more_blitz_games_count">
+        <item quantity="one">Jouez %d partie blitz pour avoir un classement !</item>
+        <item quantity="other">Jouez encore %d parties blitz pour avoir un classement !</item>
+    </plurals>
+    <plurals name="play_more_bullet_games_count">
+        <item quantity="one">Jouez %d partie bullet pour avoir un classement !</item>
+        <item quantity="other">Jouez encore %d parties bullet pour avoir un classement !</item>
+    </plurals>
+    <plurals name="play_more_chess960_games_count">
+        <item quantity="one">Jouez %d partie d’échecs 960 pour avoir un classement !</item>
+        <item quantity="other">Jouez encore %d parties d’échecs 960 pour avoir un classement !</item>
+    </plurals>
+    <plurals name="play_more_rapid_games_count">
+        <item quantity="one">Jouez %d partie rapide pour avoir un classement !</item>
+        <item quantity="other">Jouez encore %d parties rapides pour avoir un classement !</item>
+    </plurals>
+    <plurals name="plural_day_streak">
+        <item quantity="one">Série de %d jour</item>
+        <item quantity="other">Série de %d jours</item>
+    </plurals>
+    <plurals name="plural_day_streak_">
+        <item quantity="one">jour de suite !</item>
+        <item quantity="other">jours de suite !</item>
+    </plurals>
+    <plurals name="plural_puzzle_path_you_have_prestiged">
+        <item quantity="one">Vous avez atteint le prestige %dx</item>
+        <item quantity="other">Vous avez atteint le prestige %dx</item>
+    </plurals>
+    <plurals name="plural_streak_days">
+        <item quantity="one">%d jour</item>
+        <item quantity="other">%d jours</item>
+    </plurals>
+    <plurals name="puzzle_bonus_reward_x_label">
+        <item quantity="one">Récompense : %d point</item>
+        <item quantity="other">Récompense : %d points</item>
+    </plurals>
+    <plurals name="puzzle_bonus_x_daily_subtitle">
+        <item quantity="one">%d problème résolu</item>
+        <item quantity="other">%d problèmes résolus</item>
+    </plurals>
+    <plurals name="puzzle_path_x_friends_passed_this_tier_already">
+        <item quantity="one">%d ami a déjà passé ce palier</item>
+        <item quantity="other">%d amis ont déjà passé ce palier</item>
+    </plurals>
+    <plurals name="puzzles_rated_subtitle">
+        <item quantity="one">Entraînez-vous avec plus de %d problème</item>
+        <item quantity="other">Entraînez-vous avec plus de %d problèmes</item>
+    </plurals>
+    <plurals name="relative_date_x_days_ago">
+        <item quantity="one">Il y a %d jour</item>
+        <item quantity="other">Il y a %d jours</item>
+    </plurals>
+    <plurals name="stats_chess_com_players">
+        <item quantity="one">Joueur Chess.com</item>
+        <item quantity="other">Joueurs Chess.com</item>
+    </plurals>
+    <plurals name="stats_games_today">
+        <item quantity="one">Partie du jour</item>
+        <item quantity="other">Parties du jour</item>
+    </plurals>
+    <plurals name="stats_masters_playing_now">
+        <item quantity="one">Maître en train de jouer</item>
+        <item quantity="other">Maîtres en train de jouer</item>
+    </plurals>
+    <plurals name="stats_playing_now">
+        <item quantity="one">En train de jouer</item>
+        <item quantity="other">En train de jouer</item>
+    </plurals>
+    <plurals name="upgrade_puzzles_count">
+        <item quantity="one">Plus de %d.000 problèmes</item>
+        <item quantity="other">Plus de %d.000 problèmes</item>
+    </plurals>
+    <plurals name="user_profile_provisional_tile">
+        <item quantity="one">Jouer %d partie</item>
+        <item quantity="other">Jouer %d parties</item>
+    </plurals>
+    <plurals name="x_bishop">
+        <item quantity="one">%d Fou</item>
+        <item quantity="other">%d Fous</item>
+    </plurals>
+    <plurals name="x_challenges">
+        <item quantity="one">%d défi</item>
+        <item quantity="other">%d défis</item>
+    </plurals>
+    <plurals name="x_contacts_found">
+        <item quantity="one">%d contact trouvé</item>
+        <item quantity="other">%d contacts trouvés</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="one">%d jour</item>
+        <item quantity="other">%d jours</item>
+    </plurals>
+    <plurals name="x_days_in_a_row_new">
+        <item quantity="one">%d jour d’affilée !</item>
+        <item quantity="other">%d jours d’affilée !</item>
+    </plurals>
+    <plurals name="x_days_move">
+        <item quantity="one">%1$d jour/coup</item>
+        <item quantity="other">%1$d jours/coup</item>
+    </plurals>
+    <plurals name="x_days_short">
+        <item quantity="one">%d j</item>
+        <item quantity="other">%d j</item>
+    </plurals>
+    <plurals name="x_friends_added">
+        <item quantity="one">%d ami ajouté !</item>
+        <item quantity="other">%d amis ajoutés !</item>
+    </plurals>
+    <plurals name="x_friends_online">
+        <item quantity="one">%d ami en ligne</item>
+        <item quantity="other">%d amis en ligne</item>
+    </plurals>
+    <plurals name="x_games_analyzed">
+        <item quantity="one">%1$d Partie analysée</item>
+        <item quantity="other">%1$d Parties analysées</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="one">%d heure</item>
+        <item quantity="other">%d heures</item>
+    </plurals>
+    <plurals name="x_hours_short">
+        <item quantity="one">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="x_knight">
+        <item quantity="one">%d Cavalier</item>
+        <item quantity="other">%d Cavaliers</item>
+    </plurals>
+    <plurals name="x_lessons">
+        <item quantity="one">%d Leçon</item>
+        <item quantity="other">%d Leçons</item>
+    </plurals>
+    <plurals name="x_min">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="x_minutes_short">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="x_months">
+        <item quantity="one">%d mois</item>
+        <item quantity="other">%d mois</item>
+    </plurals>
+    <plurals name="x_new_announcements">
+        <item quantity="one">%d nouvelle annonce</item>
+        <item quantity="other">%d nouvelles annonces</item>
+    </plurals>
+    <plurals name="x_new_notes">
+        <item quantity="one">%d nouvelle note</item>
+        <item quantity="other">%d nouvelles notes</item>
+    </plurals>
+    <plurals name="x_new_posts">
+        <item quantity="one">%d nouvelle publication</item>
+        <item quantity="other">%d nouvelles publications</item>
+    </plurals>
+    <plurals name="x_new_topics">
+        <item quantity="one">%d nouveau sujet</item>
+        <item quantity="other">%d nouveaux sujets</item>
+    </plurals>
+    <plurals name="x_num_points">
+        <item quantity="one">%d Point</item>
+        <item quantity="other">%d Points</item>
+    </plurals>
+    <plurals name="x_pawn">
+        <item quantity="one">%d Pion</item>
+        <item quantity="other">%d Pions</item>
+    </plurals>
+    <plurals name="x_puzzles_solved_new">
+        <item quantity="one">%d problème résolu !</item>
+        <item quantity="other">%d problèmes résolus !</item>
+    </plurals>
+    <plurals name="x_queen">
+        <item quantity="one">%d Dame</item>
+        <item quantity="other">%d Dames</item>
+    </plurals>
+    <plurals name="x_rook">
+        <item quantity="one">%d Tour</item>
+        <item quantity="other">%d Tours</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d secondes</item>
+    </plurals>
+    <plurals name="x_seconds_short">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="x_trophies">
+        <item quantity="one">%d trophée</item>
+        <item quantity="other">%d trophées</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="one">%d an</item>
+        <item quantity="other">%d ans</item>
+    </plurals>
+</resources>

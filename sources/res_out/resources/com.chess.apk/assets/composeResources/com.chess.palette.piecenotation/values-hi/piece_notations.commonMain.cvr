@@ -1,0 +1,6 @@
+version:0
+string|piece_notation_bishop|4KSs
+string|piece_notation_king|4KSV
+string|piece_notation_knight|4KSoIA==
+string|piece_notation_queen|UQ==
+string|piece_notation_rook|4KSw

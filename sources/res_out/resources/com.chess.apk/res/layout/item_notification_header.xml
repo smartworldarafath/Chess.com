@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textSize="18sp"
+    android:gravity="center_vertical"
+    android:id="@+id/notificationHeaderTxt"
+    android:background="@color/black_20"
+    android:paddingTop="@dimen/half_margin_standard"
+    android:paddingBottom="@dimen/half_margin_standard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textDirection="locale"
+    android:paddingStart="@dimen/margin_standard"
+    android:paddingEnd="@dimen/margin_standard"/>

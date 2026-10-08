@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.chess.internal.views.BottomButton
+        android:id="@+id/confirm"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/conditional_moves.option.confirm"
+        app:icon="@drawable/glyph_mark_check"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/add_line"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_max="@dimen/bottom_button_max_width"
+        app:text="@string/conditional_moves.option.confirm"/>
+    <com.chess.internal.views.BottomButton
+        android:id="@+id/add_line"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/conditional_moves.option.add_line"
+        app:icon="@drawable/glyph_mark_plus"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/delete_move"
+        app:layout_constraintStart_toEndOf="@+id/confirm"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_max="@dimen/bottom_button_max_width"
+        app:text="@string/conditional_moves.option.add_line"/>
+    <com.chess.internal.views.BottomButton
+        android:id="@+id/delete_move"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/conditional_moves.option.delete_move"
+        app:icon="@drawable/glyph_arrow_spin_undo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/add_line"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_max="@dimen/bottom_button_max_width"
+        app:text="@string/conditional_moves.option.delete_move"/>
+</merge>

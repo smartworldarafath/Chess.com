@@ -1,0 +1,13 @@
+package=com.chess.features.play.gameover.compose.base
+file=GameOverModalWidthUtils
+private:SmallPhonePortraitSmallAdPreview
+private:MidPhonePortraitBigAdPreview
+private:BigPhonePortraitBigAdPreview
+private:TabletPortraitBigAdPreview
+private:TabletLandscapeBigAdPreview
+private:PhoneLandscapeBigAdPreview
+private:SmallScreenNoAdPreview
+private:MediumScreenNoAdPreview
+private:LargeScreenNoAdPreview
+private:TabletPortraitNoAdPreview
+private:TabletLandscapeNoAdPreview

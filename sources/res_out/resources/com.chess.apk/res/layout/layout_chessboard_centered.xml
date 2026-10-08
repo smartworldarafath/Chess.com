@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clipChildren="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/topViewContainer"
+        android:clipChildren="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/cbl_container_centered_vertical_margin"
+        android:layout_marginBottom="@dimen/cbl_container_centered_vertical_margin"
+        android:layout_marginStart="@dimen/cbl_container_centered_horizontal_margin"
+        android:layout_marginEnd="@dimen/cbl_container_centered_horizontal_margin"
+        app:layout_constrainedHeight="true"
+        app:layout_constraintBottom_toTopOf="@+id/chessBoardViewContainer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <FrameLayout
+        android:id="@+id/chessBoardViewContainer"
+        android:clipChildren="false"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintDimensionRatio="1:1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+    <FrameLayout
+        android:id="@+id/bottomViewContainer"
+        android:clipChildren="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/cbl_container_centered_vertical_margin"
+        android:layout_marginBottom="@dimen/cbl_container_centered_vertical_margin"
+        android:layout_marginStart="@dimen/cbl_container_centered_horizontal_margin"
+        android:layout_marginEnd="@dimen/cbl_container_centered_horizontal_margin"
+        app:layout_constrainedHeight="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chessBoardViewContainer"/>
+    <FrameLayout
+        android:id="@+id/topViewOverlayContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</merge>

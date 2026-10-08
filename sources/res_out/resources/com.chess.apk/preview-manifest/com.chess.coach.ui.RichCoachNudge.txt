@@ -1,0 +1,12 @@
+package=com.chess.coach.ui
+file=RichCoachNudge
+private:RichCoachNudgeWithCloseButtonPreview
+private:RichCoachNudgePlayCoachPreview
+private:RichCoachNudgeBubbleHiddenPreview
+private:RichCoachNudgePuzzlesPreview
+private:RichCoachNudgeLessonsPreview
+private:RichCoachNudgeGameReviewPreview
+private:RichCoachNudgeFallbackPreview
+private:RichCoachNudgeDevicePreview
+private:RichCoachNudgeLandscapePreview
+private:RichCoachNudgeFontScalePreview

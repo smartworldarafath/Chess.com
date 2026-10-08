@@ -1,0 +1,107 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: cqpObWjKHewb/tFjg6ulLiLtkis=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: N95yOr2rp13EEXh1HfRBgpRUrQ8=
+
+Name: lib/armeabi-v7a/libNitroMmkv.so
+SHA1-Digest: LGZ4Ep5M2Zdjp3AOToPIXQ9FolY=
+
+Name: lib/armeabi-v7a/libNitroModules.so
+SHA1-Digest: C8edsLjq2lHEIiErGtQM89CClq8=
+
+Name: lib/armeabi-v7a/libandroidx.graphics.path.so
+SHA1-Digest: RrvXw4mmaeCrYGmQqxr5ya9DbXE=
+
+Name: lib/armeabi-v7a/libappmodules.so
+SHA1-Digest: 7/DZXpFdBmTdT54GPF15i+gfVfE=
+
+Name: lib/armeabi-v7a/libapproov.so
+SHA1-Digest: x3sG3Kzzx+3Mvh83h9dvwMHKgqg=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA1-Digest: rFGFCacn+KgBXBITKLNgQBEfHqM=
+
+Name: lib/armeabi-v7a/libcallstack-repack.so
+SHA1-Digest: SL1hl5MIPn1jqrVVNU1s0GtGplA=
+
+Name: lib/armeabi-v7a/libcee-wrapper.so
+SHA1-Digest: aZGZ8DqpIjpCmhgdASi7nji5SuM=
+
+Name: lib/armeabi-v7a/libcee.so
+SHA1-Digest: Hb3ehBPlw+PmXQiOkyxhcOHqmWM=
+
+Name: lib/armeabi-v7a/libcee_driver.so
+SHA1-Digest: zx9dcQubbZfdzMV/yWpu7frx+Hk=
+
+Name: lib/armeabi-v7a/libcrashlytics-common.so
+SHA1-Digest: V9FUUr93/SrTRAVGN2SKkJzNCAg=
+
+Name: lib/armeabi-v7a/libcrashlytics-handler.so
+SHA1-Digest: wpxe1oc8Xoc/4tKoU9C+mfAnIvA=
+
+Name: lib/armeabi-v7a/libcrashlytics-trampoline.so
+SHA1-Digest: UREHv33jNoGKHTEMeBJA2cewNCc=
+
+Name: lib/armeabi-v7a/libcrashlytics.so
+SHA1-Digest: fFfVZ99vutoVUB8+EAe4ZbqklBQ=
+
+Name: lib/armeabi-v7a/libdatastore_shared_counter.so
+SHA1-Digest: 7Ogm2XvGESTjnF4wwfk2i6QYVZk=
+
+Name: lib/armeabi-v7a/libfbjni.so
+SHA1-Digest: ye8KH1iz3FLqqkxF7PJRuvroQ3M=
+
+Name: lib/armeabi-v7a/libhermestooling.so
+SHA1-Digest: 5u6jIksxtr2PZWkp7AqqIs3X3s8=
+
+Name: lib/armeabi-v7a/libhermesvm.so
+SHA1-Digest: 8gFyPBzWbFECYt3JQmjpYzSp3kg=
+
+Name: lib/armeabi-v7a/libimagepipeline.so
+SHA1-Digest: Co1sqtE1hKdDfnybVPtt0rqYuAM=
+
+Name: lib/armeabi-v7a/libjsi.so
+SHA1-Digest: gMka4yMHFHyMdkQHs2urgYdrLjo=
+
+Name: lib/armeabi-v7a/libkt.so
+SHA1-Digest: 9opiq3JckZJ15hUXZz/GXDzJ3bY=
+
+Name: lib/armeabi-v7a/libmmkv.so
+SHA1-Digest: sDHSJi0dFScgLX1R/TA+nvd8vZE=
+
+Name: lib/armeabi-v7a/libnative-filters.so
+SHA1-Digest: 1RZoxceHTld5N9ILQNolkxZunno=
+
+Name: lib/armeabi-v7a/libnative-imagetranscoder.so
+SHA1-Digest: /v1WBySoLI8ko/jbssr2wlSGG/g=
+
+Name: lib/armeabi-v7a/libnhook.so
+SHA1-Digest: Cir7x/OnLD0dQ7zT/hmrBTp+HkQ=
+
+Name: lib/armeabi-v7a/libreact_codegen_RNCSlider.so
+SHA1-Digest: mMgQikBC7lkiWkqMJNRXGIX9xoI=
+
+Name: lib/armeabi-v7a/libreact_codegen_rnscreens.so
+SHA1-Digest: B6qcV2yV4OuhnWH+E6gMYbn8YUE=
+
+Name: lib/armeabi-v7a/libreact_codegen_rnsvg.so
+SHA1-Digest: M4yJNMP3rc64fohQaY0xzj3DR3E=
+
+Name: lib/armeabi-v7a/libreact_codegen_safeareacontext.so
+SHA1-Digest: OI11LGoPTyo3Vr/VinFD5vabckw=
+
+Name: lib/armeabi-v7a/libreactnative.so
+SHA1-Digest: 5C9wZzo7WQsJj2uc8zKQ4DpqGkg=
+
+Name: lib/armeabi-v7a/librive-android.so
+SHA1-Digest: d6dEhaehsSXsPv/P4skr/eVh6Lw=
+
+Name: lib/armeabi-v7a/librnscreens.so
+SHA1-Digest: HNljwBCiysFmhqsaoqg9CoAoxPM=
+
+Name: stamp-cert-sha256
+SHA1-Digest: Bs40BvDZ1xrbgQrPTD2x5w/NfHQ=
+

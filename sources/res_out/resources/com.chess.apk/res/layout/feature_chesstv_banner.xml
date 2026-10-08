@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:background="@drawable/semi_white_ripple"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="8dp"
+    android:paddingEnd="8dp">
+    <TextView
+        android:textSize="15sp"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:background="@drawable/red_rounded_rectangle"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/live"
+        android:textAllCaps="true"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        style="@style/Bold"/>
+    <TextView
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:ellipsize="end"
+        android:id="@+id/show_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:layout_weight="1"
+        android:paddingStart="10dp"
+        android:paddingEnd="8dp"/>
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/close_button"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        app:srcCompat="@drawable/glyph_mark_cross"
+        app:tint="@color/white_85"/>
+</LinearLayout>

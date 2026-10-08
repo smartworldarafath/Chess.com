@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/analysisSummaryContent"
+    android:clipChildren="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.chess.utils.android.toolbar.CenteredToolbar
+        android:id="@+id/toolbar"
+        android:background="@color/colorToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <com.chess.chessboard.layout.ChessBoardLayout
+        android:id="@+id/chessBoardLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:cbl_style="scrollable_bottom"
+        app:layout_constraintBottom_toTopOf="@+id/analysisControls"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        app:scrollableBottom_minHeight="112dp"
+        app:view_bottom="@layout/content_analysis_bottom"
+        app:view_chessBoard="@layout/content_chessboard"
+        app:view_landscapeSide="@layout/content_analysis_summary_landscape_side"
+        app:view_top="@layout/content_analysis_summary_top"/>
+    <com.chess.internal.views.StandaloneAnalysisControls
+        android:id="@+id/analysisControls"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+    <com.chess.internal.views.AnalysisProgressView
+        android:id="@+id/analysisProgress"
+        android:visibility="gone"
+        android:layout_width="0dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="@dimen/margin_x_small"
+        app:layout_constraintBottom_toTopOf="@+id/analysisControls"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:progressTextSize="@dimen/text_size_small"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

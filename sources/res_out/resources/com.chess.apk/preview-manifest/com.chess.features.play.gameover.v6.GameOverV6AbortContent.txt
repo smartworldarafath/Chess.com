@@ -1,0 +1,4 @@
+package=com.chess.features.play.gameover.v6
+file=GameOverV6AbortContent
+private:GameOverV6AbortContentUserAbortedPreview
+private:GameOverV6AbortContentOpponentAbortedPreview

@@ -1,0 +1,4 @@
+package=com.chess.coach.ui
+file=CoachNudge
+private:CoachNudgePreview
+private:CoachNudgeWithCloseButtonPreview

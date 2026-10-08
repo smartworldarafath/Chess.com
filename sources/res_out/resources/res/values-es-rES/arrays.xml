@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="daily_puzzle_correct_move_messages">
+        <item>¡Bien visto! Ese es el movimiento correcto.</item>
+        <item>Perfecto. Esa era la mejor jugada.</item>
+        <item>Sí, esa es la idea correcta.</item>
+        <item>Yo hubiera hecho el mismo movimiento.</item>
+        <item>¡Muy bien!</item>
+        <item>¡Exacto!</item>
+        <item>¡Bingo!</item>
+        <item>¡Tienes un talento natural!</item>
+        <item>Ese era el mejor movimiento disponible en el tablero.</item>
+        <item>¡Buen trabajo!</item>
+    </array>
+    <array name="daily_puzzle_hint_move_messages">
+        <item>Aquí tienes el mejor movimiento.</item>
+        <item>Haz este movimiento para desbloquear la situación.</item>
+        <item>Aquí tienes una pista para hacerte pensar.</item>
+        <item>Este es el mejor movimiento.</item>
+        <item>Este movimiento te permitirá avanzar.</item>
+        <item>Esta es la idea correcta.</item>
+        <item>Deberías hacer este movimiento.</item>
+        <item>Este movimiento es mejor que todos los demás.</item>
+        <item>Esto es lo que yo haría.</item>
+        <item>Este movimiento debería ayudarte.</item>
+    </array>
+    <array name="daily_puzzle_hint_piece_messages">
+        <item>El mejor movimiento es con esta pieza.</item>
+        <item>No pierdas de vista esta pieza.</item>
+        <item>Esta pieza puede marcar la diferencia en esta posición.</item>
+        <item>Busca un movimiento con esta pieza.</item>
+        <item>Hay un movimiento con esta pieza que puede dar un vuelco a la partida.</item>
+        <item>Fíjate en esta pieza e imagina lo que viene a continuación.</item>
+        <item>¿Ves algún ataque, jaque o captura con esta pieza?</item>
+        <item>La idea principal gira en torno a esta pieza.</item>
+        <item>Si estuviera en tu lugar, me centraría en esta pieza.</item>
+        <item>Analiza todos los movimientos posibles con esta pieza.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_first_heart_loss_messages">
+        <item>Ese no es el mejor movimiento.</item>
+        <item>Has perdido un corazón, pero aún te quedan más oportunidades.</item>
+        <item>No te rindas. Te quedan más oportunidades.</item>
+        <item>No es correcto, pero todavía tienes cuatro oportunidades más.</item>
+        <item>Trata de aprovechar al máximo los corazones que te quedan.</item>
+        <item>No te preocupes, todavía te quedan corazones.</item>
+        <item>Hay una jugada mejor en el tablero. Todavía te quedan cuatro intentos más.</item>
+        <item>Has perdido un corazón, pero todavía te quedan cuatro intentos más.</item>
+        <item>No pasa nada. El método de prueba y error te permitirá reducir las opciones.</item>
+        <item>Olvídate de ese error. Te quedan cuatro intentos más.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_generic_messages">
+        <item>No es correcto. Piénsalo bien antes de emplear otro corazón.</item>
+        <item>Busca jaques, ataques y capturas.</item>
+        <item>Prueba a usar una pista si te atascas.</item>
+        <item>Ese no es el mejor movimiento. Inténtalo de nuevo.</item>
+        <item>Hay un movimiento mejor en el tablero.</item>
+        <item>Piénsalo bien antes de gastar un corazón.</item>
+        <item>Recuerda que tienes que pensar en la respuesta de tu oponente.</item>
+        <item>¿Qué movimiento te coloca en una posición mejor?</item>
+        <item>Inténtalo otra vez. Hay un movimiento mejor.</item>
+        <item>Ya sé lo que estás pensando, pero esa no es la mejor jugada.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_last_heart_remaining_messages">
+        <item>Te queda un corazón. Piénsalo bien.</item>
+        <item>Es tu último intento. Tú puedes.</item>
+        <item>Piénsalo bien; solo te queda un corazón.</item>
+        <item>Concéntrate en este movimiento. Solo te queda un corazón.</item>
+        <item>Analiza todos los movimientos posibles en tu último intento.</item>
+        <item>Esta es tu última oportunidad para resolver el problema.</item>
+        <item>Todavía puedes resolver este problema en el último intento que te queda.</item>
+        <item>Te queda un corazón. ¡Puedes lograrlo!</item>
+        <item>Ese no es el mejor movimiento. Te queda un intento.</item>
+        <item>Mantén la concentración. Te queda un intento más.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_out_of_hearts_messages">
+        <item>Era un problema complicado. Vuelve mañana para resolver otro.</item>
+        <item>No te quedan más corazones. Consulta la solución o sigue intentando resolver el problema por tu cuenta.</item>
+        <item>Ese era tu último corazón. Puedes ver la solución o seguir intentándolo.</item>
+        <item>Mañana habrá otro problema que resolver.</item>
+        <item>¿Consultas la solución o intentas resolver el problema sin ayuda?</item>
+        <item>Se te han acabado los corazones, pero puedes seguir intentándolo si quieres.</item>
+        <item>Puedes seguir intentando resolverlo o ver la solución.</item>
+        <item>No te quedan corazones, pero puedes seguir intentándolo.</item>
+        <item>No te queda ningún intento. Sigue insistiendo o consulta la solución.</item>
+        <item>Si te atascas, puedes consultar la solución. Si crees que la tienes, sigue intentándolo.</item>
+    </array>
+    <array name="daily_puzzle_solved_all_hearts_messages">
+        <item>¡Perfecto! No has cometido ningún error ni has usado ninguna pista.</item>
+        <item>¡Ni un solo error! ¡Impresionante!</item>
+        <item>Un trabajo perfecto. Enhorabuena.</item>
+        <item>Ni siquiera has tenido que pedir una pista. ¡Gran trabajo!</item>
+        <item>¡Has hecho que parezca fácil!</item>
+        <item>Una resolución formidable. Y no te ha hecho falta usar ningún corazón.</item>
+        <item>¡Lo has clavado! No has gastado ningún corazón.</item>
+        <item>¡Enhorabuena, lo has resuelto sin cometer ningún error!</item>
+        <item>¡Genial! Una resolución perfecta.</item>
+        <item>¡Fantástico! Lo has resuelto sin cometer errores.</item>
+    </array>
+    <array name="daily_puzzle_solved_generic_messages">
+        <item>¡Genial! Mira el vídeo para profundizar en este problema.</item>
+        <item>¡Lo has clavado! Ese es el movimiento correcto.</item>
+        <item>¡Impresionante! Ese problema era complicado.</item>
+        <item>Sí, ese movimiento era crucial para resolver este problema.</item>
+        <item>Este es un problema que debes recordar para el futuro.</item>
+        <item>¡Así se hace! Recuerda que hay un problema nuevo cada día.</item>
+        <item>¡Buen ojo! Has dado con la solución correcta.</item>
+        <item>¡Ese problema era demasiado fácil para ti!</item>
+        <item>Se te da muy bien resolver problemas.</item>
+        <item>¡Excelente! No era un problema nada fácil.</item>
+    </array>
+    <array name="daily_puzzle_solved_no_hearts_messages">
+        <item>Ese era complicado. Inténtalo de nuevo mañana.</item>
+        <item>Vuelve mañana e intenta resolver un nuevo problema.</item>
+        <item>Ahora ya sabes las jugadas que podías haber hecho. Mira este vídeo para aprender más.</item>
+        <item>Echa un vistazo a este vídeo para descubrir los mejores movimientos.</item>
+        <item>Inténtalo de nuevo mañana. Cada problema es una oportunidad para mejorar.</item>
+        <item>Te has quedado sin corazones. Mira este vídeo para descubrir los mejores movimientos.</item>
+        <item>Has pasado por alto las mejores jugadas, pero siempre puedes aprender algo de este problema.</item>
+        <item>¿Quieres entender los mejores movimientos? Echa un vistazo a este vídeo.</item>
+        <item>Buen intento. Mañana tendrás otra oportunidad.</item>
+        <item>Espero que esto te haya enseñado algo. Inténtalo de nuevo mañana.</item>
+    </array>
+    <array name="daily_puzzle_solved_one_heart_remaining_messages">
+        <item>Lo has conseguido con tu último corazón. ¡Bien hecho!</item>
+        <item>¡Perfecto! Y con solo un corazón restante.</item>
+        <item>¡Exacto! Gran trabajo.</item>
+        <item>Lo has clavado y solo te quedaba un corazón.</item>
+        <item>Lo has resuelto muy bien con solo un corazón restante.</item>
+        <item>Sabía que lo resolverías.</item>
+        <item>Felicidades por resolver el problema del día.</item>
+        <item>¡Increíble! Guarda esas tácticas en la memoria para el futuro.</item>
+        <item>¡Justo a tiempo! Lo has resuelto cuando solo te quedaba un corazón.</item>
+        <item>¡Ya está! Buen trabajo.</item>
+    </array>
+    <array name="daily_puzzle_starting_position_messages">
+        <item>Te toca mover. ¿Ves cuál es la mejor jugada?</item>
+        <item>Te toca. Hay un movimiento mejor que el resto.</item>
+        <item>¿Qué harías en una partida real?</item>
+        <item>¡Aquí puedes lucirte! ¿Cuál es la mejor jugada?</item>
+        <item>Te toca mover. Intenta pensar con un par de jugadas de antelación.</item>
+        <item>Tienes un buen movimiento. ¿Lo ves?</item>
+        <item>Hay un movimiento mejor que el resto en el tablero.</item>
+        <item>Te toca mover. ¡Puedes hacerlo!</item>
+        <item>Piénsalo bien antes de hacer tu primer movimiento.</item>
+        <item>Si te atascas, puedes gastar un corazón para recibir una pista.</item>
+    </array>
+    <array name="daily_puzzle_welcome_messages">
+        <item>¡Te damos la bienvenida! El problema de hoy es muy divertido.</item>
+        <item>El problema de hoy te va a hacer pensar.</item>
+        <item>Sé que puedes resolver el problema del día.</item>
+        <item>¡Tú puedes!</item>
+        <item>Prepárate para algunas sorpresas en el problema del día de hoy.</item>
+        <item>Sé que puedes resolver el problema del día de hoy.</item>
+        <item>Recuerda que puedes usar las pistas si te atascas en el problema del día.</item>
+        <item>Hay muchos movimientos posibles, pero solo uno es el mejor.</item>
+        <item>¡Creo en ti!</item>
+        <item>¡Te damos la bienvenida! El problema de hoy es complicado, así que tómate tu tiempo.</item>
+    </array>
+    <array name="game_review_placeholders_impersonal">
+        <item>Revisando la partida…</item>
+        <item>Calculando las mejores variantes…</item>
+        <item>Espera un momento mientras analizo…</item>
+        <item>Dame un segundo para revisar…</item>
+        <item>Un segundo, estoy analizando…</item>
+        <item>Un momento, por favor; estoy revisando…</item>
+        <item>Un momento, ya casi he terminado el análisis…</item>
+        <item>Un minuto, ya casi he terminado la revisión…</item>
+        <item>Ya casi está, un segundo…</item>
+        <item>Cargando la revisión de la partida…</item>
+        <item>La revisión de la partida se está cargando…</item>
+        <item>Cargando revisión de la partida…</item>
+        <item>Un momento…</item>
+        <item>Analizando…</item>
+        <item>Admirando la belleza de los caballos del tablero…</item>
+    </array>
+    <array name="game_review_placeholders_personal">
+        <item>Revisando tu partida…</item>
+        <item>Analizando tu partida…</item>
+        <item>Comprobando tu partida…</item>
+        <item>Examinando tu partida…</item>
+        <item>Revisando tus movimientos…</item>
+        <item>Analizando tus movimientos…</item>
+        <item>Ya falta poco; estoy revisando tus jugadas…</item>
+        <item>La revisión de tu partida está a punto de llegar…</item>
+        <item>Espera un momento mientras se carga la revisión de la partida…</item>
+        <item>Descifrando tu juego…</item>
+        <item>Un momento, estoy descifrando tu juego…</item>
+        <item>La revisión de la partida se está cargando…</item>
+    </array>
+    <array name="learningTilesArray">
+        <item>Encima de las partidas en espera</item>
+        <item>Debajo de todas mis partidas</item>
+        <item>Desactivado</item>
+    </array>
+    <array name="loading_phrases">
+        <item>Busca siempre jaques, capturas y ataques.</item>
+        <item>La defensa siciliana es la respuesta más habitual a 1.e4.</item>
+        <item>Desarrolla las piezas desde las casillas iniciales para controlar el tablero.</item>
+        <item>Mover a la dama demasiado pronto puede llevar a cometer errores graves en la apertura.</item>
+        <item>Busca jugadas de peón que te permitan desarrollar tus piezas.</item>
+        <item>Generalmente, mover dos veces la misma pieza en la apertura se considera una pérdida de tiempo.</item>
+        <item>El gráfico de evaluación calcula la ventaja de los jugadores después de cada movimiento.</item>
+        <item>Un error grave %Blunder% es un movimiento que tiene un impacto significativamente negativo en la posición de un jugador.</item>
+        <item>Una omisión %Miss% es cuando se pasa por alto una oportunidad táctica o la posibilidad de castigar el error del oponente.</item>
+        <item>Un error %Mistake% es una mala jugada que empeora inmediatamente tu posición.</item>
+        <item>Una imprecisión %Inaccuracy% es un movimiento débil que no es tan bueno como la mejor jugada posible.</item>
+        <item>Una jugada teórica %Book% es un movimiento de apertura estándar que suelen hacer los buenos jugadores.</item>
+        <item>Un buen movimiento %Good% está bien jugado, pero había mejores opciones con esa posición en el tablero.</item>
+        <item>Un movimiento excelente %Excellent% es, en esencia, tan bueno como la mejor jugada posible: ¡debes sentir orgullo por hacerlo!</item>
+        <item>El mejor movimiento %Best% es el que el motor de análisis sitúa en primer lugar.</item>
+        <item>Un gran movimiento %Great% es un movimiento crítico que cambia el curso de la partida.</item>
+        <item>Un movimiento brillante %Brilliant% ocurre cuando encuentras un excelente sacrificio.</item>
+        <item>La precisión es una medida que indica lo cerca que has estado de hacer los mejores movimientos %Best% posibles.</item>
+        <item>Aprender una apertura nueva es una forma divertida de mantener la motivación en el ajedrez.</item>
+        <item>Después de tres movimientos, hay 121 millones de posiciones posibles.</item>
+        <item>Hay quienes creen que el sacrificio denominado \"presente griego\" debe su nombre a Gioachino Greco, que en realidad era italiano.</item>
+        <item>A los 20 años, Stanley Kubrick jugaba al ajedrez en el parque de Washington Square para pagarse la comida.</item>
+        <item>Hay alrededor de 1.800 grandes maestros en el mundo.</item>
+        <item>\"En passant\" es una expresión francesa que significa “capturar al paso”.</item>
+        <item>Si “torre” proviene de la palabra persa “rukh”, que significa \"carro\", ¿por qué la pieza se parece a un castillo?</item>
+        <item>Abhimanyu Mishra se convirtió en el gran maestro más joven de la historia a la edad de 12 años, 4 meses y 25 días.</item>
+        <item>El nombre \"Deep Blue\" proviene de un concurso de nombres realizado por IBM y es un juego de palabras con \"Big Blue\", el sobrenombre de la compañía.</item>
+        <item>El término alemán \"zugzwang\" significa \"obligación de mover\" y se refiere a las situaciones en que un jugador se colocará en desventaja, sea cual sea el próximo movimiento que haga.</item>
+        <item>La partida de ajedrez que aparece en Blade Runner es una recreación de la \"partida inmortal\" que disputaron Adolf Anderssen y Lionel Kiseritzky en 1851.</item>
+        <item>Existen 960 posiciones legalmente posibles para comenzar una partida de Ajedrez 960.</item>
+        <item>Durante la Segunda Guerra Mundial, algunos maestros de ajedrez ingleses fueron reclutados para descifrar códigos.</item>
+        <item>Hasta mediados del siglo XIX, las partidas de ajedrez se jugaban sin límite de tiempo.</item>
+        <item>Hasta el siglo XVII, el enroque era una jugada de dos movimientos.</item>
+        <item>La notación algebraica, el sistema actual para transcribir las jugadas de ajedrez, se convirtió en oficial en 1981.</item>
+        <item>El primer ordenador de ajedrez, conocido como \"el turco mecánico\", era en realidad un hombre que, escondido dentro de una caja, fingía ser un autómata.</item>
+        <item>La última vez que se llegó al jaque mate en un Campeonato del Mundo fue en 1929.</item>
+        <item>En 1951, el MI Robert Wade jugó una exhibición de partidas simultáneas contra 30 escolares rusos. Wade no ganó ninguna partida, hizo tablas en 10 y perdió las otras 20.</item>
+        <item>El jaque mate más rápido posible consta de solo dos movimientos.</item>
+        <item>El campeón del mundo Alexander Alekhine tenía un gato que se llamaba \"Ajedrez\".</item>
+        <item>Durante el campeonato del mundo de 1978, Anatoly Karpov contrató a un hipnotizador para que se sentara en la primera fila y mirara fijamente a su oponente.</item>
+        <item>El campeón del mundo Mikhail Tal solo tenía tres dedos en la mano derecha.</item>
+        <item>El gambito Evans debe su nombre a William Davies Evans, un capitán de navío galés del siglo XIX.</item>
+        <item>El campeonato del mundo 1984-85 se suspendió después de 5 meses y 48 partidas por el agotamiento físico y psicológico de los jugadores.</item>
+        <item>La partida más larga en la historia de los Campeonatos del Mundo fue la sexta partida de la edición de 2021, que tuvo 136 movimientos.</item>
+        <item>\"Todos los errores graves están sobre el tablero, esperando a ser cometidos\" (Savielly Tartakower).</item>
+        <item>\"Existen dos tipos de sacrificios: los correctos, y los míos\" (Mikhail Tal).</item>
+        <item>\"El ajedrez es el gimnasio de la mente\" (Blaise Pascal).</item>
+        <item>\"Incluso un pésimo plan es mejor que no tener ningún plan\" (Mikhail Chigorin).</item>
+        <item>\"El ganador de la partida es el jugador que comete el penúltimo error\" (Savielly Tartakower).</item>
+        <item>\"Soy Alekhine, campeón mundial de ajedrez. Tengo un gato que se llama Ajedrez\". Alexander Alekhine, cuando lo detuvieron en la frontera entre Polonia y Rusia sin pasaporte.</item>
+        <item>\"Los problemas de ajedrez demandan de su compositor las mismas virtudes que tiene cualquier tipo de arte que merezca la pena\" (Vladimir Nabokov).</item>
+        <item>\"El ajedrez es asunto de juicio delicado: saber cuándo golpear y cuándo esquivar\" (Bobby Fischer).</item>
+        <item>\"El esfuerzo constante vale la pena, aunque no siempre de manera inmediata y tangible\" (Garry Kasparov).</item>
+        <item>\"Un peón pasado aumenta su poder a medida que disminuye el número de piezas sobre el tablero\" (José Raúl Capablanca).</item>
+        <item>\"El ajedrez es el arte que expresa la ciencia de la lógica\" (Mikhail Botvinnik).</item>
+        <item>\"Si la venganza te motiva, ¡adelante!\" (Viswanathan Anand).</item>
+        <item>\"Si quieres jugar bien, es importante concentrarse en el ahora\" (Vassily Ivanchuk).</item>
+        <item>\"El mayor desafío es hacer realidad tus propias ideas sobre ti mismo\" (Judit Polgar).</item>
+        <item>%websiteName% fue fundada en 2005 por dos amigos de la universidad: Erik y Jay.</item>
+        <item>Los miembros de %websiteName% juegan ¡más de mil millones de partidas al mes!</item>
+    </array>
+    <array name="offline_coach_messages">
+        <item>¡Ah, mi alumno preferido! Me alegro de verte.</item>
+        <item>Te doy la bienvenida. Me alegro mucho de verte.</item>
+        <item>Es un verdadero placer verte por aquí.</item>
+        <item>No sé, puede que sea mi alumno favorito... ¡Hola!</item>
+        <item>Hace un día perfecto para jugar al ajedrez.</item>
+        <item>Hacer un problema al día es fantástico para desterrar los malos movimientos.</item>
+        <item>Un problema al día aleja los errores graves con garantías.</item>
+        <item>¿Quieres mejorar tu nivel? Comienza resolviendo un problema.</item>
+        <item>Si quieres aprender, yo estoy aquí para enseñarte.</item>
+        <item>¿Qué actividad quieres hacer?</item>
+        <item>¿En qué quieres centrarte hoy?</item>
+        <item>Si necesitas algo, aquí me tienes para ayudarte a aprender.</item>
+        <item>Aprender nuevas aperturas puede ser fascinante.</item>
+        <item>Lo que más me gusta de enseñar es ver cómo mejoran mis alumnos.</item>
+        <item>Jugar al ajedrez es una manera divertida de mantener la mente en forma.</item>
+        <item>Cuando no me apetece jugar una partida, me dedico a resolver unos cuantos problemas.</item>
+        <item>Hoy vamos a aprender una nueva estrategia de ajedrez.</item>
+        <item>¿Qué tal va todo? ¿Te apetece jugar al ajedrez?</item>
+        <item>Siempre es un placer verte. Gracias por volver.</item>
+        <item>¡Ah, sí! Hola de nuevo.</item>
+        <item>¡Me alegro de verte! Todo es mucho mejor cuando estás por aquí.</item>
+        <item>Ganes o pierdas, de todas las partidas se puede aprender algo.</item>
+        <item>El ajedrez entrena simultáneamente la concentración, la lógica y la imaginación.</item>
+        <item>¡Mira quién ha venido! Ha vuelto mi ajedrecista número uno.</item>
+        <item>Tú juegas las partidas, yo te ayudo a comprenderlas.</item>
+        <item>Soy tu coach. Te voy a ayudar para que mejores y veas el ajedrez de una manera diferente.</item>
+        <item>Estoy aquí para ayudarte a aprender, revisar tus partidas y mostrarte tus mejores movimientos.</item>
+        <item>¡Me alegro de que estés aquí! Vamos a jugar y a aprender cosas nuevas.</item>
+        <item>Es un placer volver a verte. Me alegro de que hoy le dediques un rato al ajedrez.</item>
+        <item>¡Hola de nuevo! Vamos a seguir desde el punto en que lo dejaste.</item>
+        <item>¡Me alegro de que hayas vuelto! Hoy vamos a aprender cosas nuevas.</item>
+        <item>Resolver problemas es una manera rápida de mantener la mente ágil.</item>
+        <item>¡Juega contra un bot para mejorar tu ajedrez sin estrés!</item>
+        <item>¿Quieres entrar en calor resolviendo algunos problemas?</item>
+        <item>¡Hola! Espero que te guste aprender tanto como a mí me gusta enseñar.</item>
+        <item>¿Quieres aprender algo nuevo hoy? ¡Prueba una lección!</item>
+        <item>¡Me alegro de verte! Me encanta observar cómo mejoran mis alumnos su nivel de ajedrez.</item>
+        <item>El ajedrez siempre es emocionante. ¿Sabías que la mayoría de las partidas son únicas entre miles de millones de posibilidades?</item>
+        <item>¿Quieres mejorar? Incorpora el ajedrez a tu rutina diaria.</item>
+        <item>Siempre hay algo nuevo que aprender en el ajedrez. ¿Por dónde quieres que empecemos?</item>
+        <item>Una de mis formas preferidas de mantener el interés por el ajedrez es aprendiendo una nueva apertura.</item>
+        <item>Por cierto, en las partidas contra los bots puedes usar pistas y retroceso de jugadas.</item>
+        <item>Si estás aquí, supongo que ha llegado la hora de jugar al ajedrez.</item>
+        <item>Cada movimiento es un paso adelante. Felicidades por tu perseverancia.</item>
+        <item>El esfuerzo constante es la clave para progresar de verdad.</item>
+        <item>El esfuerzo de hoy dará sus frutos mañana.</item>
+        <item>Me alegro de volver a verte. ¿Te apetece jugar una partida?</item>
+        <item>El ajedrez premia la paciencia y la disciplina.</item>
+        <item>Me alegro de volver a verte. ¿Tienes ganas de aprender?</item>
+        <item>El progreso se logra a partir de muchos pequeños avances.</item>
+        <item>¡Hola! Aquí vas a aprender buenos hábitos.</item>
+        <item>¿Quieres poner a prueba tu nivel de ajedrez?</item>
+        <item>¡Hola otra vez! Vamos a ver qué tenemos hoy.</item>
+    </array>
+    <array name="puzzles_coach_comments_10_in_a_row">
+        <item>¡Y van 10 seguidos! ¡Increíble!</item>
+        <item>¡La serie que llevas es increíble!</item>
+        <item>¡Esto se te da muy bien! ¡Llevas 10 seguidos!</item>
+        <item>¿Diez problemas perfectos seguidos? ¡Fantástico!</item>
+        <item>¡Esta es una serie épica! ¡Lo estás resolviendo todo!</item>
+    </array>
+    <array name="puzzles_coach_comments_3_in_a_row">
+        <item>¡Tres seguidos! ¡No te detengas!</item>
+        <item>¡Lo estás haciendo muy bien!</item>
+        <item>¡1-2-3 de forma consecutiva! ¡Fenomenal trabajo!</item>
+        <item>¡Haces que parezca fácil!</item>
+        <item>¡Una jugada genial! ¡Estás en racha!</item>
+    </array>
+    <array name="puzzles_coach_comments_5_in_a_row">
+        <item>¡Impresionante! ¡Estás en racha!</item>
+        <item>¡Cinco seguidos! ¡Fantástico!</item>
+        <item>¡Estos problemas son demasiado fáciles para ti!</item>
+        <item>¡Sigue así! ¡Lo estás haciendo genial!</item>
+        <item>¡Eres una máquina resolviendo problemas!</item>
+    </array>
+    <array name="puzzles_coach_comments_7_in_a_row">
+        <item>¡Tu precisión es impresionante!</item>
+        <item>¡El tablero está que arde! ¡Llevas siete seguidos!</item>
+        <item>¡Lo ves todo! Gran trabajo.</item>
+        <item>Podrías dedicarte a resolver problemas profesionalmente... si ese trabajo existiera.</item>
+        <item>¿Siete problemas seguidos? ¡Impresionante!</item>
+    </array>
+    <array name="puzzles_coach_comments_general">
+        <item>¡Muy bien hecho!</item>
+        <item>¡Sí! ¡Así se hace!</item>
+        <item>¡Muy bien resuelto!</item>
+        <item>¡Perfecto! Gran trabajo.</item>
+        <item>¡Genial! ¡Has encontrado la solución!</item>
+        <item>¡Conseguido! Bien hecho.</item>
+        <item>¡Bingo! Lo conseguiste.</item>
+        <item>¡Muy bien!</item>
+        <item>Has encontrado la solución. ¡Excelente!</item>
+        <item>¡Correcto! Bien jugado.</item>
+        <item>¡Buen trabajo!</item>
+        <item>¡Fantástico!</item>
+        <item>¡Excelente!</item>
+        <item>¡Sí, perfecto! ¡Ya está!</item>
+        <item>¡Muy bien resuelto!</item>
+        <item>¡Una jugada inteligente!</item>
+        <item>¡Perfecto! ¡Bien jugado!</item>
+        <item>¡Qué bien visto! ¡Así se hace!</item>
+        <item>¡Has jugado de lujo y lo has resuelto!</item>
+        <item>¡Bien jugado!</item>
+    </array>
+    <array name="puzzles_coach_comments_solution_shown">
+        <item>Aquí está la respuesta correcta.</item>
+        <item>Aquí está la solución al problema.</item>
+        <item>¡Buen intento! Aquí tienes la respuesta correcta.</item>
+        <item>¡Qué problema tan complicado! Vamos a intentar resolver otro.</item>
+        <item>Comprueba si puedes recordar este patrón.</item>
+        <item>Incluso mis mejores alumnos no son capaces de resolver todos los problemas.</item>
+        <item>¡No te preocupes, la próxima vez lo conseguirás!</item>
+        <item>Vuelve a hacer este problema e intenta memorizar el patrón.</item>
+        <item>¡Vuelve a empezar este problema e intenta comprender cada movimiento!</item>
+        <item>¡El entrenador al rescate! Qué problema tan divertido.</item>
+        <item>No pasa nada. ¡Algunos problemas son complicados!</item>
+        <item>¡Siempre es un placer ayudar!</item>
+        <item>Lo has dado todo. ¿Vamos con otro?</item>
+        <item>Estudia ese problema e intenta comprender los movimientos.</item>
+        <item>En cualquier momento puedes volver a resolver un problema para practicar.</item>
+        <item>¡Buen intento! ¿Quieres resolver otro problema?</item>
+    </array>
+    <array name="puzzles_coach_home_array">
+        <item>Resolver problemas es la mejor forma de desarrollar el reconocimiento de patrones y la habilidad táctica.</item>
+        <item>Dicen que el ajedrez es un 99 % de táctica… ¡Buenas noticias! Los problemas son una forma excelente de entrenar la táctica.</item>
+        <item>Si resuelves problemas a diario te resultará más fácil detectar los errores de tus rivales.</item>
+        <item>Resolver problemas a diario te ayuda a elegir jugadas seguras en tus propias partidas.</item>
+        <item>Con los problemas aprendes a tener más seguridad en la apertura, a afrontar con confianza el medio juego y a jugar los finales con más precisión.</item>
+        <item>Los problemas son geniales para entrenar y mejorar el nivel de ajedrez. Además, ¡son muy divertidos!</item>
+        <item>Cuando te equivocas en un problema, lo ideal es que siempre vuelvas a intentarlo y que revises la solución para ver qué se te ha escapado.</item>
+        <item>¿Quieres aumentar el ritmo? Gana puntos resolviendo problemas rápidamente en Puzzle Rush. ¡Tres fallos y estás fuera!</item>
+        <item>Si tienes poco tiempo, en Puzzle Rush encontrarás el entrenamiento mental que necesitas.</item>
+        <item>¿Sabías que el Problema del día se complica a medida que avanza la semana? ¡Los problemas de los domingos son los más difíciles!</item>
+        <item>¡No dejes de resolver problemas a diario!</item>
+        <item>¿Quieres mejorar tu táctica resolviendo problemas?</item>
+        <item>¡Es hora de resolver problemas!</item>
+        <item>En los problemas, solo hay un movimiento válido en cada posición… ¿Lo encontrarás?</item>
+        <item>¡Hola otra vez! Es hora de resolver problemas…</item>
+        <item>¿Te gusta la velocidad? ¿Qué tal si empiezas con un Puzzle Rush?</item>
+        <item>¿Crees que resuelves los problemas más rápido que nadie? ¡Ponte a prueba con una batalla de problemas (Puzzle Battle)!</item>
+    </array>
+    <array name="skills_name">
+        <item>Principiante</item>
+        <item>Aprendiz</item>
+        <item>Intermedio</item>
+        <item>Avanzado</item>
+        <item>Experto</item>
+    </array>
+</resources>

@@ -1,0 +1,4 @@
+package=com.chess.features.play.gameover.v6
+file=GameOverV6Players
+private:GameOverV6PlayersWinPreview
+private:GameOverV6PlayersLossPreview

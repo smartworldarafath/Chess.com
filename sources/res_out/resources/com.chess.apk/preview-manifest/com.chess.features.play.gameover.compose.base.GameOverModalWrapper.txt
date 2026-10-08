@@ -1,0 +1,5 @@
+package=com.chess.features.play.gameover.compose.base
+file=GameOverModalWrapper
+private:NoAdGameOverModalWrapperPreview
+private:AdFromTopGameOverModalWrapperPreview
+private:FlyingAdGameOverModalWrapperPreview

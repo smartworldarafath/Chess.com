@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <androidx.recyclerview.widget.RecyclerView
+        android:orientation="horizontal"
+        android:id="@+id/moveHistoryView"
+        android:background="@color/black_20"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/game_move_history_view_height"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <TextView
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:id="@+id/thinkingPathTxt"
+        android:background="@color/black_20"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/game_move_history_view_height"
+        android:maxLines="1"
+        android:scrollHorizontally="true"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <com.chess.features.analysis.views.AnalysisEvaluationView
+        android:id="@+id/analysisEvaluationView"
+        android:visibility="gone"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/game_analysis_evaluation_small_height"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/moveHistoryView"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

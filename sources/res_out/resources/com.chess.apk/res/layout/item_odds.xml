@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/half_margin_standard"
+    android:paddingBottom="@dimen/half_margin_standard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.chess.internal.views.card.StyledCardView
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/chessBoardCardView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/tile_margin"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        app:cardBackgroundColor="@color/white_10">
+        <com.chess.chessboard.view.ChessBoardPreview
+            android:id="@+id/chessBoardView"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="6dp"/>
+    </com.chess.internal.views.card.StyledCardView>
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/oddsDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="150dp"
+        android:textDirection="locale"
+        android:textAlignment="center"
+        style="@style/Bold.ChessSans"/>
+</LinearLayout>

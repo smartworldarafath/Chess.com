@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/rushModeButton"
+        android:background="?attr/selectableItemBackground"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:paddingStart="@dimen/first_keyline"
+        android:paddingEnd="@dimen/first_keyline">
+        <TextView
+            android:layout_gravity="start|center_vertical"
+            android:id="@+id/rushModeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/puzzle_rush_survival"
+            android:textAllCaps="true"
+            style="@style/SmallText"/>
+        <ImageView
+            android:layout_gravity="end|center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/icon_content_description"
+            app:srcCompat="@drawable/ic_arrow_drop_down"
+            app:tint="@color/textPrimary"/>
+    </FrameLayout>
+    <com.chess.puzzles.recent.rush.RecentRushRowView
+        android:background="@color/black_20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:labelsOnly="true"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <include
+        android:id="@+id/emptyRecentPuzzleLayout"
+        layout="@layout/empty_recent_puzzle_layout"/>
+</LinearLayout>

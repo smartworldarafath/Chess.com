@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:id="@+id/options"
+    android:clipChildren="false"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.chess.internal.views.RaisedButton
+        android:textSize="@dimen/secondary_game_over_button_text_size"
+        android:textColor="@color/grey"
+        android:id="@+id/rematchBtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/rematch"
+        android:layout_weight="1"
+        android:fontFamily="@font/custom_bold"
+        android:layout_marginEnd="@dimen/margin_small"
+        app:lightMode="true"/>
+    <com.chess.internal.views.RaisedButton
+        android:textSize="@dimen/secondary_game_over_button_text_size"
+        android:textColor="@color/grey"
+        android:id="@+id/newGameBtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/new_game"
+        android:layout_weight="1"
+        android:fontFamily="@font/custom_bold"
+        android:layout_marginStart="@dimen/margin_small"
+        app:lightMode="true"/>
+</LinearLayout>

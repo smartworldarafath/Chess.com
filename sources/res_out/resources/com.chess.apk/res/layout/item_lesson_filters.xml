@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:columnCount="@integer/lesson_filters_column_count">
+    <com.chess.internal.views.FilterView
+        android:layout_gravity="fill"
+        android:id="@+id/firstFilter"
+        android:background="@drawable/black_rounded_bg"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:layout_columnWeight="1"/>
+    <com.chess.internal.views.FilterView
+        android:layout_gravity="fill"
+        android:id="@+id/secondFilter"
+        android:background="@drawable/black_rounded_bg"
+        android:visibility="gone"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:layout_marginStart="@dimen/margin_small"
+        android:layout_marginEnd="@dimen/margin_small"
+        android:layout_columnWeight="1"/>
+    <com.chess.internal.views.FilterView
+        android:layout_gravity="fill"
+        android:id="@+id/thirdFilter"
+        android:background="@drawable/black_rounded_bg"
+        android:visibility="gone"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:layout_columnWeight="1"/>
+</GridLayout>

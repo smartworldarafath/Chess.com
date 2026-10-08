@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <androidx.appcompat.widget.SwitchCompat
+        android:theme="@style/SwitchStyle"
+        android:id="@+id/itemSwitch"
+        android:focusable="false"
+        android:clickable="false"
+        android:saveEnabled="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin_standard"
+        android:layout_marginVertical="@dimen/half_margin_standard"
+        app:switchPadding="@dimen/half_margin_standard"
+        style="@style/SettingsText"/>
+</merge>

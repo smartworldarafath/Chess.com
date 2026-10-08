@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/margin_x_small"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="@dimen/margin_standard">
+    <TextView
+        android:textSize="@dimen/text_size_small"
+        android:textColor="@color/white_65"
+        android:id="@+id/usernameTv"
+        android:paddingBottom="@dimen/margin_small"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/custom_medium"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <com.byoutline.secretsauce.views.RoundedImageView
+        android:id="@+id/avatar"
+        android:visibility="invisible"
+        android:layout_width="@dimen/chat_avatar_size"
+        android:layout_height="@dimen/chat_avatar_size"
+        app:all_rounded_corners="true"
+        app:corner_radius="@dimen/radius_avatar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/usernameTv"
+        app:srcCompat="@drawable/color_avatar_placeholder"/>
+    <FrameLayout
+        android:layout_width="@dimen/chat_avatar_size"
+        android:layout_height="@dimen/chat_avatar_size"
+        android:layout_marginHorizontal="@dimen/margin_x_standard"
+        app:layout_constraintStart_toEndOf="@+id/avatar"
+        app:layout_constraintTop_toTopOf="@+id/avatar">
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_gravity="center"
+            android:id="@+id/animationView"
+            android:layout_width="48dp"
+            android:layout_height="48dp"/>
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/analysisLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/game_over_analysis"/>
+    <include
+        android:id="@+id/mainButtonLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_standard"
+        layout="@layout/game_over_main_button_view"/>
+    <include
+        android:id="@+id/gameOverOptions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/view_game_over_options"/>
+</LinearLayout>

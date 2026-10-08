@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude
+            domain="file"
+            path="datastore/user_support_store.preferences_pb"/>
+        <exclude
+            domain="file"
+            path="datastore/intercom_user_prefs_datastore.preferences_pb"/>
+        <exclude
+            domain="file"
+            path="themes"/>
+        <exclude
+            domain="file"
+            path="downloadable_assets"/>
+        <exclude
+            domain="sharedpref"
+            path="appsflyer-data"/>
+    </cloud-backup>
+    <device-transfer>
+        <exclude
+            domain="file"
+            path="datastore/user_support_store.preferences_pb"/>
+        <exclude
+            domain="file"
+            path="datastore/intercom_user_prefs_datastore.preferences_pb"/>
+    </device-transfer>
+</data-extraction-rules>

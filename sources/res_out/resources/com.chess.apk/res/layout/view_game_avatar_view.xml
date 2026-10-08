@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/vs_comp_avatar_img"
+    android:layout_height="@dimen/vs_comp_avatar_img">
+    <ImageView
+        android:id="@+id/avatarBorder"
+        android:background="@color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:importantForAccessibility="no"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <ImageView
+        android:id="@+id/avatarImg"
+        android:padding="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/avatar_content_description"
+        app:layout_constraintBottom_toBottomOf="@+id/avatarBorder"
+        app:layout_constraintEnd_toEndOf="@+id/avatarBorder"
+        app:layout_constraintStart_toStartOf="@+id/avatarBorder"
+        app:layout_constraintTop_toTopOf="@+id/avatarBorder"/>
+    <include
+        android:id="@+id/avatarCrown"
+        android:visibility="gone"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        layout="@layout/game_over_win_crown_small"/>
+</merge>

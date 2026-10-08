@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="emoji_padding">4dp</dimen>
+    <dimen name="home_connect_header_item_image_margin">25dp</dimen>
+    <dimen name="home_connect_header_item_margin_vertical">25dp</dimen>
+</resources>

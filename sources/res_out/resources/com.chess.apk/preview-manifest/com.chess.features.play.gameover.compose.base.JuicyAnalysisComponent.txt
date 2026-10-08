@@ -1,0 +1,8 @@
+package=com.chess.features.play.gameover.compose.base
+file=JuicyAnalysisComponent
+private:HiddenQuickAnalysisStatsPreview
+private:LoadingQuickAnalysisStatsPreview
+private:ReadyQuickAnalysisStatsPreview
+private:VerifyingBrilliantQuickAnalysisStatsPreview
+private:ResolvedBrilliantFallbackQuickAnalysisStatsPreview
+private:RevealedMovePreview

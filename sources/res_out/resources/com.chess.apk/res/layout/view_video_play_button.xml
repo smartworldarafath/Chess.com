@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/PlayButtonBackground">
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/playBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/glyph_media_control_play"
+        android:contentDescription="@string/play"
+        android:layout_marginStart="2dp"
+        app:tint="@color/play_orange"/>
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/padlockBtn"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/glyph_tool_lock_closed"
+        android:contentDescription="@string/upgrade_video_locked"
+        app:tint="@color/light_grey_1"/>
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/completed_checkmark"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/video_watch_checkmark"/>
+</FrameLayout>

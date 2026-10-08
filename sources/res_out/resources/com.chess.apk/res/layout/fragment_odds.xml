@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.chess.internal.recyclerview.AutoColumnRecyclerView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/oddsRecyclerView"
+    android:paddingTop="@dimen/margin_small"
+    android:paddingBottom="@dimen/margin_small"
+    android:clipToPadding="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+    app:minColumnCount="2"/>

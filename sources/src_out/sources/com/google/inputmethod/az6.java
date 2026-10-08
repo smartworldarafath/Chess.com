@@ -1,0 +1,29 @@
+package com.google.inputmethod;
+
+import kotlin.Metadata;
+
+/* JADX INFO: loaded from: d:\Antigravity Projects\Chess\xapk_analysis\res_out\resources\com.chess.apk\classes.dex */
+@Metadata(d1 = {"\u0000\u0010\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\u0010\u0015\n\u0002\b\t\b\u0001\u0018\u00002\u00020\u0001B\u0017\u0012\u0006\u0010\u0003\u001a\u00020\u0002\u0012\u0006\u0010\u0004\u001a\u00020\u0002¢\u0006\u0004\b\u0005\u0010\u0006R\u0017\u0010\u0003\u001a\u00020\u00028\u0006¢\u0006\f\n\u0004\b\u0007\u0010\b\u001a\u0004\b\u0007\u0010\tR\u0017\u0010\u0004\u001a\u00020\u00028\u0006¢\u0006\f\n\u0004\b\n\u0010\b\u001a\u0004\b\n\u0010\t¨\u0006\u000b"}, d2 = {"Lcom/google/android/az6;", "", "", "positions", "sizes", "<init>", "([I[I)V", "a", "[I", "()[I", "b", "foundation"}, k = 1, mv = {2, 1, 0}, xi = 48)
+public final class az6 {
+
+    /* JADX INFO: renamed from: a, reason: from kotlin metadata */
+    private final int[] positions;
+
+    /* JADX INFO: renamed from: b, reason: from kotlin metadata */
+    private final int[] sizes;
+
+    public az6(int[] iArr, int[] iArr2) {
+        this.positions = iArr;
+        this.sizes = iArr2;
+    }
+
+    /* JADX INFO: renamed from: a, reason: from getter */
+    public final int[] getPositions() {
+        return this.positions;
+    }
+
+    /* JADX INFO: renamed from: b, reason: from getter */
+    public final int[] getSizes() {
+        return this.sizes;
+    }
+}

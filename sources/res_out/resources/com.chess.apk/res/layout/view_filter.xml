@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:background="@drawable/black_rounded_bg"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textSize="@dimen/text_size_normal"
+        android:textColor="@color/white"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:id="@+id/filterNameTv"
+        android:padding="@dimen/margin_small"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/category"
+        android:lines="1"
+        android:layout_weight="1"
+        android:fontFamily="@font/custom_bold"/>
+    <ImageView
+        android:id="@+id/removeFilterImg"
+        android:background="@drawable/black_20_rounded_standard_ripple"
+        android:layout_width="@dimen/lesson_filter_image_size"
+        android:layout_height="@dimen/lesson_filter_image_size"
+        android:src="@drawable/glyph_mark_cross"
+        android:scaleType="center"
+        app:tint="@color/white_65"/>
+</merge>

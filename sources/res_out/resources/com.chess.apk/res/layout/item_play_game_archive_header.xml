@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:gravity="center_vertical"
+        android:id="@+id/listHeaderTxt"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/home_play_header_item_height"
+        android:text="@string/game_history"
+        android:layout_marginStart="@dimen/first_keyline"
+        android:layout_marginEnd="@dimen/half_margin_standard"
+        app:layout_constraintEnd_toStartOf="@+id/accuracyTxt"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        style="@style/PlayItemHeader"/>
+    <TextView
+        android:textSize="14sp"
+        android:gravity="end"
+        android:id="@+id/accuracyTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/accuracy"
+        android:maxLines="2"
+        android:layout_marginEnd="@dimen/first_keyline"
+        app:layout_constraintBaseline_toBaselineOf="@+id/listHeaderTxt"
+        app:layout_constraintEnd_toEndOf="parent"/>
+    <View
+        android:background="@color/black_30"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/list_divider_height"
+        app:layout_constraintEnd_toEndOf="@+id/accuracyTxt"
+        app:layout_constraintStart_toStartOf="@+id/listHeaderTxt"
+        app:layout_constraintTop_toBottomOf="@+id/listHeaderTxt"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

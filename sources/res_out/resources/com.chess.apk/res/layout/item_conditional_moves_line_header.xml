@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white_20"
+    android:clipToPadding="false"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/conditional_moves_row_height">
+    <TextView
+        android:textSize="@dimen/text_size_normal"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:id="@+id/line_label"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/custom_bold"
+        android:layout_marginStart="@dimen/margin_standard"
+        app:layout_constrainedWidth="true"
+        app:layout_constraintStart_toStartOf="parent"/>
+    <ImageView
+        android:id="@+id/delete_line_icon"
+        android:background="@drawable/conditional_moves_clickable_icon_background"
+        android:padding="@dimen/margin_small"
+        android:layout_width="@dimen/conditional_moves_row_height"
+        android:layout_height="@dimen/conditional_moves_row_height"
+        android:src="@drawable/glyph_mark_cross"
+        android:layout_marginEnd="@dimen/margin_small"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/white_65"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

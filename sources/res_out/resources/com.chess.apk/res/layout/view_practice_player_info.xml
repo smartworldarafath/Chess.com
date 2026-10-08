@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottomViewContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/avatarImg"
+        android:layout_width="@dimen/avatar_img_normal"
+        android:layout_height="@dimen/avatar_img_normal"
+        android:contentDescription="@string/avatar_content_description"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <com.chess.palette.components.ComposeView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margin_standard"
+        app:layout_constraintBottom_toBottomOf="@+id/avatarImg"
+        app:layout_constraintStart_toEndOf="@+id/avatarImg"
+        app:layout_constraintTop_toTopOf="@+id/avatarImg"/>
+    <ImageView
+        android:id="@+id/editButton"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:visibility="gone"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="2dp"
+        android:contentDescription="@string/edit"
+        android:layout_marginStart="@dimen/margin_x_small"
+        app:layout_constraintBottom_toBottomOf="@+id/avatarImg"
+        app:layout_constraintStart_toEndOf="@+id/username"
+        app:layout_constraintTop_toTopOf="@+id/avatarImg"
+        app:srcCompat="@drawable/glyph_square_open_pen"
+        app:tint="@color/white_40"/>
+</merge>

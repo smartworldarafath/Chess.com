@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/puzzleRushTop"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/avatarImg"
+        android:layout_width="@dimen/avatar_img_small"
+        android:layout_height="@dimen/avatar_img_small"
+        android:contentDescription="@string/avatar_content_description"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <TextView
+        android:id="@+id/scoreValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_marginStart="@dimen/half_margin_standard"
+        app:layout_constraintBottom_toBottomOf="@+id/avatarImg"
+        app:layout_constraintStart_toEndOf="@+id/avatarImg"
+        app:layout_constraintTop_toTopOf="@+id/avatarImg"
+        style="@style/Bold.SubHeader"/>
+    <com.chess.features.puzzles.rush.RushTimerView
+        android:enabled="false"
+        android:textSize="18sp"
+        android:id="@+id/timerValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        app:layout_constraintBottom_toBottomOf="@+id/avatarImg"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/avatarImg"
+        style="@style/Bold.SubHeader"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="no"
+        android:layout_marginEnd="@dimen/half_margin_standard"
+        app:layout_constraintBottom_toBottomOf="@+id/avatarImg"
+        app:layout_constraintEnd_toStartOf="@+id/timerValue"
+        app:layout_constraintTop_toTopOf="@+id/avatarImg"
+        app:srcCompat="@drawable/glyph_game_type_puzzle_rush"
+        app:tint="@color/white_65"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/boardPlayOverlay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:layout_gravity="center"
+        android:id="@+id/circleBg"
+        android:background="@drawable/lesson_completed_background"
+        android:layout_width="@dimen/lesson_thumbnail_play_img_size"
+        android:layout_height="@dimen/lesson_thumbnail_play_img_size"/>
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/iconImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/glyph_media_control_play"
+        android:contentDescription="@string/play"
+        app:tint="@color/green"/>
+</merge>

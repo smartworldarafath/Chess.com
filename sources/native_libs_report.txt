@@ -1,0 +1,171 @@
+﻿=== NATIVE LIBRARIES SCAN ===
+Total .so files: 32
+
+--- Scanning: libandroidx.graphics.path.so (7252 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (9352603, based on r450784d1) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6)
+
+--- Scanning: libappmodules.so (1360316 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libapproov.so (170780 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12896553, +pgo, +bolt, +lto, +mlgo, based on r530567c) clang version 19.0.0 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
+
+--- Scanning: libc++_shared.so (872872 bytes) ---
+  Suspicious hits: 0
+  URLs found: 2
+    [url] Android (11695104, +pgo, +bolt, +lto, +mlgo, based on r522817) clang version 18.0.1 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+    [url] Android (12470979, +pgo, +bolt, +lto, +mlgo, based on r522817c) clang version 18.0.3 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libcallstack-repack.so (28500 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libcee-wrapper.so (5240 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12027248, +pgo, +bolt, +lto, +mlgo, based on r522817) clang version 18.0.1 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libcee.so (45174756 bytes) ---
+  Suspicious hits: 0
+  URLs found: 0
+
+--- Scanning: libcee_driver.so (1002524 bytes) ---
+  Suspicious hits: 0
+  URLs found: 0
+
+--- Scanning: libcrashlytics-common.so (535476 bytes) ---
+  Suspicious hits: 1
+    [!] execve
+  URLs found: 3
+    [url] https://crashpad.chromium.org/bug/new
+    [url] https://crashpad.chromium.org/
+    [url] Android (12470979, +pgo, +bolt, +lto, +mlgo, based on r522817c) clang version 18.0.3 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libcrashlytics-handler.so (126584 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12470979, +pgo, +bolt, +lto, +mlgo, based on r522817c) clang version 18.0.3 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libcrashlytics-trampoline.so (3316 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12470979, +pgo, +bolt, +lto, +mlgo, based on r522817c) clang version 18.0.3 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libcrashlytics.so (133284 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12470979, +pgo, +bolt, +lto, +mlgo, based on r522817c) clang version 18.0.3 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libdatastore_shared_counter.so (5916 bytes) ---
+  Suspicious hits: 0
+  URLs found: 2
+    [url] Android (5220042 based on r346389c) clang version 8.0.7 (https://android.googlesource.com/toolchain/clang b55f2d4ebfd35bf643d27dbca1bb228957008617) (https://android.googlesource.com/toolchain/llvm 3c393fe7a7e13b0fba4ac75a01aa683d7a5b11cd) (based on LLVM 8.0.7svn)
+    [url] clang version 19.1.4 (https://github.com/Kotlin/llvm-project fb492d2475910b83cda3a68b4eee9e87d7e221c1)
+
+--- Scanning: libfbjni.so (119456 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libhermestooling.so (74720 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libhermesvm.so (1690912 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libimagepipeline.so (5876 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libjsi.so (278860 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libkt.so (2864 bytes) ---
+  Suspicious hits: 0
+  URLs found: 0
+
+--- Scanning: libmmkv.so (230304 bytes) ---
+  Suspicious hits: 0
+  URLs found: 2
+    [url] Android (13324770, +pgo, +bolt, +lto, +mlgo, based on r530567d) clang version 19.0.0 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
+    [url] Android (13324770, +pgo, -bolt, +lto, -mlgo, based on r530567d) clang version 19.0.0 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
+
+--- Scanning: libnative-filters.so (12588 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libnative-imagetranscoder.so (341072 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libnhook.so (164752 bytes) ---
+  Suspicious hits: 0
+  URLs found: 2
+    [url] Android (12328485, +pgo, +bolt, +lto, +mlgo, based on r530567) clang version 19.0.0 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
+    [url] Android (12328485, +pgo, -bolt, +lto, -mlgo, based on r530567) clang version 19.0.0 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
+
+--- Scanning: libNitroMmkv.so (316920 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libNitroModules.so (696368 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libreactnative.so (4706616 bytes) ---
+  Suspicious hits: 0
+  URLs found: 2
+    [url] [23m, does not support debugging over the Chrome DevTools Protocol. See https://reactnative.dev/docs/debugging for more information.
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libreact_codegen_RNCSlider.so (167340 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libreact_codegen_rnscreens.so (664576 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libreact_codegen_rnsvg.so (573696 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: libreact_codegen_safeareacontext.so (97148 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: librive-android.so (7257776 bytes) ---
+  Suspicious hits: 0
+  URLs found: 5
+    [url] The following warning was triggered: VKDBGUTILWARN002. Please refer to the Adreno Game Developer Guide for more information: https://developer.qualcomm.com/sites/default/files/docs/adreno-gpu/snapdragon-game-toolkit/learn_guides.html
+    [url] The following warning was triggered: VKDBGUTILWARN003. Please refer to the Adreno Game Developer Guide for more information: https://developer.qualcomm.com/sites/default/files/docs/adreno-gpu/snapdragon-game-toolkit/learn_guides.html
+    [url] The following warning was triggered: VKDBGUTILWARN003. Please refer to the Adreno Game Developer Guide for more information: https://developer.qualcomm.com/docs/adreno-gpu/developer-guide/index.html
+    [url] https://public.rive.app/cdn/uuid
+    [url] Android (12470979, +pgo, +bolt, +lto, +mlgo, based on r522817c) clang version 18.0.3 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+--- Scanning: librnscreens.so (51688 bytes) ---
+  Suspicious hits: 0
+  URLs found: 1
+    [url] Android (12285214, +pgo, +bolt, +lto, +mlgo, based on r522817b) clang version 18.0.2 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)

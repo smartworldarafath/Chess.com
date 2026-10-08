@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clipChildren="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Space
+        android:id="@+id/space"
+        android:visibility="@integer/gone_on_small_squarish_screen"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/toolbar_default_height"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <com.chess.chessboard.layout.ChessBoardLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:cbl_style="centered"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/space"
+        app:offset_topView_top="@dimen/game_move_history_view_height"
+        app:view_bottom="@layout/content_daily_game_bottom"
+        app:view_chessBoard="@layout/page_compose"
+        app:view_landscapeSide="@layout/content_daily_game_landscape_side"
+        app:view_top="@layout/content_daily_game_top"
+        app:view_topOverlay="@layout/content_game_top_overlay"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

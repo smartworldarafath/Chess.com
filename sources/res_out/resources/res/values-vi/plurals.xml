@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_feed_comments">
+        <item quantity="other">%d comments</item>
+    </plurals>
+    <plurals name="activity_feed_current_streak">
+        <item quantity="other">Current streak: %d days</item>
+    </plurals>
+    <plurals name="activity_feed_draws_chip">
+        <item quantity="other">%d draws</item>
+    </plurals>
+    <plurals name="activity_feed_losses_chip">
+        <item quantity="other">%d losses</item>
+    </plurals>
+    <plurals name="activity_feed_pin_limit">
+        <item quantity="other">You can only pin up to %d posts. Unpin a post to add another.</item>
+    </plurals>
+    <plurals name="activity_feed_played_games">
+        <item quantity="other">Played %d Games</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_points">
+        <item quantity="other">%d puzzle points</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_streak">
+        <item quantity="other">%d puzzles correct in a row</item>
+    </plurals>
+    <plurals name="activity_feed_reactions">
+        <item quantity="other">%d reactions</item>
+    </plurals>
+    <plurals name="activity_feed_streak_milestone_value">
+        <item quantity="other">%d Days</item>
+    </plurals>
+    <plurals name="activity_feed_wins_chip">
+        <item quantity="other">%d wins</item>
+    </plurals>
+    <plurals name="add_x_friends">
+        <item quantity="other">+ Thêm %d Bạn bè</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_user">
+        <item quantity="other">Chơi các trò chơi trên %d để nhận xếp hạng</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_visitor">
+        <item quantity="other">Thống kê sẽ xuất hiện sau %d trận đấu</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_decreased">
+        <item quantity="other">Giảm đi %d điểm</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_increased">
+        <item quantity="other">Tăng %d điểm</item>
+    </plurals>
+    <plurals name="app_update_message_no_action">
+        <item quantity="other">This app version will expire in %1$d days. Please update.</item>
+    </plurals>
+    <plurals name="app_update_message_with_action">
+        <item quantity="other">This app version will expire in %1$d days.</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_crowns">
+        <item quantity="other">%1$s, xếp hạng %2$s, bạn có %3$d vương miện</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_points">
+        <item quantity="other">%1$s, xếp hạng %2$s, kiếm được %3$d điểm</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_hours">
+        <item quantity="other">Quyền chơi trực tuyến của bạn hiện bị hạn chế do vi phạm &lt;a href=%1$s&gt;Chính sách cộng đồng&lt;/a&gt; của chúng tôi. Bạn có thể tiếp tục chơi sau %2$d giờ.</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_minutes">
+        <item quantity="other">Quyền chơi trực tuyến của bạn hiện bị hạn chế do vi phạm &lt;a href=%1$s&gt;Chính sách cộng đồng&lt;/a&gt; của chúng tôi. Bạn có thể tiếp tục chơi sau %2$d phút.</item>
+    </plurals>
+    <plurals name="coach_nudge_board_highlighted_squares">
+        <item quantity="other">Board with %d highlighted squares</item>
+    </plurals>
+    <plurals name="daily_puzzle_keep_streak_alive">
+        <item quantity="other">Hãy duy trì chuỗi %d ngày của bạn!</item>
+    </plurals>
+    <plurals name="daily_seeks_modal_subtitle">
+        <item quantity="other">Đối thủ của bạn có %d ngày để thực hiện nước đi của họ.</item>
+    </plurals>
+    <plurals name="daily_seeks_pending_modal_subtitle">
+        <item quantity="other">Sau khi đối thủ của bạn chấp nhận thách đấu, họ sẽ có %d ngày để thực hiện nước đi đầu tiên.</item>
+    </plurals>
+    <plurals name="event_reward_points_to_unlock">
+        <item quantity="other">%1$d %%tokenIcon%% để mở khóa</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Tua nhanh %d giây</item>
+        <item quantity="other">Tua nhanh %d giây</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Tua lại %d giây</item>
+        <item quantity="other">Tua lại %d giây</item>
+    </plurals>
+    <plurals name="first_daily_move_game_message_plural">
+        <item quantity="other">Đây là một ván đấu ngày mà đối thủ của bạn có tối đa %d ngày để di chuyển.</item>
+    </plurals>
+    <plurals name="first_daily_move_message_plural">
+        <item quantity="other">Bây giờ đối thủ của bạn có %d ngày để thực hiện nước đi.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_game_count">
+        <item quantity="other">Đã chơi %1$d lần.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_opening_stats">
+        <item quantity="other">Bạn đã chơi khai cuộc này %1$d lần với tỷ lệ thắng là %2$s.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_revised_opening_stats">
+        <item quantity="other">Đã chơi %1$d lần. Tỷ lệ thắng %2$s.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d thông báo mới</item>
+        <item quantity="other">%d thông báo mới</item>
+    </plurals>
+    <plurals name="play_more_blitz_games_count">
+        <item quantity="other">Chơi thêm các ván cờ chớp %d để được xếp hạng!</item>
+    </plurals>
+    <plurals name="play_more_bullet_games_count">
+        <item quantity="other">Chơi thêm các ván cờ siêu chớp %d để được xếp hạng!</item>
+    </plurals>
+    <plurals name="play_more_chess960_games_count">
+        <item quantity="other">Chơi thêm các ván cờ Chess960 trên %d để được xếp hạng!</item>
+    </plurals>
+    <plurals name="play_more_rapid_games_count">
+        <item quantity="other">Chơi thêm các ván cờ nhanh %d để được xếp hạng!</item>
+    </plurals>
+    <plurals name="plural_day_streak">
+        <item quantity="other">%d Chuỗi ngày</item>
+    </plurals>
+    <plurals name="plural_day_streak_">
+        <item quantity="other">chuỗi ngày!</item>
+    </plurals>
+    <plurals name="plural_puzzle_path_you_have_prestiged">
+        <item quantity="other">Bạn đã nâng cấp %dX</item>
+    </plurals>
+    <plurals name="plural_streak_days">
+        <item quantity="other">%d Days</item>
+    </plurals>
+    <plurals name="puzzle_bonus_reward_x_label">
+        <item quantity="other">Phần thưởng: %d Điểm</item>
+    </plurals>
+    <plurals name="puzzle_bonus_x_daily_subtitle">
+        <item quantity="other">%d Thế đố đã giải</item>
+    </plurals>
+    <plurals name="puzzle_path_x_friends_passed_this_tier_already">
+        <item quantity="other">%d bạn bè đã vượt qua cấp độ này rồi</item>
+    </plurals>
+    <plurals name="puzzles_rated_subtitle">
+        <item quantity="other">Train with more than %d puzzles</item>
+    </plurals>
+    <plurals name="relative_date_x_days_ago">
+        <item quantity="other">%d ngày trước</item>
+    </plurals>
+    <plurals name="stats_chess_com_players">
+        <item quantity="other">Người chơi Chess.com</item>
+    </plurals>
+    <plurals name="stats_games_today">
+        <item quantity="other">Các ván đấu hôm nay</item>
+    </plurals>
+    <plurals name="stats_masters_playing_now">
+        <item quantity="other">Kiện tướng đang chơi</item>
+    </plurals>
+    <plurals name="stats_playing_now">
+        <item quantity="other">Chơi ngay</item>
+    </plurals>
+    <plurals name="upgrade_puzzles_count">
+        <item quantity="other">%dk+ Thế cờ đố</item>
+    </plurals>
+    <plurals name="user_profile_provisional_tile">
+        <item quantity="other">Chơi %d ván cờ</item>
+    </plurals>
+    <plurals name="x_bishop">
+        <item quantity="other">%d Tượng</item>
+    </plurals>
+    <plurals name="x_challenges">
+        <item quantity="other">%d thách thức</item>
+    </plurals>
+    <plurals name="x_contacts_found">
+        <item quantity="other">%d Danh bạ được tìm thấy</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="x_days_in_a_row_new">
+        <item quantity="other">%d days in a row!</item>
+    </plurals>
+    <plurals name="x_days_move">
+        <item quantity="other">%1$d ngày/nước đi</item>
+    </plurals>
+    <plurals name="x_days_short">
+        <item quantity="other">%d Hòa</item>
+    </plurals>
+    <plurals name="x_friends_added">
+        <item quantity="other">%d bạn bè đã thêm!</item>
+    </plurals>
+    <plurals name="x_friends_online">
+        <item quantity="other">%d bạn online</item>
+    </plurals>
+    <plurals name="x_games_analyzed">
+        <item quantity="other">%1$d ván đã phân tích</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="x_hours_short">
+        <item quantity="other">%dH</item>
+    </plurals>
+    <plurals name="x_knight">
+        <item quantity="other">%d Mã</item>
+    </plurals>
+    <plurals name="x_lessons">
+        <item quantity="other">%d Bài học</item>
+    </plurals>
+    <plurals name="x_min">
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="x_minutes_short">
+        <item quantity="other">%dP</item>
+    </plurals>
+    <plurals name="x_months">
+        <item quantity="other">%d tháng</item>
+    </plurals>
+    <plurals name="x_new_announcements">
+        <item quantity="other">%d thông báo vừa đăng</item>
+    </plurals>
+    <plurals name="x_new_notes">
+        <item quantity="other">%d ghi chú vừa thêm</item>
+    </plurals>
+    <plurals name="x_new_posts">
+        <item quantity="other">%d bài viết mới</item>
+    </plurals>
+    <plurals name="x_new_topics">
+        <item quantity="other">%d chủ đề vừa tạo</item>
+    </plurals>
+    <plurals name="x_num_points">
+        <item quantity="other">%d điểm</item>
+    </plurals>
+    <plurals name="x_pawn">
+        <item quantity="other">%d Tốt</item>
+    </plurals>
+    <plurals name="x_puzzles_solved_new">
+        <item quantity="other">%d puzzles solved!</item>
+    </plurals>
+    <plurals name="x_queen">
+        <item quantity="other">%d quân hậu</item>
+    </plurals>
+    <plurals name="x_rook">
+        <item quantity="other">%d Xe</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%d Giây</item>
+    </plurals>
+    <plurals name="x_seconds_short">
+        <item quantity="other">%dGi</item>
+    </plurals>
+    <plurals name="x_trophies">
+        <item quantity="other">%d chiếc cúp</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="other">%d năm</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textSize="14sp"
+        android:textColor="@color/white_65"
+        android:gravity="start|center_vertical"
+        android:id="@+id/headerTitle"
+        android:background="@color/black_20"
+        android:focusable="true"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:text="@string/recent_puzzles"
+        android:drawablePadding="@dimen/margin_standard"
+        android:fontFamily="@font/custom_medium"
+        android:textDirection="locale"
+        android:textAlignment="viewStart"
+        android:paddingStart="@dimen/margin_standard"
+        android:paddingEnd="@dimen/margin_x_standard"
+        app:drawableEndCompat="@drawable/ic_right_white_16"
+        app:drawableStartCompat="@drawable/glyph_document_box_open"
+        app:drawableTint="@color/white_40"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <View
+        android:background="@color/white_20"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/tab_indicator_inactive_height"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tabs"/>
+    <com.google.inputmethod.material.tabs.TabLayout
+        android:id="@+id/tabs"
+        android:background="@color/black_20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/headerTitle"
+        app:tabIndicatorColor="@color/white"
+        style="@style/TabLayout"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

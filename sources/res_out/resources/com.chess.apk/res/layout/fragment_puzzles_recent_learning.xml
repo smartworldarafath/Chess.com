@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.chess.puzzles.recent.learning.RecentLearningRowView
+        android:background="@color/black_20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:labelsOnly="true"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <include
+        android:id="@+id/emptyRecentPuzzleLayout"
+        layout="@layout/empty_recent_puzzle_layout"/>
+</LinearLayout>

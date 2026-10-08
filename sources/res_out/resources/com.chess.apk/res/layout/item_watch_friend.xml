@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:background="@drawable/transparent_list_item_selector"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="16dp"
+    android:layout_marginStart="16dp">
+    <com.chess.internal.views.ProfileImageView
+        android:id="@+id/avatarImg"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/color_avatar_placeholder"
+        android:contentDescription="@string/avatar_content_description"/>
+    <TextView
+        android:textSize="16sp"
+        android:id="@+id/usernameTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"/>
+</LinearLayout>

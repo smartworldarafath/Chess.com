@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="24dp"
+    android:width="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#0069ab"
+        android:pathData="M0,6a5,5 0,0 1,5 -5h14a5,5 0,0 1,5 5v13a5,5 0,0 1,-5 5H5a5,5 0,0 1,-5 -5V6Z"/>
+    <path
+        android:fillColor="#1faddf"
+        android:pathData="M0,5a5,5 0,0 1,5 -5h14a5,5 0,0 1,5 5v13a5,5 0,0 1,-5 5H5a5,5 0,0 1,-5 -5V5Z"/>
+    <path
+        android:fillColor="@drawable/_streak_day_frozen__0_res_0x7f080406"
+        android:pathData="M0,6a5,5 0,0 1,5 -5h14a5,5 0,0 1,5 5v12a5,5 0,0 1,-5 5H5a5,5 0,0 1,-5 -5V6Z"/>
+    <path
+        android:fillColor="#0b548c"
+        android:pathData="m13.435,8.409 l-0.019,7.912c0,1.444 0.225,1.669 1.669,1.669 1.462,0 1.687,-0.225 1.687,-1.669l0.019,-7.913c0,-1.443 -0.225,-1.668 -1.669,-1.668 -1.462,0 -1.687,0.225 -1.687,1.668ZM7.81,8.409L7.79,16.32c0,1.444 0.225,1.669 1.669,1.669 1.462,0 1.687,-0.225 1.687,-1.669l0.019,-7.913c0,-1.443 -0.225,-1.668 -1.669,-1.668 -1.462,0 -1.687,0.225 -1.687,1.668Z"/>
+    <path
+        android:fillColor="#fff"
+        android:pathData="m13.435,7.659 l-0.019,7.912c0,1.444 0.225,1.669 1.669,1.669 1.462,0 1.687,-0.225 1.687,-1.669l0.019,-7.912c0,-1.444 -0.225,-1.67 -1.669,-1.67 -1.462,0 -1.687,0.226 -1.687,1.67ZM7.81,7.659L7.79,15.57c0,1.444 0.225,1.669 1.669,1.669 1.462,0 1.687,-0.225 1.687,-1.669l0.019,-7.912c0,-1.444 -0.225,-1.67 -1.669,-1.67 -1.462,0 -1.687,0.226 -1.687,1.67Z"/>
+</vector>

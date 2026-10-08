@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="daily_puzzle_correct_move_messages">
+        <item>Çok iyi bir görüş yeteneğiniz var! Bu, doğru hamleydi.</item>
+        <item>Güzel bir iş başardınız. Bu en iyi hamleydi.</item>
+        <item>Evet. Bu, doğru fikir.</item>
+        <item>Ben de aynı hamleyi yapardım.</item>
+        <item>Güzel!</item>
+        <item>Aynen böyle!</item>
+        <item>Tam isabet!</item>
+        <item>Doğuştan yeteneklisiniz!</item>
+        <item>Bu, tahtadaki en iyi hamleydi.</item>
+        <item>Harika bir iş başardınız!</item>
+    </array>
+    <array name="daily_puzzle_hint_move_messages">
+        <item>İşte en iyi hamle.</item>
+        <item>Sıkıştığınız yerden kurtulmak için bu hamleyi yapın.</item>
+        <item>İşte düşünmenize yardımcı olacak bir ipucu.</item>
+        <item>Bu en iyi hamledir.</item>
+        <item>Bu hamle sizi çıkmazdan kurtaracak.</item>
+        <item>Bu, doğru fikirdir.</item>
+        <item>Bu hamleyi yapmalısınız.</item>
+        <item>Bu hamle, diğerlerinden daha iyidir.</item>
+        <item>Ben olsam böyle oynardım.</item>
+        <item>Bu hamle yardımcı olmalı.</item>
+    </array>
+    <array name="daily_puzzle_hint_piece_messages">
+        <item>En iyi hamle bu taşla yapılır.</item>
+        <item>Bu taşa dikkat edin.</item>
+        <item>Bu taş burada büyük bir fark yaratabilir.</item>
+        <item>Bu taşla yapılabilecek bir hamle arayın.</item>
+        <item>Bu taşla yapabileceğiniz, oyunun gidişatını değiştirecek bir hamle var.</item>
+        <item>Bu taşa bakın ve sonrasında ne geleceğini hayal edin.</item>
+        <item>Bu taşla yapabileceğiniz bir saldırı, şah tehdidi veya taş alımı görüyor musunuz?</item>
+        <item>Ana fikir bu taşı içermektedir.</item>
+        <item>Yerinizde olsam bu taşa bakardım.</item>
+        <item>Bu taşla yapılması mümkün olan her hamleye bakın.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_first_heart_loss_messages">
+        <item>En iyi hamle bu değil.</item>
+        <item>Bir kalp kaybettiniz, ama hala deneme haklarınız var.</item>
+        <item>Pes etmeyin. Hala şansınız var.</item>
+        <item>Bu doğru değil, ama dört şansınız daha var.</item>
+        <item>Kalan kalplerinizi en iyi şekilde değerlendirmeye çalışın.</item>
+        <item>Kendinize sıkıntı etmeyin. Hala başka kalpleriniz var.</item>
+        <item>Tahtada daha iyi bir hamle var. Hala dört denemeniz daha var.</item>
+        <item>Bir kalp kaybettiniz, ama hala dört denemeniz daha var.</item>
+        <item>Sorun değil. Deneme yanılma yoluyla seçeneklerinizi daraltabilirsiniz.</item>
+        <item>O hatayı unutun. Kalan dört denemeniz daha var.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_generic_messages">
+        <item>Tam öyle değil. Başka bir kalp harcamadan önce dikkatlice düşünün.</item>
+        <item>Şah tehditleri, saldırılar ve taş alımları arayın.</item>
+        <item>Takılırsanız, bir ipucu kullanmayı deneyin.</item>
+        <item>Bu en iyi hamle değil. Tekrar deneyin.</item>
+        <item>Tahtada daha iyi bir hamle var.</item>
+        <item>Bir kalp harcamadan önce iyice düşünün.</item>
+        <item>Rakibinizin yanıtının ne olabileceğini düşünmeyi unutmayın.</item>
+        <item>Hangi hamle sizi daha iyi bir konuma ulaştırır?</item>
+        <item>Tekrar deneyin. Daha iyi bir hamle var.</item>
+        <item>Ne düşündüğünüzü anlıyorum, ama en iyi hamle bu değil.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_last_heart_remaining_messages">
+        <item>Bir kalp kaldı. Dikkatlice düşünün.</item>
+        <item>Son denemeniz. Başarabilirsiniz.</item>
+        <item>Acele etmeyin. Sadece bir kalp kaldı.</item>
+        <item>Bu hamleye gerçekten odaklanın. Sadece bir kalbiniz kaldı.</item>
+        <item>Son denemenizde tüm olası hamleleri gözden geçirmeyi unutmayın.</item>
+        <item>Bu, bulmacayı çözmek için son şansınız.</item>
+        <item>Kalan son denemenizle bu bulmacayı hala tamamlayabilirsiniz.</item>
+        <item>Bir kalp kaldı. Başarabilirsiniz!</item>
+        <item>Bu, en iyi hamle değil. Bir deneme hakkınız daha var.</item>
+        <item>Odaklanın. Bir tane daha deneme hakkınız kaldı.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_out_of_hearts_messages">
+        <item>Bu karmaşıktı. Başka bir bulmaca için yarın geri gelin.</item>
+        <item>Kalpler bitti. Çözümü görün veya kendi başınıza denemeye devam edin.</item>
+        <item>Bu sizin son kalbinizdi. Çözümü görebilirsiniz veya denemeye devam edebilirsiniz.</item>
+        <item>Yarın çözülecek başka bir bulmaca daha olacak.</item>
+        <item>Çözümü görmek mi istersiniz, yoksa kendi başınıza düşünmeye devam etmek mi istersiniz?</item>
+        <item>Kalpleriniz bitti, ama isterseniz denemeye devam edebilirsiniz.</item>
+        <item>Çözmeye devam edebilirsiniz veya çözümü görebilirsiniz.</item>
+        <item>Kalpleriniz bitti, ama denemeye devam edebilirsiniz.</item>
+        <item>Haklarınız bitti. Denemeye devam edin veya çözümü görün.</item>
+        <item>Takıldıysanız, çözümü görebilirsiniz. Eğer halledeceğinizi düşünüyorsanız, denemeye devam edin!</item>
+    </array>
+    <array name="daily_puzzle_solved_all_hearts_messages">
+        <item>Mükemmel! Hiç hata yapmadınız ve hiç ipucu kullanmadınız.</item>
+        <item>Hiç hata yok mu? Etkileyici!</item>
+        <item>Mükemmel bir performans! Güzel bir iş başardınız.</item>
+        <item>İpucuna bile ihtiyaç duymadınız! Harika bir iş başardınız.</item>
+        <item>Onu sanki kolay bir işmiş gibi gösterdiniz!</item>
+        <item>Mükemmel bir performans, üstelik tek bir kalp bile harcamadınız.</item>
+        <item>Başardınız! Hiç kalp harcamadınız.</item>
+        <item>Hata yapmadan çözmekle harika bir iş başardınız!</item>
+        <item>Vay canına! Mükemmel bir bulmaca.</item>
+        <item>Doğru! Hiç hata yapmadan çözdünüz.</item>
+    </array>
+    <array name="daily_puzzle_solved_generic_messages">
+        <item>Güzel! Bu bulmaca hakkında daha fazla bilgi edinmek için videoyu izleyin.</item>
+        <item>Başardınız! Bu doğru hamledir.</item>
+        <item>Etkileyici! Bu karmaşık bir bulmacaydı.</item>
+        <item>Evet! O hamle, bu bulmacanın anahtarıydı.</item>
+        <item>Bu, gelecekte hatırlamanızda fayda olacak iyi bir bulmacadır.</item>
+        <item>İşte böyle yapılır! Unutmayın, her gün yeni bir bulmaca var.</item>
+        <item>Görüş yeteneğiniz iyi! Doğru çözümü buldunuz.</item>
+        <item>O bulmaca sizi zorlamadı bile!</item>
+        <item>Bulmaca çözmekte yeteneklisiniz.</item>
+        <item>Evet! O bulmaca hiç de kolay değildi.</item>
+    </array>
+    <array name="daily_puzzle_solved_no_hearts_messages">
+        <item>Bu biraz karmaşıktı. Yarın tekrar deneyin.</item>
+        <item>Yarın tekrar gelin ve yeni bir bulmaca deneyin.</item>
+        <item>Artık ne oynayabileceğinizi biliyorsunuz. Daha fazla bilgi edinmek için bu videoyu izleyin.</item>
+        <item>En iyi hamleleri öğrenmek için bu videoyu izleyin.</item>
+        <item>Yarın tekrar deneyin. Her bulmaca, kendinizi geliştirme fırsatıdır.</item>
+        <item>Kalpleriniz bitti. En iyi hamleleri öğrenmek için bu videoyu izleyin.</item>
+        <item>En iyi hamleleri kaçırdınız, ama yine de öğrenecek bir şeyler var.</item>
+        <item>En iyi hamleleri öğrenmek ister misiniz? Bu videoyu izleyin.</item>
+        <item>İyi denemeydi. Yarın bir şansınız daha olacak.</item>
+        <item>Umarım bu size bir şeyler öğretmiştir. Yarın tekrar deneyin.</item>
+    </array>
+    <array name="daily_puzzle_solved_one_heart_remaining_messages">
+        <item>Son kalbinizde başardınız. Tebrikler!</item>
+        <item>Başardınız, hem de sadece bir kalp kalmışken.</item>
+        <item>Doğru! Güzel bir iş başardınız.</item>
+        <item>Sadece bir kalp kalmışken başardınız!</item>
+        <item>Sadece bir kalp kalmışken çözmekle harika bir iş başardınız!</item>
+        <item>Onu çözeceğinizi biliyordum.</item>
+        <item>Bugünkü Günlük Bulmaca\'yı çözmekle güzel bir iş başardınız.</item>
+        <item>Vay canına! Bu taktik hamleleri gelecekte kullanmak için aklınızda tutun.</item>
+        <item>Tam zamanında! Sadece bir kalp kalmışken çözdünüz.</item>
+        <item>İşte oldu! Harika bir iş başardınız.</item>
+    </array>
+    <array name="daily_puzzle_starting_position_messages">
+        <item>Sıra sizde. En iyi hamleyi görüyor musunuz?</item>
+        <item>Hamle sizde. Burada diğer hamlelerden daha iyi olan bir hamle var.</item>
+        <item>Gerçek bir oyunda nasıl oynardınız?</item>
+        <item>Parlamanızın zamanı geldi. En iyi hamle nedir?</item>
+        <item>Hamle sizde. Birkaç hamle ilerisini düşünmeye çalışın.</item>
+        <item>İyi bir hamleniz var. Onu görüyor musunuz?</item>
+        <item>Tahtada diğer hamlelerden daha iyi bir hamle var.</item>
+        <item>Hamle sizde. Yapabilirsiniz!</item>
+        <item>İlk hamlenizi yapmadan önce dikkatlice düşünün.</item>
+        <item>Takılırsanız, bir kalp harcayarak bir ipucu alabilirsiniz.</item>
+    </array>
+    <array name="daily_puzzle_welcome_messages">
+        <item>Hoş geldiniz! Bu çok eğlenceli bir bulmaca.</item>
+        <item>Bugünkü Günlük Bulmaca kafa yormayı gerektiriyor.</item>
+        <item>Günlük Bulmaca\'yı çözebileceğinizi biliyorum.</item>
+        <item>Siz bunu halledersiniz!</item>
+        <item>Bugünkü Günlük Bulmaca\'da bazı sürprizler bekleyin.</item>
+        <item>Bugünkü Günlük Bulmaca\'yı çözebileceğinizi biliyorum.</item>
+        <item>Bugünkü bulmacada takılırsanız ipuçlarını kullanmayı unutmayın.</item>
+        <item>Mümkün olan pek çok hamle var, ama en iyi hamle bunlardan sadece bir tanesi.</item>
+        <item>Size inanıyorum!</item>
+        <item>Hoş geldiniz! Bugünkü bulmaca biraz karmaşık, o yüzden acele etmeyin.</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </array>
+    <array name="game_review_placeholders_impersonal">
+        <item>Oyun inceleniyor…</item>
+        <item>En iyi devam yolları hesaplanıyor…</item>
+        <item>Ben analiz ederken bir dakika bekleyin…</item>
+        <item>İncelemem için bana bir saniye verin…</item>
+        <item>Bir saniye, şu anda analiz ediliyor…</item>
+        <item>Bana bir dakika verin, şu anda inceliyorum…</item>
+        <item>Biraz sabredin, analizi neredeyse tamamladım…</item>
+        <item>Biraz sabredin, incelemeyi neredeyse tamamladım…</item>
+        <item>Neredeyse bitti, bir saniye…</item>
+        <item>Oyun İncelemesi yükleniyor…</item>
+        <item>Şimdi Oyun İncelemesi yükleniyor…</item>
+        <item>Oyun İncelemesi yükleniyor…</item>
+        <item>Bir dakika…</item>
+        <item>Analiz Ediliyor…</item>
+        <item>Şu güzel at taşlarına hayran kalmamak elde değil…</item>
+    </array>
+    <array name="game_review_placeholders_personal">
+        <item>Oyununuz inceleniyor…</item>
+        <item>Oyununuz analiz ediliyor…</item>
+        <item>Oyununuz kontrol ediliyor…</item>
+        <item>Oyununuzu gözden geçiriyorum…</item>
+        <item>Hamleleriniz inceleniyor…</item>
+        <item>Hamleleriniz analiz ediliyor…</item>
+        <item>Neredeyse bitti, hamleleriniz inceleniyor…</item>
+        <item>Neredeyse bitti, oyun incelemeniz geliyor…</item>
+        <item>Oyun İncelemeniz yüklenirken bir dakika bekleyin…</item>
+        <item>Şimdi oyununuzun çözümlemesine başlıyorum…</item>
+        <item>Ben oyununuzun çözümlemesini yaparken bir dakika bekleyin…</item>
+        <item>Oyun İncelemeniz yükleniyor…</item>
+    </array>
+    <array name="learningTilesArray">
+        <item>Beklediğiniz oyunların üstünde</item>
+        <item>Tüm oyunlarınızın altında</item>
+        <item>Etkin değil</item>
+    </array>
+    <array name="loading_phrases">
+        <item>Her zaman şah tehditleri, taş alımları ve saldırılar arayın.</item>
+        <item>Sicilya Savunması, 1.e4 hamlesine verilen en gözde yanıttır.</item>
+        <item>Tahtanın kontrolünü ele geçirmek için taşlarınızı başlangıç karelerinden farklı konumlara geliştirin.</item>
+        <item>Vezirinizi çok erken dışarı çıkarmanız açılışta büyük hatalara sebep olabilir.</item>
+        <item>Taşlarınızı geliştirmenize izin verecek piyon hamleleri arayın.</item>
+        <item>Açılışta aynı taşla iki defa oynamak genelde tempo kaybı olarak görülmektedir.</item>
+        <item>Değerlendirme grafiği her hamlenin ardından oyuncuların avantajını hesaplamaktadır.</item>
+        <item>Bir Büyük Hata %Blunder%, bir oyuncunun konumunu ciddi şekilde olumsuz yönde etkileyen bir hamledir.</item>
+        <item>Kaçırılan bir hamle %Miss%, rakibinizin hatasını cezalandırmak için bir taktik fırsatı veya şansı gözden kaçırdığınızda ortaya çıkar.</item>
+        <item>Bir Hata %Mistake%, konumunuzu hemen bozan, kötü bir hamledir.</item>
+        <item>Yanlışlık %Inaccuracy% en iyi hamle kadar iyi olmayan, zayıf bir hamledir.</item>
+        <item>Bir Kitap %Book% hamlesi, iyi oyuncular tarafından düzenli olarak oynanan standart bir açılış hamlesidir.</item>
+        <item>Bir İyi %Good% hamle güzeldir, ama tahtada daha da iyi hamleler vardı!</item>
+        <item>Mükemmel %Excellent% hamle, temelde En İyi hamle kadar iyidir: kendinizle gurur duyun!</item>
+        <item>En İyi %Best% hamle, analiz motorunun o konumda en iyi olarak belirlemiş olduğu hamledir.</item>
+        <item>Çok İyi hamle %Great%, oyunun akışını değiştirmiş olan kritik bir hamledir.</item>
+        <item>Göz Alıcı hamle %Brilliant% çok iyi bir feda bulduğunuzda gerçekleşir.</item>
+        <item>Doğruluk, En İyi %Best% hamlelere ne kadar benzer şekilde oynadığınızın ölçüsüdür.</item>
+        <item>Yeni bir açılış öğrenmek, satrancı diri tutmanın eğlenceli bir yoludur.</item>
+        <item>3 hamleden sonra mümkün olan 121 milyon konum bulunmaktadir.</item>
+        <item>Bazıları \"Yunan Hediyesi Fedası\" isminin bir İtalyan olan Gioachino Greco\'dan geldiğine inanır.</item>
+        <item>Stanley Kubrick, 20\'li yaşlarının başlarındayken yemek parası bulabilmek için Washington Meydanı Parkı\'nda para karşılığı satranç oynamıştır.</item>
+        <item>Dünyada 1.800\'e yakın büyükusta bulunmaktadır.</item>
+        <item>En passant, Fransızca \"geçerken\" demektir.</item>
+        <item>Eğer \"kale\", savaş arabası anlamına gelen Farsça \"rukh\" kelimesinden geliyorsa, bu taş neden bir kule görünümündedir?</item>
+        <item>Abhimanyu Mishra 12 yıl, 4 ay ve 25 gün ile gelmiş geçmiş en genç büyük usta oldu.</item>
+        <item>\"Deep Blue\" (Derin Mavi) ismi IBM\'deki bir isim verme yarışmasından gelmektedir ve şirketin lakabı olan \"Büyük Mavi\" ismine benzemektedir</item>
+        <item>Zugzwang, Almanca\'da \"hamle sıkışması\" anlamına gelmektedir ve yapılan herhangi bir hamlenin oyuncuyu dezavantajlı konuma getireceği durumları ifade etmektedir.</item>
+        <item>Bıçak Sırtı filminde oynanan satranç oyunu \"Ölümsüz Oyun\" olarak bilinen ve 1851\'de Adolf Anderssen ve Lionel Kiseritzky arasında oynanan oyunun yeniden canlandırmasıdır.</item>
+        <item>Bir Chess960 oyununda 960 tane kurallara uygun başlangıç konumu vardır.</item>
+        <item>İkinci Dünya Savaşı sırasında İngiliz satranç ustaları şifre kırıcı olarak görevlendirilmiştir.</item>
+        <item>1800\'lerin ortalarına kadar satranç oyunları zaman sınırlaması olmadan oynanırdı.</item>
+        <item>1600\'lere kadar rok yapmak iki hamle gerektirirdi.</item>
+        <item>Satranç hamlelerini yazmak için şu anda kullanılan cebirsel notasyon biçimi 1981 yılında resmileştirilmiştir.</item>
+        <item>İlk satranç bilgisayarı, Mekanik Türk, aslında bir kutuya saklanan ve bir robot taklidi yapan bir adamdı.</item>
+        <item>Bir Dünya Şampiyonası karşılaşmasında şah mat en son 1929\'da gerçekleşmiştir.</item>
+        <item>1951\'de Uluslararası Usta Robert Wade 30 tane Rus okul öğrencisine karşı simültane gösteri karşılaşması oynamıştır. Wade 0 oyunu kazanmış, 10 tanesinde berabere kalmış ve diğer 20 tanesini kaybetmiştir.</item>
+        <item>Mümkün olan en hızlı şah mat sadece 2 hamle gerektirir.</item>
+        <item>Dünya Şampiyonu Alexander Alekhine\'nin \"Satranç\" adında bir kedisi vardı.</item>
+        <item>1978 Dünya Şampiyonası\'nda Anatoly Karpov, en ön sırada oturup rakibine kesintisiz bakması için bir hipnotizmacıyı işe almıştı.</item>
+        <item>Dünya Şampiyonu Mikhail Tal\'ın sağ elinde sadece 3 parmak vardı.</item>
+        <item>Evans Gambiti, adını 19. yüzyılda yaşamış Galler doğumlu denizci William Davies Evans\'tan almaktadır.</item>
+        <item>1984–85 Dünya Şampiyonası 5 ay ve 48 oyunun ardından oyuncuların sağlığı göz önünde bulundurularak durdurulmuştur.</item>
+        <item>Dünya Şampiyonası\'nda oynanmış gelmiş geçmiş en uzun oyun, 136 hamle oynanan 2021 Dünya Şampiyonası\'nın 6. oyunudur.</item>
+        <item>\"Büyük hataların hepsi tahtadalar, yapılmayı bekliyorlar.\" - Savielly Tartakower</item>
+        <item>\"İki çeşit feda vardır: Doğru olanlar ve benimkiler.\" - Mikhail Tal</item>
+        <item>\"Satranç, zihnin spor salonudur.\" - Blaise Pascal</item>
+        <item>\"Kötü bir plan bile hiçbir plan olmamasından iyidir.\" - Mikhail Chigorin</item>
+        <item>\"Oyunun kazananı, sonuncu hatadan önceki hatayı yapan oyuncudur.\" - Savielly Tartakower</item>
+        <item>\"Ben Alekhine, dünya satranç şampiyonu. Satranç adında bir kedim var.\" - Alexander Alekhine, Polonya-Rusya sınırında pasaportu olmadan durdurulduğunda.</item>
+        <item>\"Satranç problemleri, bestecisinden, tüm değerli sanat eserlerine özgü erdemlerin aynılarını talep eder.\" - Vladimir Nabokov</item>
+        <item>\"Satranç, ince bir değerlendirme meselesidir, ne zaman yumruk atacağını ve nasıl kaçacağını bilmektir.\" - Bobby Fischer</item>
+        <item>\"Düzenli gayret göstermek, her zaman hemen olmasa da, elle tutulur sonuçlar sağlar.\" - Garry Kasparov</item>
+        <item>\"Tahtadaki taşların sayısı azaldıkça bir geçer piyonun kuvveti artar.\" - Jose Raul Capablanca</item>
+        <item>\"Satranç, mantık bilimini ifade eden sanattır.\" - Mikhail Botvninnik</item>
+        <item>\"Eğer intikam size motivasyon sağlıyorsa, onun peşinden gidin!\" - Viswanathan Anand</item>
+        <item>\"İyi oynamak istiyorsanız, şu ana odaklanmanız önemlidir.\" - Vassily Ivanchuk</item>
+        <item>\"En büyük meydan okuma, kendinize dair fikirlerinizi gerçekleştirmektir.\" - Judit Polgar</item>
+        <item>%websiteName% 2005 yılında Erik ve Jay adındaki iki üniversite arkadaşı tarafından kurulmuştur.</item>
+        <item>%websiteName% üyeleri ayda bir milyardan fazla oyun oynamaktadır!</item>
+    </array>
+    <array name="offline_coach_messages">
+        <item>Aa, en sevdiğim öğrencim! Seni görmek ne güzel.</item>
+        <item>Tekrar hoş geldiniz. Sizi görmek çok güzel.</item>
+        <item>Seni görmek güzel, arkadaşım.</item>
+        <item>Bu benim en sevdiğim öğrencim değil mi? Merhaba!</item>
+        <item>Biraz satranç oynamak için güzel bir gün.</item>
+        <item>Günde bir bulmaca, kötü hamleleri uzak tutar.</item>
+        <item>Günde bir bulmaca, büyük hataları uzak tutar.</item>
+        <item>Seviye atlamak mı istiyorsunuz? Bir bulmacayla başlayın.</item>
+        <item>Siz öğrenmeye hazırsanız, ben öğretmeye hazırım.</item>
+        <item>Hangi satranç etkinliğini yapmak istersiniz?</item>
+        <item>Bugün neye odaklanacaksınız?</item>
+        <item>Herhangi bir şeye ihtiyacınız olursa, öğrenmenize yardımcı olmak için buradayım.</item>
+        <item>Yeni satranç açılışları öğrenmek çok heyecan verici olabilir.</item>
+        <item>Bir şeyler öğretmenin en sevdiğim yanı, öğrencilerimin kendini geliştirdiğini görmektir.</item>
+        <item>Satranç oynamak, zihninizi dinç tutmanın eğlenceli bir yoludur.</item>
+        <item>Bir oyun oynamak istemediğim zamanlarda, onun yerine birkaç bulmaca çözerim.</item>
+        <item>Hadi bugün yeni bir satranç stratejisi öğrenelim.</item>
+        <item>Nasıl gidiyor? Biraz satranç oynamaya hazır mısınız?</item>
+        <item>Sizi görmek her zaman çok güzel. Hoş geldiniz.</item>
+        <item>Aa evet, tekrar hoş geldiniz!</item>
+        <item>Sizi görmek güzel! Siz varken burası daha güzel oluyor.</item>
+        <item>Kazansanız da, kaybetseniz de, her oyun size bir şeyler öğretir.</item>
+        <item>Satranç, odaklanmayı, mantığı ve hayal gücünü aynı anda çalıştırır!</item>
+        <item>Bakın kimler gelmiş! En sevdiğim satranç oyuncusu geri geliyor.</item>
+        <item>Siz oyunları oynayın, ben de sizin anlamanıza yardım edeyim.</item>
+        <item>Ben sizin eğitmeninizim. Öğrenmenize, gelişmenize ve satrancı yeni bakış açılarıyla görmenize yardımcı olacağım.</item>
+        <item>Öğrenmenize, oyunlarınızı incelemenize ve en iyi hamlelerinizi keşfetmenize yardımcı olmak için buradayım.</item>
+        <item>Burada olduğunuz için çok mutluyum. Hadi birlikte oynayalım ve yeni bir şeyler öğrenelim.</item>
+        <item>Sizi tekrar görmek harika. Bugün satranca zaman ayırdığınız için mutluyum.</item>
+        <item>Tekrar hoş geldiniz! Kaldığınız yerden devam edelim.</item>
+        <item>Sizi tekrar görmek güzel! Hadi bugün yeni bir şey öğrenelim.</item>
+        <item>Bulmacalar zihninizi dinç tutmanın hızlı bir yoludur.</item>
+        <item>Düşük seviyeli stresle kendinizi geliştirmek için bir bot karşısında oynayın!</item>
+        <item>Biraz bulmaca çözerek ısınmak ister misiniz?</item>
+        <item>Hoş geldiniz! Umarım öğrenmeyi, benim koçluk yapmayı sevdiğim kadar seviyorsunuzdur!</item>
+        <item>Bugün yeni bir şey öğrenmek ister misiniz? Bir ders almayı deneyin!</item>
+        <item>Sizi görmek güzel! Öğrencilerimin satrançta daha iyi hale geldiklerini görmeyi seviyorum.</item>
+        <item>Satranç her zaman heyecan vericidir. Çoğu oyunun milyarlarca olasılık içinden benzersiz bir oyun olduğunu biliyor muydunuz?</item>
+        <item>Kendinizi geliştirmek mi istiyorsunuz? Satrancı günlük rutininizin bir parçası haline getirin!</item>
+        <item>Satrançta her zaman öğrenilecek yeni şeyler vardır. Nereden başlamalıyız?</item>
+        <item>Satrancı heyecanlı tutmak için en sevdiğim yollardan biri, yeni bir açılış öğrenmektir!</item>
+        <item>Bu arada, bir bot karşısında bir oyun oynarsanız, ipuçları ve hamleleri geri alma özelliğiyle oynayabilirsiniz.</item>
+        <item>Buradasınız, demek ki satranç zamanı geldi!</item>
+        <item>Her hamle bir adım ileriye götürür. Tahtanın başına geçmekle harika bir iş başardınız.</item>
+        <item>Tutarlı çaba, gerçek ilerlemenin yolunu açar.</item>
+        <item>Bugün odaklanmak, yarın size bunun karşılığını verecektir.</item>
+        <item>Geri dönmenize sevindim. Oynamaya hazır mısınız?</item>
+        <item>Satranç, sabrı ve disiplini ödüllendirir.</item>
+        <item>Geri dönmenize sevindim. Öğrenmeye hazır mısınız?</item>
+        <item>İlerleme, birçok küçük iyileştirmenin birikmesiyle inşa edilir.</item>
+        <item>Hoş geldiniz! Burası iyi alışkanlıkların edinildiği yerdir.</item>
+        <item>Satranç yeteneklerinizi test etmeye hazır mısınız?</item>
+        <item>Tekrar hoş geldiniz! Bugün neler yapabileceğinizi görelim.</item>
+    </array>
+    <array name="puzzles_coach_comments_10_in_a_row">
+        <item>Bununla beraber art arda 10 tane etti! Muhteşem çözümler!</item>
+        <item>Muhteşem bir çözme bir serisindesiniz!</item>
+        <item>Görüşünüz keskin! Bununla beraber art arda 10 tane etti!</item>
+        <item>Art arda on tane kusursuz bulmaca mı!? Fantastik!</item>
+        <item>Efsane seri! Her şeyi çözüyorsunuz!</item>
+    </array>
+    <array name="puzzles_coach_comments_3_in_a_row">
+        <item>Art arda üç tane! Şimdi sakın durmayın!</item>
+        <item>Harika gidiyorsunuz!</item>
+        <item>1-2-3 art arda! Harika iş!</item>
+        <item>Sanki kolaymış gibi gözükmesine sebep oluyorsunuz!</item>
+        <item>Harika hamle! Çok iyi gidiyorsunuz!</item>
+    </array>
+    <array name="puzzles_coach_comments_5_in_a_row">
+        <item>Vay! Çok iyi gidiyorsunuz!</item>
+        <item>Art arda beş tane! Harika!</item>
+        <item>Bu bulmacalar sizin için fazla kolay!</item>
+        <item>Böyle devam edin! Harika bir iş başarıyorsunuz!</item>
+        <item>Bir bulmaca çözme makinesisiniz!</item>
+    </array>
+    <array name="puzzles_coach_comments_7_in_a_row">
+        <item>Doğru hamleleri yapma yeteneğiniz göz alıcı!</item>
+        <item>Tahta alev alev! Bununla beraber, art arda yedi tane doğru yanıt etti!</item>
+        <item>Her şeyi görüyorsunuz! Mükemmel bir şey bu.</item>
+        <item>Siz profesyonel bir bulmaca çözücüsü olabilirmişsiniz… tabii eğer öyle bir meslek olsaydı.</item>
+        <item>Art arda yedi bulmaca mı?! Göz alıcı!</item>
+    </array>
+    <array name="puzzles_coach_comments_general">
+        <item>Güzel iş başardınız!</item>
+        <item>Evet! İşte yolu budur!</item>
+        <item>İyi bir çözüm!</item>
+        <item>Mükemmel! Güzel iş başardınız.</item>
+        <item>Harika! Çözümü buldunuz!</item>
+        <item>Onu buldunuz! Çok iyi iş başardınız.</item>
+        <item>Tam üstüne bastınız! Buldunuz.</item>
+        <item>Çok iyi!</item>
+        <item>Çözümü fark ettiniz. Mükemmel!</item>
+        <item>Doğru! İyi oynadınız.</item>
+        <item>İyi iş başardınız!</item>
+        <item>Fantastik!</item>
+        <item>Harika bir işti!</item>
+        <item>Evet, gerçekten de öyle! Buldunuz!</item>
+        <item>Çok iyi çözdünüz!</item>
+        <item>Akıllıca oyun!</item>
+        <item>Doğru! İyi oynadınız!</item>
+        <item>Gözleriniz keskin görüyor! İyi iş başardınız!</item>
+        <item>Mükemmel oyun! Onu çözdünüz!</item>
+        <item>Harika oyun!</item>
+    </array>
+    <array name="puzzles_coach_comments_solution_shown">
+        <item>İşte doğru yanıt.</item>
+        <item>İşte bulmacanın çözümü.</item>
+        <item>Güzel deneme! İşte doğru yanıt.</item>
+        <item>Ne kadar da karışık bir bulmaca. Hadi bir tane daha deneyelim.</item>
+        <item>Bu kalıbı hatırlayıp hatırlayamayacağınızı görün.</item>
+        <item>En iyi öğrencilerim bile her bulmacayı doğru yanıtlayamaz.</item>
+        <item>Merak etmeyin. Bir dahaki sefere yanıtı bulursunuz!</item>
+        <item>Bu bulmacayı tekrar deneyin ve kalıbı ezberlemeye çalışın.</item>
+        <item>Bu bulmacayı tekrar deneyin ve her hamleyi anlamaya çalışın!</item>
+        <item>Eğitmen imdada yetişti! Ne kadar da eğlenceli bir bulmaca.</item>
+        <item>Bu sorun değil. Bulmacalar bazen gerçekten kafa karıştırıcı olabiliyor!</item>
+        <item>Yardım etmekten ötürü her zaman memnun olurum!</item>
+        <item>İyi bir denemeydi. Bir tanesine daha hazır mısınız?</item>
+        <item>O bulmacaya çalışın ve hamleleri anlamayı deneyin.</item>
+        <item>Bir bulmacayı her zaman pratik amaçlı olarak tekrar deneyebilirsiniz.</item>
+        <item>İyi deneme! Başka bir bulmacaya hazır mısınız?</item>
+    </array>
+    <array name="puzzles_coach_home_array">
+        <item>Bulmaca çözmek, kalıpları tanımayı ve taktiksel beceriyi geliştirmenin en iyi yoludur.</item>
+        <item>Satrancın %99\'unun taktik hamlelerden oluştuğunu söylerler… İyi haber! Bulmacalar tam olarak bununla ilgilidir.</item>
+        <item>Her gün Bulmaca yapmak, rakiplerinizin hatalarını görmenizi kolaylaştırır.</item>
+        <item>Her gün Bulmaca yapmak, kendi oyunlarınızda güvenli hamleler seçmenize yardımcı olur.</item>
+        <item>Bulmacalar açılışlarınızı daha güvenli, oyun ortalarınızı kendinize daha fazla güvenerek ve oyun sonlarınızı daha doğru bir şekilde oynamanıza yardımcı olur.</item>
+        <item>Bulmacalar satrançta kendinizi eğitmek ve geliştirmek için harikadır - ve aynı zamanda çok da eğlencelidirler!</item>
+        <item>Bir Bulmacada yanlış yaptığınızda, o bulmacayı her zaman yeniden denemeli ve neyi kaçırdığınızı görmek için çözümü gözden geçirmelisiniz.</item>
+        <item>İşleri hızlandırmak ister misiniz? Üçüncü hatanızın son hatanız olacağı Bulmacaya Hücum\'da oynarken hızlı çözdüğünüzde skorunuzu geliştirin!</item>
+        <item>Birkaç dakikanız varsa, Bulmacaya Hücum zihninize idman yaptıracaktır!</item>
+        <item>Günlük Bulmaca\'nın hafta boyunca zorlaştığını biliyor muydunuz? Pazar bulmacaları zorludur!</item>
+        <item>Bulmaca gününü asla atlamayın!</item>
+        <item>Biraz Bulmaca çözerek taktik yeteneklerinizi geliştirme zamanı geldi mi?</item>
+        <item>Çözmeye başlamanın zamanı geldi!</item>
+        <item>Her Bulmaca konumunda sadece bir hamle işe yaramaktadır… O hamleyi bulabilir misiniz?</item>
+        <item>Tekrar hoş geldiniz! Hadi bulmaca çözmeye başlayalım…</item>
+        <item>Hızlanma ihtiyacı mı hissediyorsunuz? Bulmacaya Hücum oynamaya ne dersiniz?</item>
+        <item>Bulmacaları çözenlerin çoğundan daha hızlı olduğunuzu mu düşünüyorsunuz? Bir Bulmaca Muharebesiyle ısınmayı deneyin!</item>
+    </array>
+    <array name="skills_name">
+        <item>Yeni</item>
+        <item>Gelişen</item>
+        <item>Orta Düzey</item>
+        <item>İleri Düzey</item>
+        <item>Çok ileri Düzey</item>
+    </array>
+</resources>

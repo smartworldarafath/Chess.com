@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_feed_comments">
+        <item quantity="other">%d条评论</item>
+    </plurals>
+    <plurals name="activity_feed_current_streak">
+        <item quantity="other">当前已连续：%d天</item>
+    </plurals>
+    <plurals name="activity_feed_draws_chip">
+        <item quantity="other">%d和</item>
+    </plurals>
+    <plurals name="activity_feed_losses_chip">
+        <item quantity="other">%d负</item>
+    </plurals>
+    <plurals name="activity_feed_pin_limit">
+        <item quantity="other">您最多只能置顶%d条帖子。请先取消置顶已有帖子后再添加。</item>
+    </plurals>
+    <plurals name="activity_feed_played_games">
+        <item quantity="other">已对局%d 盘</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_points">
+        <item quantity="other">%d谜题积分</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_streak">
+        <item quantity="other">已连续做对%d道谜题</item>
+    </plurals>
+    <plurals name="activity_feed_reactions">
+        <item quantity="other">%d条互动</item>
+    </plurals>
+    <plurals name="activity_feed_streak_milestone_value">
+        <item quantity="other">%d天</item>
+    </plurals>
+    <plurals name="activity_feed_wins_chip">
+        <item quantity="other">%d胜</item>
+    </plurals>
+    <plurals name="add_x_friends">
+        <item quantity="other">+ 添加%d个好友</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_user">
+        <item quantity="other">完成%d场对局即可获得等级分</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_visitor">
+        <item quantity="other">完成%d盘对局后显示统计数据</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_decreased">
+        <item quantity="other">等级分下降%d分</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_increased">
+        <item quantity="other">等级分上涨%d分</item>
+    </plurals>
+    <plurals name="app_update_message_no_action">
+        <item quantity="other">该应用版本将在%1$d天后过期。请更新。</item>
+    </plurals>
+    <plurals name="app_update_message_with_action">
+        <item quantity="other">该应用版本将在%1$d天后过期。</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_crowns">
+        <item quantity="other">%1$s，等级分%2$s，您拥有%3$d个皇冠</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_points">
+        <item quantity="other">%1$s，等级分%2$s，获得%3$d积分</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_hours">
+        <item quantity="other">由于违反我们的&lt;a href=%1$s&gt;社区准则&lt;/a&gt;，您目前的在线对局功能已被限制。您可在%2$d小时后重新开始对局。</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_minutes">
+        <item quantity="other">由于违反我们的&lt;a href=%1$s&gt;社区准则&lt;/a&gt;，您目前的在线对局功能已被限制。您可在%2$d分钟后重新开始对局。</item>
+    </plurals>
+    <plurals name="coach_nudge_board_highlighted_squares">
+        <item quantity="other">棋盘上有%d个高亮格子</item>
+    </plurals>
+    <plurals name="daily_puzzle_keep_streak_alive">
+        <item quantity="other">保住您连续%d天打卡纪录！</item>
+    </plurals>
+    <plurals name="daily_seeks_modal_subtitle">
+        <item quantity="other">您的对手剩余%d天走棋。</item>
+    </plurals>
+    <plurals name="daily_seeks_pending_modal_subtitle">
+        <item quantity="other">对手接受挑战后，将有%d天时间走第一步棋。</item>
+    </plurals>
+    <plurals name="event_reward_points_to_unlock">
+        <item quantity="other">还需%1$d%%tokenIcon%%即可解锁</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">快进 %d 秒</item>
+        <item quantity="other">快进 %d 秒</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">快退 %d 秒</item>
+        <item quantity="other">快退 %d 秒</item>
+    </plurals>
+    <plurals name="first_daily_move_game_message_plural">
+        <item quantity="other">这是一场通讯棋对局，您的对手有%d天的时间走一步棋。</item>
+    </plurals>
+    <plurals name="first_daily_move_message_plural">
+        <item quantity="other">你的对手现在有 %d 天的时间走棋。</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_game_count">
+        <item quantity="other">已下棋%1$d次。</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_opening_stats">
+        <item quantity="other">您走了%1$d次这个开局，胜率为%2$s。</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_revised_opening_stats">
+        <item quantity="other">已下棋%1$d次。胜率为%2$s。</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d 条新通知</item>
+        <item quantity="other">%d 条新通知</item>
+    </plurals>
+    <plurals name="play_more_blitz_games_count">
+        <item quantity="other">完成%d局快棋即可获得等级分！</item>
+    </plurals>
+    <plurals name="play_more_bullet_games_count">
+        <item quantity="other">完成%d局超快棋即可获得等级分！</item>
+    </plurals>
+    <plurals name="play_more_chess960_games_count">
+        <item quantity="other">完成%d局chess960即可获得等级分！</item>
+    </plurals>
+    <plurals name="play_more_rapid_games_count">
+        <item quantity="other">完成%d局常速棋即可获得等级分！</item>
+    </plurals>
+    <plurals name="plural_day_streak">
+        <item quantity="other">%d 天打卡</item>
+    </plurals>
+    <plurals name="plural_day_streak_">
+        <item quantity="other">天连续！</item>
+    </plurals>
+    <plurals name="plural_puzzle_path_you_have_prestiged">
+        <item quantity="other">您已获得 %d级增强效果</item>
+    </plurals>
+    <plurals name="plural_streak_days">
+        <item quantity="other">%d天</item>
+    </plurals>
+    <plurals name="puzzle_bonus_reward_x_label">
+        <item quantity="other">奖励：%d 分</item>
+    </plurals>
+    <plurals name="puzzle_bonus_x_daily_subtitle">
+        <item quantity="other">解决了%d道谜题</item>
+    </plurals>
+    <plurals name="puzzle_path_x_friends_passed_this_tier_already">
+        <item quantity="other">%d 好友已通过该等级</item>
+    </plurals>
+    <plurals name="puzzles_rated_subtitle">
+        <item quantity="other">训练超过%d道谜题</item>
+    </plurals>
+    <plurals name="relative_date_x_days_ago">
+        <item quantity="other">%d 天前</item>
+    </plurals>
+    <plurals name="stats_chess_com_players">
+        <item quantity="other">Chess.com 棋手</item>
+    </plurals>
+    <plurals name="stats_games_today">
+        <item quantity="other">今日对局</item>
+    </plurals>
+    <plurals name="stats_masters_playing_now">
+        <item quantity="other">大师玩家正在对弈</item>
+    </plurals>
+    <plurals name="stats_playing_now">
+        <item quantity="other">现在开始</item>
+    </plurals>
+    <plurals name="upgrade_puzzles_count">
+        <item quantity="other">%d, 000道谜题</item>
+    </plurals>
+    <plurals name="user_profile_provisional_tile">
+        <item quantity="other">下%d盘棋</item>
+    </plurals>
+    <plurals name="x_bishop">
+        <item quantity="other">%d 个象</item>
+    </plurals>
+    <plurals name="x_challenges">
+        <item quantity="other">%d 挑战</item>
+    </plurals>
+    <plurals name="x_contacts_found">
+        <item quantity="other">找到%d个联系人</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%d天</item>
+    </plurals>
+    <plurals name="x_days_in_a_row_new">
+        <item quantity="other">已连续打卡%d天！</item>
+    </plurals>
+    <plurals name="x_days_move">
+        <item quantity="other">%1$d 天/步</item>
+    </plurals>
+    <plurals name="x_days_short">
+        <item quantity="other">%d天</item>
+    </plurals>
+    <plurals name="x_friends_added">
+        <item quantity="other">已添加%d个好友！</item>
+    </plurals>
+    <plurals name="x_friends_online">
+        <item quantity="other">%d 在线的朋友</item>
+    </plurals>
+    <plurals name="x_games_analyzed">
+        <item quantity="other">%1$d棋局分析</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%d小时</item>
+    </plurals>
+    <plurals name="x_hours_short">
+        <item quantity="other">%d小时</item>
+    </plurals>
+    <plurals name="x_knight">
+        <item quantity="other">%d 个马</item>
+    </plurals>
+    <plurals name="x_lessons">
+        <item quantity="other">%d节课</item>
+    </plurals>
+    <plurals name="x_min">
+        <item quantity="other">%d分钟</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%d分钟</item>
+    </plurals>
+    <plurals name="x_minutes_short">
+        <item quantity="other">%d分钟</item>
+    </plurals>
+    <plurals name="x_months">
+        <item quantity="other">%d月</item>
+    </plurals>
+    <plurals name="x_new_announcements">
+        <item quantity="other">%d条新公告</item>
+    </plurals>
+    <plurals name="x_new_notes">
+        <item quantity="other">%d条新评注</item>
+    </plurals>
+    <plurals name="x_new_posts">
+        <item quantity="other">%d条新帖子</item>
+    </plurals>
+    <plurals name="x_new_topics">
+        <item quantity="other">%d个新话题</item>
+    </plurals>
+    <plurals name="x_num_points">
+        <item quantity="other">%d 分</item>
+    </plurals>
+    <plurals name="x_pawn">
+        <item quantity="other">%d 个兵</item>
+    </plurals>
+    <plurals name="x_puzzles_solved_new">
+        <item quantity="other">已解决%d道谜题！</item>
+    </plurals>
+    <plurals name="x_queen">
+        <item quantity="other">%d 个后</item>
+    </plurals>
+    <plurals name="x_rook">
+        <item quantity="other">%d 个车</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="x_seconds_short">
+        <item quantity="other">%d秒</item>
+    </plurals>
+    <plurals name="x_trophies">
+        <item quantity="other">%d个奖杯</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="other">%d 年</item>
+    </plurals>
+</resources>

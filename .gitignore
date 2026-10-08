@@ -1,0 +1,2 @@
+# Large monolithic file (>100MB rejected by GitHub). Tracked as split parts (com.chess.apk.part1, com.chess.apk.part2)
+sources/com.chess.apk

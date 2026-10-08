@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_description_text_size">18sp</dimen>
+    <dimen name="home_play_btn_text_size">21sp</dimen>
+    <dimen name="home_play_control_base_text_size">16sp</dimen>
+    <dimen name="home_play_control_content_margin">16dp</dimen>
+    <dimen name="lesson_coach_bubble_max_width">196dp</dimen>
+    <dimen name="lesson_view_default_margin">@dimen/margin_large</dimen>
+</resources>

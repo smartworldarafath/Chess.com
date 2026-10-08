@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white_10"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:foreground="?attr/selectableItemBackground">
+    <ImageView
+        android:id="@+id/avatarImg"
+        android:layout_width="@dimen/avatar_img_list_size"
+        android:layout_height="@dimen/avatar_img_list_size"
+        android:contentDescription="@string/avatar_content_description"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <TextView
+        android:textSize="@dimen/text_size_normal"
+        android:textColor="@color/white"
+        android:id="@+id/usernameTxt"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:maxLines="2"
+        android:textDirection="locale"
+        android:layout_marginStart="@dimen/margin_standard"
+        android:layout_marginEnd="@dimen/margin_standard"
+        app:layout_constraintBottom_toBottomOf="@+id/avatarImg"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/avatarImg"
+        app:layout_constraintTop_toTopOf="@+id/avatarImg"/>
+    <View
+        android:id="@+id/itemDecoration"
+        android:background="@color/black_40"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/list_divider_height"
+        app:layout_constraintEnd_toEndOf="@+id/usernameTxt"
+        app:layout_constraintStart_toStartOf="@+id/usernameTxt"
+        app:layout_constraintTop_toBottomOf="@+id/avatarImg"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

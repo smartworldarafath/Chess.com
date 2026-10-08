@@ -1,0 +1,6 @@
+package=com.chess.features.play.gameover.v6
+file=GameOverV6ModalOverlayTabletPreviews
+private:GameOverV6TabletModalPreview
+private:GameOverV6TabletModalWithAdPreview
+private:GameOverV6TabletModalCoachDisabledPreview
+private:GameOverV6TabletModalQuickAnalysisDisabledPreview

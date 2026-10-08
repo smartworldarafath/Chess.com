@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="daily_puzzle_correct_move_messages">
+        <item>好眼光！这正是正确的着法。</item>
+        <item>干得漂亮。这正是最佳着法。</item>
+        <item>没错。这正是正确的思路。</item>
+        <item>我也会走这步棋。</item>
+        <item>漂亮！</item>
+        <item>没错！</item>
+        <item>完全正确！</item>
+        <item>您天赋异禀！</item>
+        <item>这正是盘面上的最佳着法。</item>
+        <item>太棒了！</item>
+    </array>
+    <array name="daily_puzzle_hint_move_messages">
+        <item>这就是最佳着法。</item>
+        <item>走出这步棋以打破瓶颈。</item>
+        <item>这是一个能启发您思考的提示。</item>
+        <item>这就是最佳着法。</item>
+        <item>这步棋将帮您打破瓶颈。</item>
+        <item>这一构思是正确的。</item>
+        <item>您应当走出这步棋。</item>
+        <item>这步棋优于其他所有着法。</item>
+        <item>以下是我的首选着法。</item>
+        <item>这步棋会对您有所帮助。</item>
+    </array>
+    <array name="daily_puzzle_hint_piece_messages">
+        <item>最佳着法是移动这枚棋子。</item>
+        <item>请盯紧这枚棋子。</item>
+        <item>这枚棋子在这里能起到关键作用。</item>
+        <item>请寻找这枚棋子的可行着法。</item>
+        <item>这枚棋子能走出一步扭转局势的妙着。</item>
+        <item>盯紧这枚棋子，并推算后续的变着。</item>
+        <item>使用这枚棋子，您是否看到了攻击、将军或吃子的机会？</item>
+        <item>核心构思与这枚棋子密切相关。</item>
+        <item>换作是我，我会重点留意这枚棋子。</item>
+        <item>请观察这枚棋子的所有可行着法。</item>
+    </array>
+    <array name="daily_puzzle_incorrect_first_heart_loss_messages">
+        <item>那不是最佳着法。</item>
+        <item>扣除一颗爱心，但您还有更多挑战机会。</item>
+        <item>请勿气馁，您还有更多挑战机会。</item>
+        <item>着法错误，但您还有四次挑战机会。</item>
+        <item>请务必把握好您剩余的爱心。</item>
+        <item>不必介怀这一步，您还有更多爱心。</item>
+        <item>盘面上还有更好的着法。您还有四次挑战机会。</item>
+        <item>失去一颗爱心，但您还有四次挑战机会。</item>
+        <item>无需介怀。通过不断尝试，您可逐步筛选出正确着法。</item>
+        <item>不必介怀这次失误，您还剩四次挑战机会。</item>
+    </array>
+    <array name="daily_puzzle_incorrect_generic_messages">
+        <item>不完全正确。在消耗下一颗爱心前，请务必深思熟虑。</item>
+        <item>寻找将军、进攻和吃子的机会。</item>
+        <item>若您陷入僵局，可以尝试使用提示。</item>
+        <item>那不是最佳着法。请再试一次。</item>
+        <item>盘面上还有更好的着法。</item>
+        <item>在消耗爱心前，请务必从长计议。</item>
+        <item>请务必考虑对手的应对。</item>
+        <item>哪一步着法能让您占据更有利的局面？</item>
+        <item>请重试。这还有更好的着法。</item>
+        <item>我明白您的想法，但这并不是最佳着法。</item>
+    </array>
+    <array name="daily_puzzle_incorrect_last_heart_remaining_messages">
+        <item>还剩最后一颗爱心。请务必深思熟虑。</item>
+        <item>这是您最后一次挑战机会。您一定行的。</item>
+        <item>请从长计议，还剩最后一颗爱心。</item>
+        <item>请务必全神贯注于这步着法。您只剩最后一颗爱心了。</item>
+        <item>请谨记在您最后一次挑战机会中，务必审视所有可能的着法。</item>
+        <item>这是您解开这道谜题的最后一次机会。</item>
+        <item>凭借这最后一次挑战机会，您依然可以解开这道谜题。</item>
+        <item>只剩最后一颗爱心了。您一定行的！</item>
+        <item>那并不是最佳着法。您还剩最后一次挑战机会。</item>
+        <item>请保持全神贯注。您还剩最后一次挑战机会。</item>
+    </array>
+    <array name="daily_puzzle_incorrect_out_of_hearts_messages">
+        <item>这道谜题暗藏陷阱。欢迎明天再来挑战下一题。</item>
+        <item>爱心已耗尽。您可以选择查看解法，或继续自行挑战。</item>
+        <item>那是您的最后一颗爱心。您可以选择查看解法，或继续自行尝试。</item>
+        <item>明天再来解决新的谜题吧。</item>
+        <item>选择查看解法，或者继续自行尝试？</item>
+        <item>您的爱心已耗尽，但如果您愿意，仍可以继续尝试。</item>
+        <item>您可以继续尝试，或者查看解法。</item>
+        <item>您的爱心已耗尽，但您仍可以继续尝试。</item>
+        <item>您的挑战机会已耗尽。您可以选择继续尝试，或者查看解法。</item>
+        <item>如果您毫无头绪，可以选择查看解法。如果您认为自己已经找到了正解，请继续尝试！</item>
+    </array>
+    <array name="daily_puzzle_solved_all_hearts_messages">
+        <item>完美！您未犯任何错误，且未使用任何提示。</item>
+        <item>毫无失误？令人赞叹！</item>
+        <item>这是一次完美的通关！干得漂亮。</item>
+        <item>您甚至不需要任何提示！做得好。</item>
+        <item>您做起来显得轻而易举！</item>
+        <item>完美通关，而且您甚至没有消耗一颗爱心。</item>
+        <item>精准拿捏！而且您没有消耗任何爱心。</item>
+        <item>解题毫无失误，干得漂亮！</item>
+        <item>哇！一次完美的解题。</item>
+        <item>正是如此！您的解题毫无失误。</item>
+    </array>
+    <array name="daily_puzzle_solved_generic_messages">
+        <item>太棒了！观看视频来深入了解这道难题。</item>
+        <item>精准拿捏！这正是正确的走法。</item>
+        <item>令人赞叹！这道难题暗藏玄机。</item>
+        <item>没错！这步棋是解开这道谜题的关键。</item>
+        <item>这道难题值得您在日后引以为戒。</item>
+        <item>就该这么做！请记住，每天都有新的谜题等您挑战。</item>
+        <item>慧眼独具！您找到了正确的解法。</item>
+        <item>这道谜题在您面前不堪一击！</item>
+        <item>您在解题方面真是颇具天赋。</item>
+        <item>没错！这道谜题确实不易。</item>
+    </array>
+    <array name="daily_puzzle_solved_no_hearts_messages">
+        <item>这道题暗藏玄机。明天再来试试吧。</item>
+        <item>明天再来尝试新的战术谜题吧。</item>
+        <item>现在您知道刚才该怎么下了。观看此视频学习更多内容吧。</item>
+        <item>观看这段视频，学习最佳着法。</item>
+        <item>明天再来试试吧。每道谜题都是增长棋艺的契机。</item>
+        <item>您的爱心已耗完。观看此视频，学习最佳招法。</item>
+        <item>您错过了最佳着法，但依然大有收获。</item>
+        <item>想弄懂最佳着法？来看看这段视频吧。</item>
+        <item>尝试得不错。明天您还有新的机会。</item>
+        <item>希望这次挑战能让您有所收获。明天再试一次吧。</item>
+    </array>
+    <array name="daily_puzzle_solved_one_heart_remaining_messages">
+        <item>您用最后一颗爱心惊险过关。干得漂亮！</item>
+        <item>在仅剩一颗爱心的绝境下摧枯拉朽。</item>
+        <item>没错！干得漂亮。</item>
+        <item>在仅剩一颗爱心的绝境下您精准拿捏！</item>
+        <item>在仅剩一颗爱心的绝境下成功解题，干得漂亮！</item>
+        <item>我就知道您能解开这道谜题。</item>
+        <item>成功解开每日谜题，干得漂亮。</item>
+        <item>哇！牢记这些战术供日后使用。</item>
+        <item>千钧一发！您在仅剩一颗爱心的绝境下成功解题。</item>
+        <item>就是这样！干得漂亮。</item>
+    </array>
+    <array name="daily_puzzle_starting_position_messages">
+        <item>轮到您了。您看到最佳着法了吗？</item>
+        <item>轮到您了。有一步棋明显优于其他着法。</item>
+        <item>如果是实战，您会如何应对？</item>
+        <item>到您大显身手的时候了。最佳着法是哪一步？</item>
+        <item>该您走棋了。试着往前多算几步。</item>
+        <item>您有一步好棋，看到了吗？</item>
+        <item>当前盘面有一步棋明显优于其他着法。</item>
+        <item>该您走棋了。您一定行的！</item>
+        <item>迈出第一步棋前，请深思熟虑。</item>
+        <item>如果遇到瓶颈，您可以消耗一颗爱心来获取提示。</item>
+    </array>
+    <array name="daily_puzzle_welcome_messages">
+        <item>欢迎！这道题很有意思。</item>
+        <item>今天的每日谜题很有深度。</item>
+        <item>我相信您一定能解开这道每日谜题。</item>
+        <item>你一定行的！</item>
+        <item>今天的每日谜题暗藏玄机，小心反转。</item>
+        <item>我相信您一定能解开今天的每日谜题。</item>
+        <item>如果被今天的谜题难住了，记得使用提示哦。</item>
+        <item>走法千百种，但最佳着法只有一种。</item>
+        <item>我相信你！</item>
+        <item>欢迎！今天的谜题暗藏陷阱，请深思熟虑。</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0.25 倍</item>
+        <item>0.5 倍</item>
+        <item>0.75 倍</item>
+        <item>正常</item>
+        <item>1.25 倍</item>
+        <item>1.5 倍</item>
+        <item>2 倍</item>
+    </array>
+    <array name="game_review_placeholders_impersonal">
+        <item>正在复盘对局…</item>
+        <item>正在计算最佳着法路径…</item>
+        <item>正在分析，请稍候…</item>
+        <item>稍等，正在复盘…</item>
+        <item>稍等，正在分析…</item>
+        <item>稍等，正在复盘…</item>
+        <item>请稍等，分析马上就好…</item>
+        <item>请稍等，复盘马上就好…</item>
+        <item>马上就好，请稍候…</item>
+        <item>对局复盘正在加载中…</item>
+        <item>正在加载对局复盘…</item>
+        <item>正在加载对局复盘…</item>
+        <item>稍等…</item>
+        <item>分析中…</item>
+        <item>正欣赏精美的马头棋子…</item>
+    </array>
+    <array name="game_review_placeholders_personal">
+        <item>正在复盘您的对局…</item>
+        <item>正在分析您的对局…</item>
+        <item>正在检查您的对局…</item>
+        <item>正在浏览您的对局…</item>
+        <item>正在复盘您的着法…</item>
+        <item>正在分析您的着法…</item>
+        <item>即将完成，正在复盘您的着法…</item>
+        <item>即将完成，您的对局复盘马上呈现…</item>
+        <item>稍等，您的对局复盘正在加载…</item>
+        <item>正在拆解您的对局…</item>
+        <item>稍等，正在拆解您的对局…</item>
+        <item>您的对局复盘正在加载中…</item>
+    </array>
+    <array name="learningTilesArray">
+        <item>置于等待中的对局上方</item>
+        <item>所有的棋局均在下面</item>
+        <item>关闭</item>
+    </array>
+    <array name="loading_phrases">
+        <item>要时刻找寻将军、捉子和攻击的机会。</item>
+        <item>西西里防御是应对 1.e4的最流行走法。</item>
+        <item>将棋子从起始位置发动出来，以控制棋盘中心。</item>
+        <item>过早出动您的后会导致开局漏着。</item>
+        <item>要寻找那些能帮助您出动棋子的动兵方式。</item>
+        <item>开局走同一个棋子两步通常情况下被视为拖慢节奏。</item>
+        <item>评估条会在每一步走棋之后评估双方的局面优劣。</item>
+        <item>漏着 %Blunder% 是一步对玩家局面造成极大负面影响的棋。</item>
+        <item>错失良机 %Miss% 是指忽视了一个抓住对手失误的战术机会。</item>
+        <item>错着 %Mistake% 是指一步让您的局面迅速恶化的走棋。</item>
+        <item>误着 %Inaccuracy% 指的是远不如最佳走法的差棋。</item>
+        <item>谱着 %Book% 是指杰出棋手常走的开局着法。</item>
+        <item>正着 %Good% 属于还不错，但还有比它更好的走法！</item>
+        <item>妙着 %Excellent% 基本和最佳走法一样好：您值得为此自豪！</item>
+        <item>最佳 %Best% 着法是经过分析引擎判断认为结果最好的走法。</item>
+        <item>好棋 %Great% 是指改变了对局走势的关键走法。</item>
+        <item>绝妙好棋 %Brilliant% 指的是您发现的巧妙弃子。</item>
+        <item>准确度指的是您的走棋和最佳%Best%走法的相近程度。</item>
+        <item>学习新开局是保持对局新鲜感的绝佳方式。</item>
+        <item>仅仅3个回合，棋盘上就能演变出1.21亿种可能的局面。</item>
+        <item>有人认为“希腊礼物弃子”战术是以意大利棋手乔阿基诺·格雷科的名字命名的。</item>
+        <item>斯坦利·库布里克二十岁出头时，曾在华盛顿广场公园靠下彩棋以求谋生果腹。</item>
+        <item>目前全球共有近1800位特级大师。</item>
+        <item>En passant在法语里意为”顺便“。</item>
+        <item>既然“rook”源自波斯语中意为战车的“rukh”，那为什么它的棋子造型却像一座城堡塔楼呢？</item>
+        <item>阿比曼尤·米什拉以12岁4个月25天的年龄，成为了史上最年轻的国际象棋特级大师。</item>
+        <item>“深蓝”这个名字源于IBM举办的一次征名比赛，双关了IBM本身的别称“蓝色巨人”。</item>
+        <item>Zugzwang在德语中意为“被迫行棋”，指的是无论走哪一步都会使自己陷入劣势。</item>
+        <item>《银翼杀手》中出现的对局重现了1851年阿道夫·安德森与莱昂内尔·基塞里茨基之间经典的“不朽之局”。</item>
+        <item>在Chess960中共有960种合规的起始局面。</item>
+        <item>第二次世界大战期间，多位英国国际象棋大师曾被招募为密码破译员。</item>
+        <item>直到19世纪中叶，国际象棋比赛都没有时间限制。</item>
+        <item>直到17世纪，王车易位都需要分两步才能完成。</item>
+        <item>现代国际象棋的记谱方式，代数记谱法，于1981年被正式确立为标准。</item>
+        <item>史上首台国际象棋计算机，土耳其行棋傀儡，实际上只是一个人藏在箱子里伪装成的自动机械。</item>
+        <item>世界冠军赛上最后一次出现将杀的情况，还要追溯到1929年。</item>
+        <item>1951年，国际大师罗伯特·韦德在一场车轮战中对阵30名苏联学童，最终他无一胜绩，以10和20负惨败。</item>
+        <item>最快的将杀仅需2步。</item>
+        <item>世界冠军亚历山大·阿廖欣曾养过一只名为“国际象棋”的猫。</item>
+        <item>在1978年世界冠军赛期间，阿纳托利·卡尔波夫曾雇佣一名催眠师坐在前排盯视对手。</item>
+        <item>世界冠军米哈伊尔·塔尔的右手其实只有3根手指。</item>
+        <item>伊文思弃兵开局得名于19世纪的威尔士船长威廉·戴维斯·伊文思。</item>
+        <item>1984–85年的世界冠军赛在历时5个月、激战48场对局之后，出于对棋手健康状况的考虑而被终止。</item>
+        <item>世界冠军赛史上最长的对局，是2021年世界冠军赛的第6局，共历经136个回合。</item>
+        <item>“昏招在棋盘上无处不在，只待棋手不慎犯错。”——萨维利·塔塔科维</item>
+        <item>“弃子只有两种：一种是正确的，另一种是我的。”——米哈伊尔·塔尔</item>
+        <item>“国际象棋是思维的健身房。”——布莱士·帕斯卡</item>
+        <item>“糟糕的计划总好过毫无计划。”——米哈伊尔·齐戈林</item>
+        <item>“赢家，往往是犯了倒数第二个错误的人。”——萨维利·塔塔科维</item>
+        <item>“我是阿廖欣，国际象棋世界冠军。我有一只叫国际象棋的猫。”——亚历山大·阿廖欣在波苏边境未带护照被截停时如是说。</item>
+        <item>“排局创作对创作者的要求，与一切不凡艺术所具备的品质并无二致。”——弗拉基米尔·纳博科夫</item>
+        <item>“下棋是一门精妙的判断艺术，既要懂得何时挥拳，也要学会如何闪避。”——鲍比·菲舍尔</item>
+        <item>“持之以恒的努力终有回报，即便它并不总是以立竿见影、触手可及的方式呈现。”——加里·卡斯帕罗夫</item>
+        <item>“通路兵的威力，随着棋盘上子力的减少而与日俱增。”——何塞·劳尔·卡帕布兰卡</item>
+        <item>“国际象棋是一门彰显逻辑科学的艺术。”——米哈伊尔·鲍特维尼克</item>
+        <item>“如果复仇能成为你的动力，那就放手一搏吧！”——维斯瓦纳坦·阿南德</item>
+        <item>“想要下好棋，重要的是专注当下。”——瓦西里·伊万丘克</item>
+        <item>“最大的挑战，莫过于实现你对自己的期许。”——朱迪特·波尔加</item>
+        <item>%websiteName%由埃里克和杰伊这两位大学好友于2005年创立。</item>
+        <item>%websiteName%用户每月对局量超过10亿盘！</item>
+    </array>
+    <array name="offline_coach_messages">
+        <item>啊，我最得意的学生！见到你真高兴。</item>
+        <item>欢迎回来。很高兴见到您。</item>
+        <item>我的朋友，见到你真好。</item>
+        <item>这不是我最得意的学生吗？你好啊！</item>
+        <item>好日子，宜弈棋。</item>
+        <item>每日一迷题，巧思避臭棋。</item>
+        <item>每日一谜题，巧思避漏着。</item>
+        <item>想提升棋艺水平？先从解开一道谜题开始。</item>
+        <item>如您愿意投入学习，我亦随时准备施教。</item>
+        <item>您想参加哪种国际象棋活动？</item>
+        <item>今天打算专攻哪个部分？</item>
+        <item>如有需要，我随时在此助你研习。</item>
+        <item>学习新的国际象棋开局确实令人倍感振奋。</item>
+        <item>我最热衷的教学时刻，是目睹学生提升棋艺。</item>
+        <item>下象棋是一个能保持大脑敏锐的有趣的方法。</item>
+        <item>当我无心对弈之时，我便转而研习几道棋题。</item>
+        <item>今天让我们一起学习新的国际象棋策略吧。</item>
+        <item>最近怎么样？准备好下棋了吗？</item>
+        <item>见到您总是很高兴。欢迎回来。</item>
+        <item>啊很好，欢迎回来！</item>
+        <item>很高兴见到你！有你在的地方总是更美好。</item>
+        <item>无论胜负，每盘对局都会有所收获。</item>
+        <item>国际象棋能同时锻炼专注力、逻辑思维和想象力！</item>
+        <item>看是谁来了！我最喜欢的棋手回来了。</item>
+        <item>您负责下棋，我来帮您理解棋局。</item>
+        <item>我是您的教练。我将帮您学习、提高棋艺，并以全新的视角看待国际象棋。</item>
+        <item>我在这里帮助您学习、复盘您的对局，并找出您最佳着法。</item>
+        <item>很高兴您能来！让我们一起对弈，共同学习新内容吧。</item>
+        <item>很高兴又见到您了。感谢您今天能抽出时间来下棋。</item>
+        <item>欢迎回来！继续上次的学习。</item>
+        <item>很高兴再次见到您！今天我们来学点新知识吧。</item>
+        <item>解谜是保持头脑敏锐的捷径。</item>
+        <item>与机器人对弈，轻松提升棋力！</item>
+        <item>想解一些谜题热热身吗？</item>
+        <item>欢迎！望您求知若渴，一如我执教之热忱！</item>
+        <item>今天想学点新东西吗？不妨一试课程！</item>
+        <item>很高兴见到您！我乐于见证学生在国际象棋上的进步。</item>
+        <item>国际象棋总是令人惊喜。您知道吗，在数十亿种可能中，多数对局都是独一无二的吗？</item>
+        <item>想要提升棋艺？让国际象棋成为你日常的一部分吧！</item>
+        <item>国际象棋中总有新东西可以学。我们该从何处着手呢？</item>
+        <item>想保持对国际象棋的新鲜感，学习新开局是我最喜欢的方式之一！</item>
+        <item>顺便一提，若与机器人对弈，您可开启提示功能并允许悔棋。</item>
+        <item>您来了，该下棋了！</item>
+        <item>每一步棋都在向前迈进。您在棋盘上的表现真棒。</item>
+        <item>持之以恒，方能致远。</item>
+        <item>今日专注，明日收获。</item>
+        <item>欢迎回来。准备好对弈了吗？</item>
+        <item>棋道酬勤，耐心与自律终有回报。</item>
+        <item>欢迎回来。准备好学习了吗？</item>
+        <item>进步源于点滴积累。</item>
+        <item>欢迎！这里是培养良好习惯的地方。</item>
+        <item>准备好测试您的国际象棋水平了吗？</item>
+        <item>欢迎回来！看看您今天表现如何。</item>
+    </array>
+    <array name="puzzles_coach_comments_10_in_a_row">
+        <item>这意味着十连胜！令人赞叹！</item>
+        <item>您正在通往势不可挡的连胜路上！</item>
+        <item>您的目光太精准了！一连十道题！</item>
+        <item>连续完美解决十道谜题吗！？真令人惊叹！</item>
+        <item>史诗级连胜！您无人能挡！</item>
+    </array>
+    <array name="puzzles_coach_comments_3_in_a_row">
+        <item>三连胜！别止步于此！</item>
+        <item>您做得很好！</item>
+        <item>一连答对了1-2-3道题！干得好！</item>
+        <item>您解题简直如履平地！</item>
+        <item>漂亮的一步！您势头正旺！</item>
+    </array>
+    <array name="puzzles_coach_comments_5_in_a_row">
+        <item>哇！您势头正盛！</item>
+        <item>五连胜！太棒了！</item>
+        <item>这些谜题对你来说太简单了！</item>
+        <item>加油！您做得很棒！</item>
+        <item>您简直像一台精密的解题机器！</item>
+    </array>
+    <array name="puzzles_coach_comments_7_in_a_row">
+        <item>您的正确率真令人印象深刻！</item>
+        <item>势不可挡！已经连对七题了！</item>
+        <item>您几乎洞察一切！太出色了。</item>
+        <item>您完全可以成为一名职业解谜高手…如果您擅长的话。</item>
+        <item>一连做出了七道谜题？！太厉害了！</item>
+    </array>
+    <array name="puzzles_coach_comments_general">
+        <item>干得漂亮！</item>
+        <item>对的！就是这样！</item>
+        <item>漂亮的解答！</item>
+        <item>完美！干得好。</item>
+        <item>太棒了！您找到解法了！</item>
+        <item>您答对了！干得好。</item>
+        <item>正确！您答对了。</item>
+        <item>非常好！</item>
+        <item>您找到答案了。干得好！</item>
+        <item>正确！下得好。</item>
+        <item>干得好！</item>
+        <item>非常出色！</item>
+        <item>干得漂亮！</item>
+        <item>对的，没错！您答对了！</item>
+        <item>解答得很漂亮！</item>
+        <item>聪明的一步！</item>
+        <item>正确！下得很好！</item>
+        <item>您的眼光如此锐利！干得好！</item>
+        <item>干得漂亮！您解出这道题了！</item>
+        <item>漂亮的走法！</item>
+    </array>
+    <array name="puzzles_coach_comments_solution_shown">
+        <item>这是正解。</item>
+        <item>这是这个谜题的解法。</item>
+        <item>不错的尝试！这是正确答案。</item>
+        <item>这题真棘手。再来一题吧。</item>
+        <item>看看您是否能记住这个棋型。</item>
+        <item>连我的得意门生也难免失手。</item>
+        <item>别担心，下次你一定行！</item>
+        <item>再做一遍，并试着记住这个战术模式。</item>
+        <item>再做一遍，并试着理解每一步的意图！</item>
+        <item>教练来救场了！一道妙趣横生的谜题。</item>
+        <item>没关系，谜题有时候确实棘手！</item>
+        <item>随时乐意为您效劳！</item>
+        <item>您已经尽力而为了。继续挑战下一题？</item>
+        <item>研习这道谜题，试着理解其中的着法。</item>
+        <item>您可以反复练习这道谜题。</item>
+        <item>不错的尝试！准备好再来一题了吗？</item>
+    </array>
+    <array name="puzzles_coach_home_array">
+        <item>解决谜题是识别规律和培养战术技能的最佳方式。</item>
+        <item>人们说国际象棋99%都是关于战术的...好消息！这就是谜题的意义所在。</item>
+        <item>每天做谜题可以让您更容易发现对手的错误。</item>
+        <item>每天做谜题可以帮助您在自己的对局中选择安全的走法。</item>
+        <item>谜题可以帮助您在开局时更安全，在中局时更自信，在终局时更准确。</item>
+        <item>谜题对于训练和提高水平很有帮助——而且也妙趣横生！</item>
+        <item>当您做错了一道题时，您总是应该重新做做看，了解一下您哪里做错了。</item>
+        <item>想加快速度吗？来快速解谜模式里挑战一下，答错三次您就出局了！</item>
+        <item>如果您有几分钟的空闲时间，快速解谜模式可以给您一点大脑锻炼！</item>
+        <item>您知道每日谜题会在一周内越来越难吗？星期天的谜题可不容易！</item>
+        <item>永远不要跳过谜题日！</item>
+        <item>是时候用谜题来锻炼您的战术水平了吧？</item>
+        <item>是时候解决谜题了！</item>
+        <item>每个谜题局面中，只有一种走法是对的...您能找到吗？</item>
+        <item>欢迎回来！让我们开始解谜吧...</item>
+        <item>想感受一下速度与激情吗？玩一场谜题冲刺怎么样？</item>
+        <item>您认为自己能比大部分人更快吗？试着用一场谜题对战来热身吧！</item>
+    </array>
+    <array name="skills_name">
+        <item>新手</item>
+        <item>进阶</item>
+        <item>中级</item>
+        <item>高级</item>
+        <item>专家及以上</item>
+    </array>
+</resources>

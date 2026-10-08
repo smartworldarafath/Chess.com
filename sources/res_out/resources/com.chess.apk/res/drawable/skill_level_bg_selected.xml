@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="46dp"
+    android:width="46dp"
+    android:viewportWidth="46"
+    android:viewportHeight="46">
+    <group
+        android:name="rotationGroup"
+        android:translateX="7"
+        android:translateY="7">
+        <group
+            android:name="rotationGroup"
+            android:pivotX="16"
+            android:pivotY="16"
+            android:rotation="45">
+            <path
+                android:fillColor="@color/green"
+                android:pathData="M8,0h16q8,0 8,8v16q0,8 -8,8h-16q-8,0 -8,-8v-16q0,-8 8,-8z"/>
+        </group>
+    </group>
+</vector>

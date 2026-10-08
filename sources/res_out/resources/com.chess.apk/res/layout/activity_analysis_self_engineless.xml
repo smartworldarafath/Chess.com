@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/snackBarContainer"
+    android:clipChildren="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.chess.utils.android.toolbar.CenteredToolbar
+        android:id="@+id/toolbar"
+        android:background="@color/colorToolbar"
+        android:visibility="@integer/gone_on_small_squarish_screen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <com.chess.chessboard.layout.ChessBoardLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:cbl_style="centered"
+        app:layout_constraintBottom_toTopOf="@+id/analysisSelfControls"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        app:offset_topView_top="@dimen/game_move_history_view_height"
+        app:view_bottom="@layout/content_engineless_analysis_bottom"
+        app:view_chessBoard="@layout/content_chessboard"
+        app:view_landscapeSide="@layout/content_engineless_analysis_landscape_side"
+        app:view_top="@layout/content_engineless_analysis_top"
+        app:view_topOverlay="@layout/content_engineless_analysis_top_overlay"/>
+    <com.chess.features.analysis.selfengineless.AnalysisSelfEnginelessControls
+        android:id="@+id/analysisSelfControls"
+        android:background="@color/colorToolbar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

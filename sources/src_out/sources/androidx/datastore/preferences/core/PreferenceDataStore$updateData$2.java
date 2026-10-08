@@ -1,0 +1,64 @@
+package androidx.datastore.preferences.core;
+
+import com.google.android.lq2;
+import com.google.android.q22;
+import com.google.inputmethod.h58;
+import com.google.inputmethod.uk9;
+import kotlin.Metadata;
+import kotlin.Unit;
+import kotlin.coroutines.intrinsics.a;
+import kotlin.coroutines.jvm.internal.SuspendLambda;
+import kotlin.f;
+import kotlin.jvm.functions.Function2;
+import kotlin.jvm.internal.Intrinsics;
+
+/* JADX INFO: loaded from: d:\Antigravity Projects\Chess\xapk_analysis\res_out\resources\com.chess.apk\classes.dex */
+@Metadata(d1 = {"\u0000\b\n\u0002\u0018\u0002\n\u0002\b\u0003\u0010\u0002\u001a\u00020\u00002\u0006\u0010\u0001\u001a\u00020\u0000H\n¢\u0006\u0004\b\u0002\u0010\u0003"}, d2 = {"Lcom/google/android/uk9;", "it", "<anonymous>", "(Lcom/google/android/uk9;)Lcom/google/android/uk9;"}, k = 3, mv = {2, 0, 0})
+@lq2(c = "androidx.datastore.preferences.core.PreferenceDataStore$updateData$2", f = "PreferenceDataStoreFactory.kt", l = {90}, m = "invokeSuspend", v = 1)
+final class PreferenceDataStore$updateData$2 extends SuspendLambda implements Function2<uk9, q22<? super uk9>, Object> {
+    final /* synthetic */ Function2<uk9, q22<? super uk9>, Object> $transform;
+    /* synthetic */ Object L$0;
+    int label;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    /* JADX WARN: Multi-variable type inference failed */
+    PreferenceDataStore$updateData$2(Function2<? super uk9, ? super q22<? super uk9>, ? extends Object> function2, q22<? super PreferenceDataStore$updateData$2> q22Var) {
+        super(2, q22Var);
+        this.$transform = function2;
+    }
+
+    /* JADX INFO: renamed from: a, reason: merged with bridge method [inline-methods] */
+    public final Object invoke(uk9 uk9Var, q22<? super uk9> q22Var) {
+        return create(uk9Var, q22Var).invokeSuspend(Unit.a);
+    }
+
+    public final q22<Unit> create(Object obj, q22<?> q22Var) {
+        PreferenceDataStore$updateData$2 preferenceDataStore$updateData$2 = new PreferenceDataStore$updateData$2(this.$transform, q22Var);
+        preferenceDataStore$updateData$2.L$0 = obj;
+        return preferenceDataStore$updateData$2;
+    }
+
+    public final Object invokeSuspend(Object obj) {
+        Object objG = a.g();
+        int i = this.label;
+        if (i == 0) {
+            f.b(obj);
+            uk9 uk9Var = (uk9) this.L$0;
+            Function2<uk9, q22<? super uk9>, Object> function2 = this.$transform;
+            this.label = 1;
+            obj = function2.invoke(uk9Var, this);
+            if (obj == objG) {
+                return objG;
+            }
+        } else {
+            if (i != 1) {
+                throw new IllegalStateException("call to 'resume' before 'invoke' with coroutine");
+            }
+            f.b(obj);
+        }
+        uk9 uk9Var2 = (uk9) obj;
+        Intrinsics.h(uk9Var2, "null cannot be cast to non-null type androidx.datastore.preferences.core.MutablePreferences");
+        ((h58) uk9Var2).i();
+        return uk9Var2;
+    }
+}

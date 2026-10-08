@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="avatars"
+        path="Android/data/com.chess/files/Pictures/avatars"/>
+    <external-path
+        name="enhanced-review"
+        path="Android/data/com.chess/files/Pictures/enhanced-review"/>
+    <cache-path
+        name="shared_images"
+        path="images/"/>
+    <cache-path
+        name="uci_logs"
+        path="uci/"/>
+    <cache-path
+        name="widget_images"
+        path="widget_images/"/>
+</paths>

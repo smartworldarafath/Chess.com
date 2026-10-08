@@ -1,0 +1,3 @@
+package=com.chess.coach.ui
+file=SideCoachChat
+private:SideCoachChatPreview

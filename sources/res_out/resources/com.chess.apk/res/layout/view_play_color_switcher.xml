@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <com.chess.internal.views.PlayColorButton
+        android:id="@+id/playAsWhite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/white"
+        app:background="@drawable/play_color_white_selector"
+        app:icon="@drawable/glyph_piece_hollow_king_0"
+        app:iconColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/playRandom"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <com.chess.internal.views.PlayColorButton
+        android:id="@+id/playRandom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/random"
+        android:layout_marginStart="@dimen/margin_small"
+        app:background="@drawable/play_color_whiteblack_selector"
+        app:icon="@drawable/ic_random_color"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/playAsBlack"
+        app:layout_constraintStart_toEndOf="@+id/playAsWhite"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <com.chess.internal.views.PlayColorButton
+        android:id="@+id/playAsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/random"
+        android:layout_marginStart="@dimen/margin_small"
+        app:background="@drawable/play_color_black_selector"
+        app:icon="@drawable/glyph_piece_hollow_king_0"
+        app:iconColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/playRandom"
+        app:layout_constraintTop_toTopOf="parent"/>
+</merge>

@@ -1,0 +1,6 @@
+version:0
+string|piece_notation_bishop|Tw==
+string|piece_notation_king|Sw==
+string|piece_notation_knight|Ug==
+string|piece_notation_queen|TA==
+string|piece_notation_rook|Vg==

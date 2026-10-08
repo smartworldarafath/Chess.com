@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white_05"
+    android:padding="@dimen/margin_standard"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.chess.utils.android.material.TextInputLayoutWithBackground
+        android:theme="@style/TextInputLayoutTheme"
+        android:id="@+id/messageBodyInputLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/medium_button_height"
+        android:layout_marginEnd="@dimen/margin_standard"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/sendMessageBtn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        style="@style/TextInputLayoutWithBackgroundStyle">
+        <com.google.inputmethod.material.textfield.TextInputEditText
+            android:id="@+id/messageBodyEdt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/chat_send_message"
+            android:inputType="textMultiLine"
+            android:paddingStart="@dimen/margin_standard"
+            android:paddingEnd="@dimen/margin_standard"/>
+    </com.chess.utils.android.material.TextInputLayoutWithBackground>
+    <com.chess.internal.views.RaisedButton
+        android:id="@+id/sendMessageBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/medium_button_height"
+        android:text="@string/send"
+        app:cardBackgroundColor="@color/accent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

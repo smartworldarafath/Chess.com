@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="daily_puzzle_correct_move_messages">
+        <item>Bien vu ! C’est le coup qu’il fallait jouer.</item>
+        <item>Bien joué. C’était le meilleur coup.</item>
+        <item>Exact. Vous tenez le bon bout.</item>
+        <item>J’aurais joué le même coup.</item>
+        <item>Bien !</item>
+        <item>Exactement !</item>
+        <item>Bingo !</item>
+        <item>Vous avez un don !</item>
+        <item>C’était le meilleur coup sur l’échiquier.</item>
+        <item>Bien joué !</item>
+    </array>
+    <array name="daily_puzzle_hint_move_messages">
+        <item>Voici le meilleur coup.</item>
+        <item>Jouez ce coup pour avancer.</item>
+        <item>Voici un indice pour vous aider à réfléchir.</item>
+        <item>Voici le meilleur coup.</item>
+        <item>Ce coup vous permettra d’avancer.</item>
+        <item>Voici l’idée à suivre.</item>
+        <item>Vous devriez jouer ce coup-ci.</item>
+        <item>Ce coup est meilleur que tous les autres.</item>
+        <item>Voici ce que je jouerais.</item>
+        <item>Ce coup devrait vous aider.</item>
+    </array>
+    <array name="daily_puzzle_hint_piece_messages">
+        <item>Le meilleur coup se joue avec cette pièce.</item>
+        <item>Gardez l’œil sur cette pièce.</item>
+        <item>Cette pièce pourrait faire une grande différence ici.</item>
+        <item>Cherchez un coup avec cette pièce.</item>
+        <item>Cette pièce peut changer le cours de la partie.</item>
+        <item>Regardez cette pièce et imaginez la suite.</item>
+        <item>Voyez-vous une attaque, un échec ou une prise avec cette pièce ?</item>
+        <item>L’idée principale tourne autour de cette pièce.</item>
+        <item>Si j’étais vous, je regarderais cette pièce.</item>
+        <item>Regardez tous les coups possibles avec cette pièce.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_first_heart_loss_messages">
+        <item>Ce n’est pas le meilleur coup.</item>
+        <item>Vous avez perdu un cœur, mais il vous reste d’autres chances.</item>
+        <item>N’abandonnez pas. Il vous reste d’autres chances.</item>
+        <item>Ce n’était pas cela, mais il vous reste quatre autres chances.</item>
+        <item>Essayez de tirer le meilleur parti de vos cœurs restants.</item>
+        <item>Ne vous en faites pas. Il vous reste d’autres cœurs.</item>
+        <item>Il y a un meilleur coup à jouer. Il vous reste encore quatre essais.</item>
+        <item>Vous avez perdu un cœur, mais il vous reste encore quatre tentatives.</item>
+        <item>Ce n’est pas grave, procédez par essai et erreur.</item>
+        <item>Oubliez cette erreur. Il vous reste encore quatre tentatives.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_generic_messages">
+        <item>Pas tout à fait. Réfléchissez bien avant de dépenser un autre cœur.</item>
+        <item>Cherchez des échecs, des attaques et des prises.</item>
+        <item>Essayez d’utiliser un indice si vous ne trouvez pas.</item>
+        <item>Ce n’est pas le meilleur coup. Essayez encore.</item>
+        <item>Il y a un meilleur coup sur l’échiquier.</item>
+        <item>Prenez votre temps avant de dépenser un cœur.</item>
+        <item>N’oubliez pas de réfléchir à la réponse de votre adversaire.</item>
+        <item>Quel coup améliorerait votre position ?</item>
+        <item>Essayez encore. Il y a un meilleur coup.</item>
+        <item>Je vois votre raisonnement, mais ce n’est pas le meilleur coup.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_last_heart_remaining_messages">
+        <item>Plus qu’un cœur. Réfléchissez bien.</item>
+        <item>C’est votre dernier essai. Vous allez y arriver.</item>
+        <item>Prenez votre temps. Vous n’avez plus qu’un cœur.</item>
+        <item>Concentrez-vous sur ce coup. Il ne vous reste plus qu’un cœur.</item>
+        <item>N’oubliez pas d’examiner tous les coups possibles pour votre dernière tentative.</item>
+        <item>C’est votre dernière chance de résoudre le problème.</item>
+        <item>Vous pouvez encore résoudre ce problème avec votre dernière tentative.</item>
+        <item>Plus qu’un cœur. Vous pouvez y arriver !</item>
+        <item>Ce n’est pas le meilleur coup. Il vous reste un essai.</item>
+        <item>Concentrez-vous. Il vous reste encore une tentative.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_out_of_hearts_messages">
+        <item>Celui-ci n’était pas facile. Revenez demain pour un autre problème.</item>
+        <item>Vous n’avez plus de cœurs. Regardez la solution ou continuez à essayer.</item>
+        <item>C’était votre dernier cœur. Vous pouvez voir la solution ou continuer à essayer.</item>
+        <item>Il y aura un autre problème à résoudre demain.</item>
+        <item>Voulez-vous voir la solution ou continuer à essayer ?</item>
+        <item>Vous n’avez plus de cœurs, mais vous pouvez continuer à essayer si vous voulez.</item>
+        <item>Vous pouvez continuer à essayer ou voir la solution.</item>
+        <item>Vous n’avez plus de cœurs, mais vous pouvez continuer à essayer.</item>
+        <item>Il ne vous reste plus de tentatives. Continuez à essayer ou regardez la solution.</item>
+        <item>Si vous ne trouvez pas, vous pouvez voir la solution. Si vous pensez être sur la bonne voie, continuez à essayer !</item>
+    </array>
+    <array name="daily_puzzle_solved_all_hearts_messages">
+        <item>Parfait ! Vous n’avez pas commis d’erreur ni utilisé d’indice.</item>
+        <item>Aucune erreur ? Impressionnant !</item>
+        <item>Score parfait ! Bien joué.</item>
+        <item>Vous n’avez même pas eu besoin d’indice ! Bravo.</item>
+        <item>Avec vous, ça semble facile !</item>
+        <item>Une résolution parfaite. Vous n’avez même pas dépensé de cœur.</item>
+        <item>Dans le mille ! Et sans dépenser aucun cœur.</item>
+        <item>Bravo, vous l’avez résolu sans erreur !</item>
+        <item>Incroyable ! Un problème parfait.</item>
+        <item>Exact ! Vous avez fait un sans-faute.</item>
+    </array>
+    <array name="daily_puzzle_solved_generic_messages">
+        <item>Bien joué ! Regardez la vidéo pour approfondir ce problème.</item>
+        <item>Exactement ! C’était le bon coup.</item>
+        <item>Impressionnant ! Ce n’était pas un problème simple.</item>
+        <item>Oui ! Ce coup était la clé du problème.</item>
+        <item>C’est un bon problème à retenir pour l’avenir.</item>
+        <item>Vous avez vu juste ! N’oubliez pas, il y a un nouveau problème chaque jour.</item>
+        <item>Bien vu ! Vous avez trouvé la bonne solution.</item>
+        <item>Ce problème n’avait aucune chance face à vous !</item>
+        <item>Vous avez du talent pour la résolution de problèmes.</item>
+        <item>Oui ! Ce problème n’était pas facile.</item>
+    </array>
+    <array name="daily_puzzle_solved_no_hearts_messages">
+        <item>Celui-ci était difficile. Réessayez demain.</item>
+        <item>Revenez demain pour essayer un nouveau problème.</item>
+        <item>Vous savez maintenant ce que vous auriez pu jouer. Regardez cette vidéo pour en savoir plus.</item>
+        <item>Regardez cette vidéo pour découvrir les meilleurs coups.</item>
+        <item>Réessayez demain. Chaque problème est une occasion de vous améliorer.</item>
+        <item>Vous n’avez plus de cœurs. Regardez cette vidéo pour découvrir les meilleurs coups.</item>
+        <item>Vous avez manqué les meilleurs coups, mais ce problème peut toujours vous apprendre quelque chose.</item>
+        <item>Vous voulez comprendre les meilleurs coups ? Regardez cette vidéo.</item>
+        <item>Bien essayé. Une autre occasion se présentera demain.</item>
+        <item>J’espère que cela vous a appris quelque chose. Réessayez demain.</item>
+    </array>
+    <array name="daily_puzzle_solved_one_heart_remaining_messages">
+        <item>Vous avez trouvé avec votre dernier cœur. Bravo !</item>
+        <item>Tout juste, et avec un seul cœur restant.</item>
+        <item>C’est cela ! Bien joué.</item>
+        <item>Vous avez réussi alors qu’il ne vous restait plus qu’un cœur !</item>
+        <item>Bien joué, avec seulement un cœur restant !</item>
+        <item>Je savais que vous le résoudriez.</item>
+        <item>Bravo, vous avez résolu ce problème du jour.</item>
+        <item>Ouf ! Souvenez-vous de ces tactiques pour plus tard.</item>
+        <item>Juste à temps ! Vous avez résolu le problème alors qu’il ne vous restait plus qu’un cœur.</item>
+        <item>Et voilà le travail ! Bravo.</item>
+    </array>
+    <array name="daily_puzzle_starting_position_messages">
+        <item>C’est à votre tour. Voyez-vous le meilleur coup ?</item>
+        <item>À vous de jouer. Il existe un coup meilleur que les autres.</item>
+        <item>Que joueriez-vous dans une vraie partie ?</item>
+        <item>Montrez-moi ce que vous savez faire. Quel est le meilleur coup ?</item>
+        <item>C’est à vous. Essayez de réfléchir plusieurs coups à l’avance.</item>
+        <item>Vous pouvez jouer un bon coup. Le voyez-vous ?</item>
+        <item>Il y a un coup meilleur que les autres dans cette position.</item>
+        <item>C’est à vous. Vous pouvez trouver !</item>
+        <item>Réfléchissez bien avant de jouer votre premier coup.</item>
+        <item>Si vous ne vous en sortez pas, vous pouvez dépenser un cœur pour obtenir un indice.</item>
+    </array>
+    <array name="daily_puzzle_welcome_messages">
+        <item>Bienvenue ! Ce problème-ci est amusant.</item>
+        <item>Ce problème du jour exige de la réflexion.</item>
+        <item>Je sais que vous êtes capable de résoudre le problème du jour.</item>
+        <item>Vous pouvez y arriver !</item>
+        <item>Attendez-vous à quelques surprises dans ce problème du jour.</item>
+        <item>Je sais que vous pouvez résoudre ce problème du jour.</item>
+        <item>N’oubliez pas les indices si le problème d’aujourd’hui vous laisse perplexe.</item>
+        <item>Il y a de nombreux coups possibles, mais il n’y a qu’un seul meilleur coup.</item>
+        <item>Je crois en vous !</item>
+        <item>Bienvenue ! Le problème d’aujourd’hui est difficile, prenez votre temps.</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>x 0,25</item>
+        <item>x 0,5</item>
+        <item>x 0,75</item>
+        <item>Normal</item>
+        <item>x 1,25</item>
+        <item>x 1,5</item>
+        <item>x 2</item>
+    </array>
+    <array name="game_review_placeholders_impersonal">
+        <item>Examen de la partie…</item>
+        <item>Calcul des meilleures variantes…</item>
+        <item>Un moment, j’analyse…</item>
+        <item>Donnez-moi une seconde, j’examine…</item>
+        <item>Une seconde, j’analyse…</item>
+        <item>Donnez-moi un moment, je passe en revue…</item>
+        <item>Une minute, j’ai presque terminé l’analyse…</item>
+        <item>Une minute, j’ai presque terminé le passage en revue…</item>
+        <item>J’y suis presque, une seconde…</item>
+        <item>Bilan de la partie en cours de chargement…</item>
+        <item>Chargement du bilan de la partie en cours…</item>
+        <item>Chargement du bilan de la partie…</item>
+        <item>Un moment…</item>
+        <item>Analyse en cours…</item>
+        <item>En train d’admirer les jolis cavaliers…</item>
+    </array>
+    <array name="game_review_placeholders_personal">
+        <item>Examen de votre partie…</item>
+        <item>Analyse de votre partie…</item>
+        <item>Vérification de votre partie…</item>
+        <item>En train de consulter votre partie…</item>
+        <item>Examen de vos coups…</item>
+        <item>Analyse de vos coups…</item>
+        <item>J’y suis presque, je passe en revue vos coups…</item>
+        <item>J’y suis presque, le bilan de votre partie arrive…</item>
+        <item>Un moment, le bilan de votre partie charge…</item>
+        <item>En train de décrypter votre partie…</item>
+        <item>Un moment, je décrypte votre partie…</item>
+        <item>Chargement du bilan de votre partie…</item>
+    </array>
+    <array name="learningTilesArray">
+        <item>Parties en attente au-dessus</item>
+        <item>Toutes les parties en dessous</item>
+        <item>Désactivé</item>
+    </array>
+    <array name="loading_phrases">
+        <item>Cherchez toujours des échecs, des captures et des attaques.</item>
+        <item>La défense sicilienne est la réponse la plus populaire à 1.e4.</item>
+        <item>Développez vos pièces pour prendre le contrôle de l’échiquier.</item>
+        <item>Si vous faites entrer votre dame dans la partie trop tôt, vous risquez de commettre des gaffes dans l’ouverture.</item>
+        <item>Essayez de déplacer vos pions de manière à pouvoir développer vos pièces.</item>
+        <item>Le fait de déplacer deux fois la même pièce dans l’ouverture est généralement considéré comme une perte de tempo.</item>
+        <item>Le graphique d’évaluation calcule l’avantage des joueurs après chaque coup.</item>
+        <item>Une gaffe %Blunder% est un coup qui dégrade sérieusement la position du joueur.</item>
+        <item>Un coup manqué %Miss% est l’omission d’une opportunité tactique ou d’une occasion de punir l’erreur de votre adversaire.</item>
+        <item>Une erreur %Mistake% est un mauvais coup qui empire immédiatement votre position.</item>
+        <item>Une imprécision %Inaccuracy% est un coup médiocre qui n’est pas aussi bon que le meilleur coup.</item>
+        <item>Un coup théorique %Book% est un coup d’ouverture standard régulièrement utilisé par les bons joueurs.</item>
+        <item>Un bon coup %Good% est un coup acceptable, mais il y en avait de meilleurs à jouer !</item>
+        <item>Un très bon coup %Excellent% est essentiellement aussi fort que le meilleur coup : félicitations !</item>
+        <item>Le meilleur coup %Best% est le coup calculé comme étant le meilleur par le moteur d’analyse.</item>
+        <item>Un excellent coup %Great% est un coup critique qui a changé le cours de la partie.</item>
+        <item>Un coup brillant %Brilliant% est un excellent sacrifice.</item>
+        <item>La précision est la mesure dans laquelle vous vous rapprochez des meilleurs coups %Best%.</item>
+        <item>Apprenez une nouvelle ouverture pour rendre vos parties d’échecs plus amusantes.</item>
+        <item>Après trois coups, il existe 121 millions de positions possibles.</item>
+        <item>Certains pensent que le « sacrifice grec » a été nommé en l’honneur de Gioachino Greco, qui était italien.</item>
+        <item>Vers ses 20 ans, Stanley Kubrick jouait aux échecs contre des passants dans le Washington Square Park pour payer ses repas.</item>
+        <item>Il y a près de 1 800 grands maîtres au monde.</item>
+        <item>La prise « en passant » est connue par son nom en français dans plusieurs langues.</item>
+        <item>Le terme « roquer » proviendrait du mot persan « rukh », qui signifie « char ». Mais au fait, pourquoi la tour ne ressemble-t-elle pas à un char ?</item>
+        <item>Abhimanyu Mishra est devenu le plus jeune grand maître de l’histoire à l’âge de 12 ans, 4 mois et 25 jours.</item>
+        <item>Le nom « Deep Blue » provient d’un concours organisé par IBM pour nommer son superordinateur et dérive du surnom de la société, « Big Blue ».</item>
+        <item>« Zugzwang » signifie « coup contraint » en allemand et renvoie à une position dans laquelle n’importe quel coup dégradera la situation du joueur.</item>
+        <item>La partie d’échecs jouée dans Blade Runner reprend la « Partie immortelle » disputée entre Adolf Anderssen et Lionel Kieseritzky en 1851.</item>
+        <item>Une partie d’échecs 960 comporte 960 positions de départ légales.</item>
+        <item>Pendant la Seconde Guerre mondiale, des maîtres d’échecs anglais ont été recrutés comme déchiffreurs de codes.</item>
+        <item>Jusqu’à la moitié du XIXe siècle, il n’y avait pas de limite de temps aux parties d’échecs.</item>
+        <item>Jusqu’au XVIIe siècle, le roque se jouait en deux coups.</item>
+        <item>Le format actuel de notation des coups aux échecs, la notation algébrique, a été officialisé en 1981.</item>
+        <item>Le premier ordinateur d’échecs, le Turc mécanique, était une fausse machine qui contenait en réalité un compartiment secret dans lequel un joueur d’échecs pouvait s’asseoir et faire semblant d’être un automate.</item>
+        <item>L’échec et mat a été donné en Championnat du monde pour la dernière fois en 1929.</item>
+        <item>En 1951, le MI Robert Wade a joué une simultanée contre 30 écoliers russes. Wade n’a gagné aucune partie, a fait 10 nulles et en a perdu 20.</item>
+        <item>L’échec et mat le plus rapide possible peut être donné en deux coups seulement.</item>
+        <item>Le champion du monde Alexandre Alekhine avait un chat appelé « Chess ».</item>
+        <item>Pendant le Championnat du monde de 1978, Anatoly Karpov a engagé un hypnotiseur pour s’asseoir au premier rang et fixer son adversaire.</item>
+        <item>Le champion du monde Mikhaïl Tal n’avait que trois doigts à la main droite.</item>
+        <item>Le gambit Evans porte le nom du capitaine de navire gallois du XIXe siècle William Davies Evans.</item>
+        <item>Le Championnat du monde de 1984-85 a été abandonné au bout de cinq mois et 48 parties pour préserver la santé des joueurs.</item>
+        <item>La plus longue partie d’échecs de l’histoire des Championnats du monde a été la sixième partie du Championnat du monde de 2021, avec 136 coups.</item>
+        <item>« Toutes les gaffes sont là, attendant d’être commises. » – Savielly Tartakower</item>
+        <item>« Il y a deux types de sacrifices : ceux qui sont corrects et les miens. » – Mikhaïl Tal</item>
+        <item>« Les échecs sont le gymnase de l’esprit. » – Blaise Pascal</item>
+        <item>« Mieux vaut un mauvais plan que pas de plan du tout. » – Mikhaïl Chigorin</item>
+        <item>« Le joueur qui commet l’avant-dernière erreur gagne la partie. » – Savielly Tartakower</item>
+        <item>« Je suis Alekhine, champion du monde des échecs. J’ai un chat qui s’appelle Chess. » – Alexandre Alekhine, arrêté sans passeport à la frontière polono-russe</item>
+        <item>« Les problèmes d’échecs exigent de la part du compositeur les mêmes vertus qui caractérisent tous les arts dignes de ce nom. » – Vladimir Nabokov</item>
+        <item>« Les échecs reposent sur la délicatesse du jugement, il faut savoir quand frapper et quand esquiver. » – Bobby Fischer</item>
+        <item>« L’effort régulier est payant, même si ce n’est pas toujours concret et immédiat. » – Garry Kasparov</item>
+        <item>« Moins il y a de pièces sur l’échiquier, plus un pion passé gagne en puissance. » – José Raúl Capablanca</item>
+        <item>« Les échecs sont l’art qui exprime la science de la logique. » – Mikhaïl Botvinnik</item>
+        <item>« Si c’est la vengeance qui vous motive, allez-y à fond ! » – Viswanathan Anand</item>
+        <item>« Pour bien jouer, il est important de se concentrer sur l’instant présent. » – Vassily Ivanchuk</item>
+        <item>« Le plus grand défi consiste à réaliser l’idée qu’on se fait de soi-même » – Judit Polgár</item>
+        <item>%websiteName% a été fondé en 2005 par deux amis d’université, Erik et Jay.</item>
+        <item>Les membres de %websiteName% jouent plus d’un milliard de parties par mois !</item>
+    </array>
+    <array name="offline_coach_messages">
+        <item>Ah, mon élève favori ! C’est bon de vous voir.</item>
+        <item>L’échiquier est prêt. Je me réjouis de vous voir.</item>
+        <item>C’est toujours un plaisir de vous retrouver.</item>
+        <item>Qui voilà ? Mon élève favori. Bonjour !</item>
+        <item>Quelle belle journée pour jouer aux échecs.</item>
+        <item>Un problème par jour est recommandé pour tenir éloigné les mauvais coups.</item>
+        <item>Un problème par jour, c’est un remède contre les gaffes.</item>
+        <item>Vous voulez passer au niveau suivant ? Commencez par un problème.</item>
+        <item>Si vous êtes là pour apprendre, je suis là pour vous enseigner.</item>
+        <item>Quelle activité voulez-vous faire ?</item>
+        <item>Qu’allez-vous approfondir aujourd’hui ?</item>
+        <item>Si vous avez besoin de quoi que ce soit, je suis là pour vous aider à apprendre.</item>
+        <item>Apprendre de nouvelles ouvertures, c’est passionnant.</item>
+        <item>Ce que je préfère quand j’enseigne, c’est de constater les progrès de mes élèves.</item>
+        <item>Jouer aux échecs est une façon amusante de garder votre cerveau en forme.</item>
+        <item>Quand je ne suis pas d’humeur à jouer une partie, je fais quelques problèmes à la place.</item>
+        <item>Apprenons une nouvelle stratégie aujourd’hui.</item>
+        <item>Comment allez-vous ? On joue une partie d’échecs ?</item>
+        <item>C’est toujours un plaisir de vous voir. L’échiquier est prêt.</item>
+        <item>Ah bien, vous revoilà !</item>
+        <item>C’est bon de vous voir ! Vous éclairez ma journée.</item>
+        <item>Qu’on gagne ou qu’on perde, chaque partie nous apprend quelque chose.</item>
+        <item>Les échecs exercent à la fois votre concentration, votre logique et votre imagination !</item>
+        <item>Regardez qui voilà ! Mon échéquiste numéro un est de retour.</item>
+        <item>Vous jouez les parties, je vous aide à les comprendre.</item>
+        <item>Je suis votre coach. Je vous aiderai à apprendre, vous améliorer et voir les échecs autrement.</item>
+        <item>Je suis là pour vous aider à apprendre, réviser vos parties et découvrir vos meilleurs coups.</item>
+        <item>Vous êtes là ! Jouons ensemble et apprenons quelque chose de nouveau.</item>
+        <item>Vous revoilà ! Je me réjouis vous preniez le temps de jouer aux échecs aujourd’hui.</item>
+        <item>Vous revoilà ! Reprenons là où nous en étions.</item>
+        <item>C’est bon de vous revoir ! Apprenons quelque chose de nouveau aujourd’hui.</item>
+        <item>Les problèmes sont une façon rapide de garder l’esprit vif.</item>
+        <item>Jouez contre un bot pour vous améliorer sans stress !</item>
+        <item>Voulez-vous faire quelques problèmes pour vous échauffer ?</item>
+        <item>Bienvenue ! J’espère que vous aimez apprendre autant que j’aime enseigner !</item>
+        <item>Voulez-vous apprendre quelque chose de nouveau aujourd’hui ? Essayez une leçon !</item>
+        <item>C’est bon de vous voir ! J’adore suivre les progrès de mes élèves.</item>
+        <item>Les échecs, c’est toujours passionnant. Saviez-vous que la plupart des parties sont des configurations uniques parmi des milliards de possibilités ?</item>
+        <item>Voulez-vous vous améliorer ? Intégrez les échecs à votre routine quotidienne !</item>
+        <item>Il y a toujours des choses à apprendre aux échecs. Par où commencerons-nous ?</item>
+        <item>Une de mes façons préférées d’entretenir ma passion pour les échecs, c’est d’apprendre une nouvelle ouverture !</item>
+        <item>À propos, si vous jouez une partie contre un bot, vous pouvez activer les indices et les reprises de coups.</item>
+        <item>Puisque vous êtes là, c’est qu’il est l’heure de jouer aux échecs !</item>
+        <item>Chaque coup est un pas en avant. Je vous félicite pour votre persévérance.</item>
+        <item>L’effort régulier est la clé pour faire de vrais progrès.</item>
+        <item>Concentrez-vous aujourd’hui, vous en récolterez les fruits demain.</item>
+        <item>Je me réjouis de vous retrouver. Si nous reprenions avec une partie ?</item>
+        <item>Les échecs récompensent la patience et la discipline.</item>
+        <item>Je me réjouis de vous retrouver. Si nous reprenions avec une leçon ?</item>
+        <item>Le progrès est fait d’améliorations successives.</item>
+        <item>Bienvenue ! Les bonnes habitudes commencent ici.</item>
+        <item>Envie de mettre vos talents à l’épreuve ?</item>
+        <item>Vous revoilà ! Voyons si vous êtes en forme aujourd’hui.</item>
+    </array>
+    <array name="puzzles_coach_comments_10_in_a_row">
+        <item>Ça en fait 10 de suite ! Exceptionnel !</item>
+        <item>Vous poursuivez votre incroyable série !</item>
+        <item>Dix de suite ! 10/10 de vision !</item>
+        <item>Dix problèmes parfaits de suite !? Fantastique !</item>
+        <item>Quelle série héroïque ! Vous résolvez tout !</item>
+    </array>
+    <array name="puzzles_coach_comments_3_in_a_row">
+        <item>Trois de suite ! Ne vous arrêtez pas !</item>
+        <item>Vous vous en sortez à merveille !</item>
+        <item>1-2-3 d’affilée ! Excellent travail !</item>
+        <item>Avec vous, cela semble facile !</item>
+        <item>Excellent coup ! Vous continuez sur votre lancée !</item>
+    </array>
+    <array name="puzzles_coach_comments_5_in_a_row">
+        <item>Extraordinaire ! Rien ne vous arrête !</item>
+        <item>Cinq de suite ! C’est formidable !</item>
+        <item>Ces problèmes sont trop faciles pour vous !</item>
+        <item>Continuez ! Vous vous en sortez très bien !</item>
+        <item>Vous êtes une machine à résoudre des problèmes !</item>
+    </array>
+    <array name="puzzles_coach_comments_7_in_a_row">
+        <item>Votre précision est impressionnante !</item>
+        <item>Vous mettez le feu à l’échiquier ! Sept problèmes d’affilée !</item>
+        <item>Vous voyez tout ! Excellent travail.</item>
+        <item>Vous pourriez devenir solutionniste… si c’était une carrière.</item>
+        <item>Sept problèmes de suite ?! Superbe !</item>
+    </array>
+    <array name="puzzles_coach_comments_general">
+        <item>Belle exécution !</item>
+        <item>Oui ! C’est la bonne approche !</item>
+        <item>Bien résolu !</item>
+        <item>Parfait ! Beau travail.</item>
+        <item>Très bien ! Vous avez trouvé la solution !</item>
+        <item>Vous avez compris ! Bien joué.</item>
+        <item>Bingo ! Vous avez trouvé.</item>
+        <item>Très bien !</item>
+        <item>Vous avez repéré la solution. Bravo !</item>
+        <item>Correct ! Bien joué.</item>
+        <item>Joli travail !</item>
+        <item>Fantastique !</item>
+        <item>Formidable !</item>
+        <item>Oui, exactement ! Vous y êtes !</item>
+        <item>Très bien résolu !</item>
+        <item>Très intelligent !</item>
+        <item>C’est juste ! Bien joué !</item>
+        <item>Vous avez l’œil ! Bien joué !</item>
+        <item>Très bien joué ! Vous avez trouvé la solution !</item>
+        <item>Très bien joué !</item>
+    </array>
+    <array name="puzzles_coach_comments_solution_shown">
+        <item>Voici la bonne réponse.</item>
+        <item>Voici la solution au problème.</item>
+        <item>Bien essayé ! Voici la bonne réponse.</item>
+        <item>Quel problème épineux. Essayons-en un autre.</item>
+        <item>Essayez de vous souvenir de ce schéma.</item>
+        <item>Même mes meilleurs élèves ne résolvent pas tous les problèmes.</item>
+        <item>Ne vous en faites pas. Vous trouverez la prochaine fois !</item>
+        <item>Réessayez ce problème et tentez de mémoriser le schéma.</item>
+        <item>Réessayez ce problème et tentez de comprendre chaque coup !</item>
+        <item>L’entraîneur à la rescousse ! Quel problème amusant.</item>
+        <item>Ce n’est pas grave. Les problèmes sont parfois complexes !</item>
+        <item>Je suis toujours là pour vous aider !</item>
+        <item>Vous avez bien essayé. Un autre ?</item>
+        <item>Étudiez ce problème et essayez de comprendre les coups.</item>
+        <item>Vous pouvez toujours réessayer un problème pour vous exercer.</item>
+        <item>Bien essayé ! Un autre problème ?</item>
+    </array>
+    <array name="puzzles_coach_home_array">
+        <item>La résolution de problèmes est la meilleure manière de développer la reconnaissance des positions et les aptitudes tactiques.</item>
+        <item>Les échecs seraient 99 % de tactique… Bonne nouvelle ! Les problèmes sont un excellent entraînement tactique.</item>
+        <item>Résoudre des problèmes chaque jour vous aide à repérer plus facilement les erreurs de vos adversaires.</item>
+        <item>Résoudre des problèmes chaque jour vous aide à choisir des coups sûrs dans vos parties.</item>
+        <item>Les problèmes vous aident à faire preuve de discernement dans l’ouverture, de confiance dans le milieu de jeu et de précision dans la finale.</item>
+        <item>Les problèmes sont un excellent moyen de s’entraîner et de s’améliorer aux échecs tout en s’amusant !</item>
+        <item>Quand vous vous trompez avec un problème, réessayez et analysez la solution pour voir ce qui vous a échappé.</item>
+        <item>Envie d’accélérer le rythme ? Résolvez des problèmes le plus vite possible pour augmenter votre score dans le Sprint de problèmes. À la troisième erreur, c’est fini !</item>
+        <item>Si vous avez quelques minutes, le Sprint de problèmes est un excellent entraînement pour votre cerveau !</item>
+        <item>Saviez-vous que le Problème du jour devient plus difficile au fil de la semaine ? Le problème du dimanche est un casse-tête !</item>
+        <item>Résolvez un problème chaque jour !</item>
+        <item>Que diriez-vous d’affiner votre tactique avec les problèmes ?</item>
+        <item>Il est temps de résoudre des problèmes !</item>
+        <item>Dans chaque position, il n’y a qu’un seul coup valable… Pouvez-vous le trouver ?</item>
+        <item>L’échiquier est prêt ! Commencez à résoudre des problèmes…</item>
+        <item>Envie d’accélérer le rythme ? Relevez le défi d’un Sprint de problèmes !</item>
+        <item>Vous pensez être plus rapide que les autres solutionnistes ? Échauffez-vous avec une Bataille de problèmes !</item>
+    </array>
+    <array name="skills_name">
+        <item>Nouveau</item>
+        <item>En progrès</item>
+        <item>Intermédiaire</item>
+        <item>Avancé</item>
+        <item>Expert+</item>
+    </array>
+</resources>

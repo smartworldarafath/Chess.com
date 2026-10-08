@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="24dp"
+    android:width="32dp"
+    android:viewportWidth="32"
+    android:viewportHeight="24">
+    <group>
+        <clip-path android:pathData="m0,0h32v24h-32z"/>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m0,0h32v24h-32z"/>
+        <path
+            android:fillColor="#e7e6e5"
+            android:pathData="m0,0v24h32v-24z"
+            android:fillType="evenOdd"/>
+        <group>
+            <clip-path
+                android:pathData="m0,0v24h32v-24z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#26c2a3"
+                android:pathData="m0,0v8h32v-8z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#26c2a3"
+                android:pathData="m0,16v8h32v-8z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#26c2a3"
+                android:pathData="m9.5,8.5 l0.337,1.036h1.09l-0.882,0.641 0.337,1.036 -0.882,-0.641 -0.882,0.641 0.337,-1.036 -0.882,-0.641h1.09z"/>
+            <path
+                android:fillColor="#26c2a3"
+                android:pathData="m9.5,12.75 l0.337,1.036h1.09l-0.882,0.641 0.337,1.036 -0.882,-0.641 -0.882,0.641 0.337,-1.036 -0.882,-0.641h1.09z"/>
+            <path
+                android:fillColor="#26c2a3"
+                android:pathData="m21.5,8.5 l0.337,1.036h1.09l-0.882,0.641 0.337,1.036 -0.882,-0.641 -0.882,0.641 0.337,-1.036 -0.882,-0.641h1.09z"/>
+            <path
+                android:fillColor="#26c2a3"
+                android:pathData="m21.5,12.75 l0.337,1.036h1.09l-0.882,0.641 0.337,1.036 -0.882,-0.641 -0.882,0.641 0.337,-1.036 -0.882,-0.641h1.09z"/>
+            <path
+                android:fillColor="#26c2a3"
+                android:pathData="m15.5,10.5 l0.337,1.036h1.09l-0.882,0.641 0.337,1.036 -0.882,-0.641 -0.882,0.641 0.337,-1.036 -0.882,-0.641h1.09z"/>
+        </group>
+    </group>
+</vector>

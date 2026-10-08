@@ -1,0 +1,50 @@
+package com.google.inputmethod;
+
+/* JADX INFO: loaded from: d:\Antigravity Projects\Chess\xapk_analysis\res_out\resources\com.chess.apk\classes.dex */
+public final class cy9 {
+    public static int A = 2131231867;
+    public static int B = 2131231868;
+    public static int C = 2131231869;
+    public static int D = 2131231870;
+    public static int E = 2131231871;
+    public static int F = 2131231872;
+    public static int G = 2131231873;
+    public static int H = 2131231874;
+    public static int I = 2131231875;
+    public static int J = 2131231876;
+    public static int K = 2131231878;
+    public static int L = 2131231879;
+    public static int M = 2131231880;
+    public static int N = 2131231881;
+    public static int O = 2131231882;
+    public static int P = 2131231883;
+    public static int Q = 2131231884;
+    public static int R = 2131231885;
+    public static int S = 2131231886;
+    public static int a = 2131231809;
+    public static int b = 2131231811;
+    public static int c = 2131231812;
+    public static int d = 2131231813;
+    public static int e = 2131231816;
+    public static int f = 2131231817;
+    public static int g = 2131231818;
+    public static int h = 2131231819;
+    public static int i = 2131231824;
+    public static int j = 2131231825;
+    public static int k = 2131231826;
+    public static int l = 2131231828;
+    public static int m = 2131231829;
+    public static int n = 2131231830;
+    public static int o = 2131231833;
+    public static int p = 2131231835;
+    public static int q = 2131231836;
+    public static int r = 2131231838;
+    public static int s = 2131231839;
+    public static int t = 2131231840;
+    public static int u = 2131231846;
+    public static int v = 2131231857;
+    public static int w = 2131231858;
+    public static int x = 2131231859;
+    public static int y = 2131231860;
+    public static int z = 2131231861;
+}

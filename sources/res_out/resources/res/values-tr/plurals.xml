@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_feed_comments">
+        <item quantity="one">%d yorum</item>
+        <item quantity="other">%d yorum</item>
+    </plurals>
+    <plurals name="activity_feed_current_streak">
+        <item quantity="one">Mevcut seri: %d gün</item>
+        <item quantity="other">Mevcut seri: %d gün</item>
+    </plurals>
+    <plurals name="activity_feed_draws_chip">
+        <item quantity="one">%d beraberlik</item>
+        <item quantity="other">%d beraberlik</item>
+    </plurals>
+    <plurals name="activity_feed_losses_chip">
+        <item quantity="one">%d mağlubiyet</item>
+        <item quantity="other">%d mağlubiyet</item>
+    </plurals>
+    <plurals name="activity_feed_pin_limit">
+        <item quantity="one">You can only pin up to %d post. Unpin a post to add another.</item>
+        <item quantity="other">You can only pin up to %d posts. Unpin a post to add another.</item>
+    </plurals>
+    <plurals name="activity_feed_played_games">
+        <item quantity="one">%d Oyun Oynandı</item>
+        <item quantity="other">%d Oyun Oynandı</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_points">
+        <item quantity="one">%d bulmaca puanı</item>
+        <item quantity="other">%d bulmaca puanı</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_streak">
+        <item quantity="one">%d tane bulmaca art arda doğru çözüldü</item>
+        <item quantity="other">%d tane bulmaca art arda doğru çözüldü</item>
+    </plurals>
+    <plurals name="activity_feed_reactions">
+        <item quantity="one">%d tepki</item>
+        <item quantity="other">%d reaksiyon</item>
+    </plurals>
+    <plurals name="activity_feed_streak_milestone_value">
+        <item quantity="one">%d Gün</item>
+        <item quantity="other">%d Gün</item>
+    </plurals>
+    <plurals name="activity_feed_wins_chip">
+        <item quantity="one">%d galibiyet</item>
+        <item quantity="other">%d galibiyet</item>
+    </plurals>
+    <plurals name="add_x_friends">
+        <item quantity="one">+ %d Arkadaş Ekleyin</item>
+        <item quantity="other">+ %d Arkadaş Ekleyin</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_user">
+        <item quantity="one">Kuvvet puanınızı elde etmek için %d oyun oynayın</item>
+        <item quantity="other">Kuvvet puanınızı elde etmek için %d oyun oynayın</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_visitor">
+        <item quantity="one">%d oyundan sonra istatistikler görünecektir</item>
+        <item quantity="other">%d oyundan sonra istatistikler görünecektir</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_decreased">
+        <item quantity="one">%d puan azaldı</item>
+        <item quantity="other">%d puan azaldı</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_increased">
+        <item quantity="one">%d puan arttı</item>
+        <item quantity="other">%d puan arttı</item>
+    </plurals>
+    <plurals name="app_update_message_no_action">
+        <item quantity="one">Bu uygulama sürümünün süresi %1$d gün içinde dolacaktır. Lütfen güncelleyin.</item>
+        <item quantity="other">Bu uygulama sürümünün süresi %1$d gün içinde dolacaktır. Lütfen güncelleyin.</item>
+    </plurals>
+    <plurals name="app_update_message_with_action">
+        <item quantity="one">Bu uygulama sürümünün süresi %1$d gün içinde dolacaktır.</item>
+        <item quantity="other">Bu uygulama sürümünün süresi %1$d gün içinde dolacaktır.</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_crowns">
+        <item quantity="one">%1$s, %2$s kuvvet puanı, %3$d tane tacınız var</item>
+        <item quantity="other">%1$s, %2$s kuvvet puanı, %3$d tane tacınız var</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_points">
+        <item quantity="one">%1$s, kuvvet puanı %2$s, %3$d puan kazanın</item>
+        <item quantity="other">%1$s, kuvvet puanı %2$s, %3$d puan kazanın</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_hours">
+        <item quantity="one">&lt;a href=%1$s&gt;Topluluk Politikamızı&lt;/a&gt; ihlal ettiğiniz için şu anda çevrimiçi oyun oynama hakkınız kısıtlanmıştır. %2$d saat içinde tekrar oynayabilirsiniz.</item>
+        <item quantity="other">&lt;a href=%1$s&gt;Topluluk Politikamızı&lt;/a&gt; ihlal ettiğiniz için şu anda çevrimiçi oyun oynama hakkınız kısıtlanmıştır. %2$d saat içinde tekrar oynayabilirsiniz.</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_minutes">
+        <item quantity="one">&lt;a href=%1$s&gt;Topluluk Politikamızı&lt;/a&gt; ihlal ettiğiniz için şu anda çevrimiçi oyun oynama hakkınız kısıtlanmıştır. %2$d dakika içinde tekrar oynayabilirsiniz.</item>
+        <item quantity="other">&lt;a href=%1$s&gt;Topluluk Politikamızı&lt;/a&gt; ihlal ettiğiniz için şu anda çevrimiçi oyun oynama hakkınız kısıtlanmıştır. %2$d dakika içinde tekrar oynayabilirsiniz.</item>
+    </plurals>
+    <plurals name="coach_nudge_board_highlighted_squares">
+        <item quantity="one">%d tane vurgulanmış kare olan tahta</item>
+        <item quantity="other">%d tane vurgulanmış kare olan tahta</item>
+    </plurals>
+    <plurals name="daily_puzzle_keep_streak_alive">
+        <item quantity="one">%d günlük serinizi devam ettirin!</item>
+        <item quantity="other">%d günlük serinizi devam ettirin!</item>
+    </plurals>
+    <plurals name="daily_seeks_modal_subtitle">
+        <item quantity="one">Hamlesini yapmak için rakibinizin şimdi %d günü var.</item>
+        <item quantity="other">Hamlesini yapmak için rakibinizin şimdi %d günü var.</item>
+    </plurals>
+    <plurals name="daily_seeks_pending_modal_subtitle">
+        <item quantity="one">Rakibinizin meydan okumanızı kabul etmesinden sonra, ilk hamlesini yapması için %d gün zamanı olacaktır.</item>
+        <item quantity="other">Rakibinizin meydan okumanızı kabul etmesinden sonra, ilk hamlesini yapması için %d gün zamanı olacaktır.</item>
+    </plurals>
+    <plurals name="event_reward_points_to_unlock">
+        <item quantity="one">Erişimi Açmak İçin %1$d %%tokenIcon%%</item>
+        <item quantity="other">Erişimi Açmak İçin %1$d %%tokenIcon%%</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">%d saniye ileri sar</item>
+        <item quantity="other">%d saniye ileri sar</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">%d saniye geri sar</item>
+        <item quantity="other">%d saniye geri sar</item>
+    </plurals>
+    <plurals name="first_daily_move_game_message_plural">
+        <item quantity="one">Bu oyun, rakibinizin hamlesini yapmak için %d güne sahip olacağı Günlük Satranç oyunudur.</item>
+        <item quantity="other">Bu oyun, rakibinizin hamlesini yapmak için %d güne sahip olacağı Günlük Satranç oyunudur.</item>
+    </plurals>
+    <plurals name="first_daily_move_message_plural">
+        <item quantity="one">Hamle yapmak için rakibinizin şimdi %d günü var.</item>
+        <item quantity="other">Hamle yapmak için rakibinizin şimdi %d günü var.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_game_count">
+        <item quantity="one">%1$d defa oynandı.</item>
+        <item quantity="other">%1$d defa oynandı.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_opening_stats">
+        <item quantity="one">Bu açılışı %1$d defa oynayıp, %2$s oranında galibiyet elde ettiniz.</item>
+        <item quantity="other">Bu açılışı %1$d defa oynayıp, %2$s oranında galibiyet elde ettiniz.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_revised_opening_stats">
+        <item quantity="one">%1$d kere oynandı. Kazanma oranı %2$s.</item>
+        <item quantity="other">%1$d kere oynandı. Kazanma oranı %2$s.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d yeni bildirim</item>
+        <item quantity="other">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="play_more_blitz_games_count">
+        <item quantity="one">Kuvvet puanınız olması için %d tane Yıldırım oyun oynayın!</item>
+        <item quantity="other">Kuvvet puanınız olması için %d tane Yıldırım oyun oynayın!</item>
+    </plurals>
+    <plurals name="play_more_bullet_games_count">
+        <item quantity="one">Kuvvet puanınız olması için %d tane Kurşun oyun oynayın!</item>
+        <item quantity="other">Kuvvet puanınız olması için %d tane Kurşun oyun oynayın!</item>
+    </plurals>
+    <plurals name="play_more_chess960_games_count">
+        <item quantity="one">Kuvvet puanınız olması için %d tane Chess960 oyunu oynayın!</item>
+        <item quantity="other">Kuvvet puanınız olması için %d tane Chess960 oyunu oynayın!</item>
+    </plurals>
+    <plurals name="play_more_rapid_games_count">
+        <item quantity="one">Kuvvet puanınız olması için %d tane Hızlı oyun oynayın!</item>
+        <item quantity="other">Kuvvet puanınız olması için %d tane Hızlı oyun oynayın!</item>
+    </plurals>
+    <plurals name="plural_day_streak">
+        <item quantity="one">%d Günlük Seri</item>
+        <item quantity="other">%d Günlük Seri</item>
+    </plurals>
+    <plurals name="plural_day_streak_">
+        <item quantity="one">günlük seri!</item>
+        <item quantity="other">günlük seri!</item>
+    </plurals>
+    <plurals name="plural_puzzle_path_you_have_prestiged">
+        <item quantity="one">%dX prestij elde ettiniz</item>
+        <item quantity="other">%dX prestij elde ettiniz</item>
+    </plurals>
+    <plurals name="plural_streak_days">
+        <item quantity="one">%d Gün</item>
+        <item quantity="other">%d Gün</item>
+    </plurals>
+    <plurals name="puzzle_bonus_reward_x_label">
+        <item quantity="one">Ödül: %d Puan</item>
+        <item quantity="other">Ödül: %d Puan</item>
+    </plurals>
+    <plurals name="puzzle_bonus_x_daily_subtitle">
+        <item quantity="one">%d Bulmaca Çözüldü</item>
+        <item quantity="other">%d Bulmaca Çözüldü</item>
+    </plurals>
+    <plurals name="puzzle_path_x_friends_passed_this_tier_already">
+        <item quantity="one">%d tane arkadaş bu kademeyi çoktan geçti</item>
+        <item quantity="other">%d tane arkadaş bu kademeyi çoktan geçti</item>
+    </plurals>
+    <plurals name="puzzles_rated_subtitle">
+        <item quantity="one">%d taneden fazla bulmacayla idman yapın</item>
+        <item quantity="other">%d taneden fazla bulmacayla idman yapın</item>
+    </plurals>
+    <plurals name="relative_date_x_days_ago">
+        <item quantity="one">%d gün önce</item>
+        <item quantity="other">%d gün önce</item>
+    </plurals>
+    <plurals name="stats_chess_com_players">
+        <item quantity="one">Chess.com Oyuncusu</item>
+        <item quantity="other">Chess.com Oyuncuları</item>
+    </plurals>
+    <plurals name="stats_games_today">
+        <item quantity="one">Bugünkü Oyun</item>
+        <item quantity="other">Bugünkü Oyunlar</item>
+    </plurals>
+    <plurals name="stats_masters_playing_now">
+        <item quantity="one">Şu Anda Oynayan Usta Oyuncu</item>
+        <item quantity="other">Şu Anda Oynayan Usta Oyuncular</item>
+    </plurals>
+    <plurals name="stats_playing_now">
+        <item quantity="one">Şu Anda Oynuyor</item>
+        <item quantity="other">Şu Anda Oynuyor</item>
+    </plurals>
+    <plurals name="upgrade_puzzles_count">
+        <item quantity="one">%d binden fazla Bulmaca</item>
+        <item quantity="other">%d binden fazla Bulmaca</item>
+    </plurals>
+    <plurals name="user_profile_provisional_tile">
+        <item quantity="one">%d Oyun Oynayın</item>
+        <item quantity="other">%d Oyun Oynayın</item>
+    </plurals>
+    <plurals name="x_bishop">
+        <item quantity="one">%d Fil</item>
+        <item quantity="other">%d Fil</item>
+    </plurals>
+    <plurals name="x_challenges">
+        <item quantity="one">%d meydan okuma</item>
+        <item quantity="other">%d meydan okuma</item>
+    </plurals>
+    <plurals name="x_contacts_found">
+        <item quantity="one">%d Bağlantı Bulundu</item>
+        <item quantity="other">%d Bağlantı Bulundu</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="one">%d gün</item>
+        <item quantity="other">%d gün</item>
+    </plurals>
+    <plurals name="x_days_in_a_row_new">
+        <item quantity="one">%d günlük seri!</item>
+        <item quantity="other">%d günlük seri!</item>
+    </plurals>
+    <plurals name="x_days_move">
+        <item quantity="one">%1$d gün/hamle</item>
+        <item quantity="other">%1$d gün/hamle</item>
+    </plurals>
+    <plurals name="x_days_short">
+        <item quantity="one">%dG</item>
+        <item quantity="other">%dG</item>
+    </plurals>
+    <plurals name="x_friends_added">
+        <item quantity="one">%d arkadaş eklendi!</item>
+        <item quantity="other">%d arkadaş eklendi!</item>
+    </plurals>
+    <plurals name="x_friends_online">
+        <item quantity="one">%d Arkadaş Çevrimiçi</item>
+        <item quantity="other">%d Arkadaş Çevrimiçi</item>
+    </plurals>
+    <plurals name="x_games_analyzed">
+        <item quantity="one">%1$d Oyun Analiz Edildi</item>
+        <item quantity="other">%1$d Oyun Analiz Edildi</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="one">%d saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="x_hours_short">
+        <item quantity="one">%dS</item>
+        <item quantity="other">%dS</item>
+    </plurals>
+    <plurals name="x_knight">
+        <item quantity="one">%d At</item>
+        <item quantity="other">%d At</item>
+    </plurals>
+    <plurals name="x_lessons">
+        <item quantity="one">%d Ders</item>
+        <item quantity="other">%d Ders</item>
+    </plurals>
+    <plurals name="x_min">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="one">%d dakika</item>
+        <item quantity="other">%d dakika</item>
+    </plurals>
+    <plurals name="x_minutes_short">
+        <item quantity="one">%dD</item>
+        <item quantity="other">%dD</item>
+    </plurals>
+    <plurals name="x_months">
+        <item quantity="one">%d ay</item>
+        <item quantity="other">%d ay</item>
+    </plurals>
+    <plurals name="x_new_announcements">
+        <item quantity="one">%d yeni duyuru</item>
+        <item quantity="other">%d yeni duyuru</item>
+    </plurals>
+    <plurals name="x_new_notes">
+        <item quantity="one">%d yeni not</item>
+        <item quantity="other">%d yeni not</item>
+    </plurals>
+    <plurals name="x_new_posts">
+        <item quantity="one">%d yeni paylaşım</item>
+        <item quantity="other">%d yeni paylaşım</item>
+    </plurals>
+    <plurals name="x_new_topics">
+        <item quantity="one">%d yeni konu</item>
+        <item quantity="other">%d yeni konu</item>
+    </plurals>
+    <plurals name="x_num_points">
+        <item quantity="one">%d Puan</item>
+        <item quantity="other">%d Puan</item>
+    </plurals>
+    <plurals name="x_pawn">
+        <item quantity="one">%d Piyon</item>
+        <item quantity="other">%d Piyonlar</item>
+    </plurals>
+    <plurals name="x_puzzles_solved_new">
+        <item quantity="one">%d bulmaca çözüldü!</item>
+        <item quantity="other">%d bulmaca çözüldü!</item>
+    </plurals>
+    <plurals name="x_queen">
+        <item quantity="one">%d Vezir</item>
+        <item quantity="other">%d Vezir</item>
+    </plurals>
+    <plurals name="x_rook">
+        <item quantity="one">%d Kale</item>
+        <item quantity="other">%d Kale</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="one">%d saniye</item>
+        <item quantity="other">%d saniye</item>
+    </plurals>
+    <plurals name="x_seconds_short">
+        <item quantity="one">%dSn</item>
+        <item quantity="other">%dSn</item>
+    </plurals>
+    <plurals name="x_trophies">
+        <item quantity="one">%d Kupa</item>
+        <item quantity="other">%d Kupa</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="one">%d yıl</item>
+        <item quantity="other">%d yıl</item>
+    </plurals>
+</resources>

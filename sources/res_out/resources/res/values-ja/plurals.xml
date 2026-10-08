@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_feed_comments">
+        <item quantity="other">%d コメント</item>
+    </plurals>
+    <plurals name="activity_feed_current_streak">
+        <item quantity="other">Current streak: %d days</item>
+    </plurals>
+    <plurals name="activity_feed_draws_chip">
+        <item quantity="other">%d draws</item>
+    </plurals>
+    <plurals name="activity_feed_losses_chip">
+        <item quantity="other">%d losses</item>
+    </plurals>
+    <plurals name="activity_feed_pin_limit">
+        <item quantity="other">You can only pin up to %d posts. Unpin a post to add another.</item>
+    </plurals>
+    <plurals name="activity_feed_played_games">
+        <item quantity="other">Played %d Games</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_points">
+        <item quantity="other">%d puzzle points</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_streak">
+        <item quantity="other">%d puzzles correct in a row</item>
+    </plurals>
+    <plurals name="activity_feed_reactions">
+        <item quantity="other">%d reactions</item>
+    </plurals>
+    <plurals name="activity_feed_streak_milestone_value">
+        <item quantity="other">%d 日</item>
+    </plurals>
+    <plurals name="activity_feed_wins_chip">
+        <item quantity="other">%d勝</item>
+    </plurals>
+    <plurals name="add_x_friends">
+        <item quantity="other">+ %d 人の友達を追加</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_user">
+        <item quantity="other">あと %d 局指すとレーティングが付きます</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_visitor">
+        <item quantity="other">%d 局指すと統計情報が表示されます</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_decreased">
+        <item quantity="other">%d 点の減少</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_increased">
+        <item quantity="other">%d 点の増加</item>
+    </plurals>
+    <plurals name="app_update_message_no_action">
+        <item quantity="other">このバージョンはあと %1$d 日で期限切れになります。アップデートしてください。</item>
+    </plurals>
+    <plurals name="app_update_message_with_action">
+        <item quantity="other">このバージョンはあと %1$d 日で期限切れになります。</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_crowns">
+        <item quantity="other">%1$s、レーティング %2$s、王冠 %3$d 個</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_points">
+        <item quantity="other">%1$s、レーティング %2$s、%3$d ポイント獲得</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_hours">
+        <item quantity="other">&lt;a href=%1$s&gt;コミュニティポリシー&lt;/a&gt;に違反したため、現在オンライン対戦が制限されています。%2$d 時間後にまたプレイできるようになります。</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_minutes">
+        <item quantity="other">&lt;a href=%1$s&gt;コミュニティポリシー&lt;/a&gt;に違反したため、現在オンライン対戦が制限されています。%2$d 分後にまたプレイできるようになります。</item>
+    </plurals>
+    <plurals name="coach_nudge_board_highlighted_squares">
+        <item quantity="other">Board with %d highlighted squares</item>
+    </plurals>
+    <plurals name="daily_puzzle_keep_streak_alive">
+        <item quantity="other">%d 日の連続記録を続けよう！</item>
+    </plurals>
+    <plurals name="daily_seeks_modal_subtitle">
+        <item quantity="other">相手の次の手の考慮時間は後 %d 日です。</item>
+    </plurals>
+    <plurals name="daily_seeks_pending_modal_subtitle">
+        <item quantity="other">相手がチャレンジを受け入れた後、最初の手を指すまで最大 %d 日かかります。</item>
+    </plurals>
+    <plurals name="event_reward_points_to_unlock">
+        <item quantity="other">%1$d %%tokenIcon%% で解放</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">%d 秒早送り</item>
+        <item quantity="other">%d 秒早送り</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">%d 秒巻き戻し</item>
+        <item quantity="other">%d 秒巻き戻し</item>
+    </plurals>
+    <plurals name="first_daily_move_game_message_plural">
+        <item quantity="other">これはデイリーチェスの対局で、相手は 1 手に最大 %d 日考えることができます。</item>
+    </plurals>
+    <plurals name="first_daily_move_message_plural">
+        <item quantity="other">相手の次の手の残り時間は後 %d 日です。</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_game_count">
+        <item quantity="other">プレイ回数：%1$d</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_opening_stats">
+        <item quantity="other">このオープニングは %1$d 回指して勝率 %2$s でした。</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_revised_opening_stats">
+        <item quantity="other">Played %1$d times. %2$s win rate.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d 件の新しい通知</item>
+        <item quantity="other">%d 件の新しい通知</item>
+    </plurals>
+    <plurals name="play_more_blitz_games_count">
+        <item quantity="other">ブリッツを %d 局指すとレーティングが付きます！</item>
+    </plurals>
+    <plurals name="play_more_bullet_games_count">
+        <item quantity="other">ブレットを %d 局指すとレーティングが付きます！</item>
+    </plurals>
+    <plurals name="play_more_chess960_games_count">
+        <item quantity="other">チェス 960 を %d 局指すとレーティングが付きます！</item>
+    </plurals>
+    <plurals name="play_more_rapid_games_count">
+        <item quantity="other">ラピッドを %d 局指すとレーティングが付きます！</item>
+    </plurals>
+    <plurals name="plural_day_streak">
+        <item quantity="other">%d 日連続</item>
+    </plurals>
+    <plurals name="plural_day_streak_">
+        <item quantity="other">日連続参加！</item>
+    </plurals>
+    <plurals name="plural_puzzle_path_you_have_prestiged">
+        <item quantity="other">%d 回完了しました</item>
+    </plurals>
+    <plurals name="plural_streak_days">
+        <item quantity="other">%d Days</item>
+    </plurals>
+    <plurals name="puzzle_bonus_reward_x_label">
+        <item quantity="other">報酬：%d ポイント</item>
+    </plurals>
+    <plurals name="puzzle_bonus_x_daily_subtitle">
+        <item quantity="other">%d 問正解</item>
+    </plurals>
+    <plurals name="puzzle_path_x_friends_passed_this_tier_already">
+        <item quantity="other">%d 人の友達がこのティアをクリアしています</item>
+    </plurals>
+    <plurals name="puzzles_rated_subtitle">
+        <item quantity="other">%d 問を超えるタクティクス問題で練習</item>
+    </plurals>
+    <plurals name="relative_date_x_days_ago">
+        <item quantity="other">%d 日前</item>
+    </plurals>
+    <plurals name="stats_chess_com_players">
+        <item quantity="other">Chess.com プレイヤー</item>
+    </plurals>
+    <plurals name="stats_games_today">
+        <item quantity="other">今日の対局数</item>
+    </plurals>
+    <plurals name="stats_masters_playing_now">
+        <item quantity="other">マスターがプレイ中</item>
+    </plurals>
+    <plurals name="stats_playing_now">
+        <item quantity="other">現在プレイ中</item>
+    </plurals>
+    <plurals name="upgrade_puzzles_count">
+        <item quantity="other">%d 千問を超える問題</item>
+    </plurals>
+    <plurals name="user_profile_provisional_tile">
+        <item quantity="other">%d 局をプレイ</item>
+    </plurals>
+    <plurals name="x_bishop">
+        <item quantity="other">ビショップ %d 個</item>
+    </plurals>
+    <plurals name="x_challenges">
+        <item quantity="other">%d 問</item>
+    </plurals>
+    <plurals name="x_contacts_found">
+        <item quantity="other">%d 件の連絡先が見つかりました</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%d 日</item>
+    </plurals>
+    <plurals name="x_days_in_a_row_new">
+        <item quantity="other">%d 日連続！</item>
+    </plurals>
+    <plurals name="x_days_move">
+        <item quantity="other">%1$d 日/手</item>
+    </plurals>
+    <plurals name="x_days_short">
+        <item quantity="other">%d 日</item>
+    </plurals>
+    <plurals name="x_friends_added">
+        <item quantity="other">%d 人の友達を追加しました！</item>
+    </plurals>
+    <plurals name="x_friends_online">
+        <item quantity="other">%d 人の友達が接続中</item>
+    </plurals>
+    <plurals name="x_games_analyzed">
+        <item quantity="other">%1$d 局解析ずみ</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%d 時間</item>
+    </plurals>
+    <plurals name="x_hours_short">
+        <item quantity="other">%d 時間</item>
+    </plurals>
+    <plurals name="x_knight">
+        <item quantity="other">ナイト %d 個</item>
+    </plurals>
+    <plurals name="x_lessons">
+        <item quantity="other">%d レッスン</item>
+    </plurals>
+    <plurals name="x_min">
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%d 分</item>
+    </plurals>
+    <plurals name="x_minutes_short">
+        <item quantity="other">%d 分</item>
+    </plurals>
+    <plurals name="x_months">
+        <item quantity="other">%d 月</item>
+    </plurals>
+    <plurals name="x_new_announcements">
+        <item quantity="other">%d 件の新しいお知らせ</item>
+    </plurals>
+    <plurals name="x_new_notes">
+        <item quantity="other">%d 件の新しいメモ</item>
+    </plurals>
+    <plurals name="x_new_posts">
+        <item quantity="other">%d 件の新しい投稿</item>
+    </plurals>
+    <plurals name="x_new_topics">
+        <item quantity="other">%d 件の新しいトピック</item>
+    </plurals>
+    <plurals name="x_num_points">
+        <item quantity="other">%d ポイント</item>
+    </plurals>
+    <plurals name="x_pawn">
+        <item quantity="other">ポーン %d 個</item>
+    </plurals>
+    <plurals name="x_puzzles_solved_new">
+        <item quantity="other">%d 問に正解！</item>
+    </plurals>
+    <plurals name="x_queen">
+        <item quantity="other">クイーン %d 個</item>
+    </plurals>
+    <plurals name="x_rook">
+        <item quantity="other">ルーク %d 個</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="x_seconds_short">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="x_trophies">
+        <item quantity="other">%d 個のトロフィー</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="other">%d 年</item>
+    </plurals>
+</resources>

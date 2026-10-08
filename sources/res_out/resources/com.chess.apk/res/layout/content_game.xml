@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clipChildren="false"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:animateLayoutChanges="true">
+    <com.chess.chessboard.layout.ChessBoardLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/bottom_button_height"
+        app:cbl_style="centered"
+        app:offset_topView_top="@dimen/game_move_history_view_height"
+        app:view_bottom="@layout/content_game_bottom"
+        app:view_chessBoard="@layout/page_chessboard_with_compose"
+        app:view_landscapeSide="@layout/content_game_landscape_side"
+        app:view_top="@layout/content_game_top"
+        app:view_topOverlay="@layout/content_game_top_overlay"/>
+    <com.chess.gameutils.views.GameControlView
+        android:layout_gravity="bottom"
+        android:id="@+id/controlsView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_button_height"
+        android:animateLayoutChanges="true"/>
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/snackBarContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/bottom_button_height"/>
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:clipChildren="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.chess.utils.android.toolbar.CenteredToolbar
+        android:id="@+id/toolbar"
+        android:background="@color/colorToolbar"
+        android:visibility="@integer/gone_on_small_squarish_screen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stateListAnimator="@null"/>
+    <include
+        android:id="@+id/contentGame"
+        layout="@layout/content_game"/>
+</LinearLayout>

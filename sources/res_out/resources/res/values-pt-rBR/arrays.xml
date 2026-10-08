@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="daily_puzzle_correct_move_messages">
+        <item>Que visão! Encontrou o lance certo.</item>
+        <item>Bom trabalho. Era mesmo o melhor lance.</item>
+        <item>Sim, essa é a ideia correta.</item>
+        <item>Eu teria feito o mesmo lance.</item>
+        <item>Boa!</item>
+        <item>Exatamente!</item>
+        <item>Bingo!</item>
+        <item>Você tem um talento natural!</item>
+        <item>Este era o melhor lance no tabuleiro.</item>
+        <item>Bom Trabalho!</item>
+    </array>
+    <array name="daily_puzzle_hint_move_messages">
+        <item>Este é o melhor lance.</item>
+        <item>Faça esse lance para avançar.</item>
+        <item>Aqui vai uma dica para te ajudar a pensar.</item>
+        <item>Este é o melhor lance.</item>
+        <item>Este lance vai te permitir avançar.</item>
+        <item>Esta é a ideia certa.</item>
+        <item>Você deve fazer este lance.</item>
+        <item>Este lance é melhor do que os demais.</item>
+        <item>Isto é o que eu jogaria.</item>
+        <item>Este lance deve ajudar.</item>
+    </array>
+    <array name="daily_puzzle_hint_piece_messages">
+        <item>O melhor lance é com essa peça.</item>
+        <item>Mantenha seus olhos nessa peça.</item>
+        <item>Essa peça pode fazer toda a diferença hoje.</item>
+        <item>Procure por um lance com essa peça.</item>
+        <item>Existe um movimento que mudará a partida com essa peça.</item>
+        <item>Olhe para essa peça e imagine o que ela poderá fazer depois.</item>
+        <item>Consegue encontrar um ataque, xeque ou captura usando essa peça?</item>
+        <item>A ideia principal envolve essa peça.</item>
+        <item>Eu ficaria de olho nessa peça se eu fosse você.</item>
+        <item>Procure todos os lances possíveis com essa peça.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_first_heart_loss_messages">
+        <item>Não é o melhor lance.</item>
+        <item>Você perdeu um coração, mas tem mais chances.</item>
+        <item>Não desista. Você ainda tem mais chances.</item>
+        <item>Não está correto, mas você ainda tem mais quatro chances.</item>
+        <item>Faça bom uso dos corações que sobraram.</item>
+        <item>Não se preocupe. Ainda tem mais corações.</item>
+        <item>Há um lance melhor no tabuleiro. Você tem mais quatro tentativas.</item>
+        <item>Você perdeu um coração, mas ainda tem mais quatro tentativas.</item>
+        <item>Tudo bem. Com tentativa e erro você reduz as suas opções.</item>
+        <item>Esqueça esse erro. Você ainda tem mais quatro tentativas.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_generic_messages">
+        <item>Não é isso. Pense bem antes de gastar outro coração.</item>
+        <item>Procure os xeques, ataques e capturas.</item>
+        <item>Experimente usar uma dica caso fique travado.</item>
+        <item>Este não é o melhor lance. Tente novamente.</item>
+        <item>Há um lance melhor no tabuleiro.</item>
+        <item>Pense bem antes de gastar um coração.</item>
+        <item>Lembre-se de pensar na resposta do seu adversário.</item>
+        <item>Qual lance coloca você em uma posição melhor?</item>
+        <item>Tente novamente. Há um lance melhor.</item>
+        <item>Entendi o que está pensando, mas não é o melhor lance.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_last_heart_remaining_messages">
+        <item>Só mais um coração. Pense bem.</item>
+        <item>É a sua última tentativa. Você consegue.</item>
+        <item>Pense com cuidado. Só resta um coração.</item>
+        <item>Concentre-se neste lance. Você só tem mais um coração sobrando.</item>
+        <item>Lembre-se de olhar cada lance possível na sua última tentativa.</item>
+        <item>Esta é a sua última chance para resolver o problema.</item>
+        <item>Você ainda poderá resolver este problema usando a sua última tentativa.</item>
+        <item>Só mais um coração. Você consegue!</item>
+        <item>Não é o melhor lance. Você ainda tem mais uma tentativa.</item>
+        <item>Mantenha o foco. Você tem só mais uma tentativa.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_out_of_hearts_messages">
+        <item>Foi difícil. Volte amanhã para outro problema.</item>
+        <item>Acabaram os corações. Veja a solução ou continue tentando por conta própria.</item>
+        <item>Esse foi o seu último coração. Você pode ver a solução ou continuar tentando.</item>
+        <item>Haverá outro problema para resolver amanhã.</item>
+        <item>Quer ver a solução ou continuar tentando por conta própria?</item>
+        <item>Acabaram os seus corações, mas poderá continuar tentando se quiser.</item>
+        <item>Você pode continuar tentando resolver ou ver a solução.</item>
+        <item>Acabaram os seus corações, mas você poderá continuar tentando.</item>
+        <item>Acabaram as suas tentativas. Continue resolvendo ou veja a solução.</item>
+        <item>Se você travar, pode olhar a solução. Mas se achar que consegue, continue tentando!</item>
+    </array>
+    <array name="daily_puzzle_solved_all_hearts_messages">
+        <item>Perfeito! Você não cometeu nenhum erro e não usou nenhuma dica.</item>
+        <item>Sem errar? Impressionante!</item>
+        <item>Foi uma jogada perfeita! Bom trabalho.</item>
+        <item>Você nem precisou de dicas! Bom trabalho.</item>
+        <item>Assim parece até fácil!</item>
+        <item>Uma solução perfeita, e não gastou nenhum coração.</item>
+        <item>Arrebentou! Sem gastar um coração.</item>
+        <item>Bom trabalho resolvendo sem errar!</item>
+        <item>Uau! Um problema perfeito.</item>
+        <item>Fantástico! Você resolveu sem erros.</item>
+    </array>
+    <array name="daily_puzzle_solved_generic_messages">
+        <item>Boa! Assista ao vídeo para aprender mais sobre esse problema.</item>
+        <item>Mandou bem! Esse é o lance correto.</item>
+        <item>Impressionante! Foi um problema complicado.</item>
+        <item>Sim! Este lance foi crucial para resolver o problema.</item>
+        <item>Este é um problema bom para guardar na memória.</item>
+        <item>É assim que se faz! Lembre-se, há um problema novo por dia.</item>
+        <item>Que visão! Você encontrou a solução.</item>
+        <item>Este problema foi muito fácil para você!</item>
+        <item>Você leva jeito para resolver problemas.</item>
+        <item>Sim! Este problema não foi fácil.</item>
+    </array>
+    <array name="daily_puzzle_solved_no_hearts_messages">
+        <item>Esse foi complicado. Tente novamente amanhã.</item>
+        <item>Volte amanhã para resolver um novo problema.</item>
+        <item>Agora você sabe o que poderia ter jogado. Assista a este vídeo para aprender mais.</item>
+        <item>Assista a este vídeo para entender quais eram os melhores lances.</item>
+        <item>Tente novamente amanhã. Cada problema é uma oportunidade para melhorar.</item>
+        <item>Você ficou sem corações. Assista a este vídeo para entender quais eram os melhores lances.</item>
+        <item>Você não encontrou os melhores lances, mas ainda há algo para aprender.</item>
+        <item>Quer entender quais eram os melhores lances? Assista a este vídeo.</item>
+        <item>Boa tentativa. Você terá outra chance amanhã.</item>
+        <item>Espero que você tenha aprendido algo. Tente novamente amanhã.</item>
+    </array>
+    <array name="daily_puzzle_solved_one_heart_remaining_messages">
+        <item>Você conseguiu sobrando somente um coração. Bom trabalho!</item>
+        <item>Arrasou, e só tinha um coração sobrando.</item>
+        <item>É isso aí! Bom trabalho.</item>
+        <item>Você mandou muito bem com apenas um coração sobrando!</item>
+        <item>Bom trabalho resolvendo o problema com apenas um coração sobrando!</item>
+        <item>Sabia que iria conseguir resolver.</item>
+        <item>Bom trabalho resolvendo o Problema Diário de hoje.</item>
+        <item>Uau! Guarde essas táticas para o futuro.</item>
+        <item>Bem a tempo! Você resolveu com apenas um coração sobrando.</item>
+        <item>É isso aí! Bom trabalho.</item>
+    </array>
+    <array name="daily_puzzle_starting_position_messages">
+        <item>É a sua vez. Consegue ver o melhor lance?</item>
+        <item>É a sua vez. Há um lance melhor do que os outros.</item>
+        <item>Como você jogaria em uma partida real?</item>
+        <item>É a sua vez de brilhar. Qual o melhor lance?</item>
+        <item>É a sua vez. Experimente pensar alguns lances adiante.</item>
+        <item>Você tem um lance bom. Consegue ver?</item>
+        <item>Há um lance melhor que os demais em todo o tabuleiro.</item>
+        <item>É a sua vez. Você consegue!</item>
+        <item>Pense muito bem antes de fazer o seu primeiro lance.</item>
+        <item>Se não conseguir avançar, pode usar um coração para receber uma dica.</item>
+    </array>
+    <array name="daily_puzzle_welcome_messages">
+        <item>Bem-vindo(a)! Isto é divertido.</item>
+        <item>O Problema Diário de hoje é de quebrar a cabeça.</item>
+        <item>Sei que conseguirá resolver o Problema Diário.</item>
+        <item>Você consegue!</item>
+        <item>Espere algumas reviravoltas no Problema Diário de hoje.</item>
+        <item>Sei que você conseguirá resolver o Problema Diário.</item>
+        <item>Lembre de usar dicas caso não consiga avançar no problema de hoje.</item>
+        <item>Há muitos lances possíveis, mas somente um é o melhor.</item>
+        <item>Acredito em você!</item>
+        <item>Bem-Vindo(a)! O problema de hoje está complicado. Use o tempo que precisar.</item>
+    </array>
+    <array name="game_review_placeholders_impersonal">
+        <item>Revisando a partida…</item>
+        <item>Calculando as melhores linhas…</item>
+        <item>Um instantinho enquanto analiso…</item>
+        <item>Só um segundo para eu fazer a revisão…</item>
+        <item>Um minutinho, estou analisando…</item>
+        <item>Aguarde um pouco, estou revisando…</item>
+        <item>Aguente firme, estou quase terminando de analisar…</item>
+        <item>Segure firme, estou quase terminando de revisar…</item>
+        <item>Quase lá, um segundo…</item>
+        <item>Carregando Revisão da Partida…</item>
+        <item>Carregando a Revisão da Partida agora…</item>
+        <item>Carregando a Revisão da Partida…</item>
+        <item>Um instante…</item>
+        <item>Analisando…</item>
+        <item>Admirando as crinas lustrosas dos cavalos…</item>
+    </array>
+    <array name="game_review_placeholders_personal">
+        <item>Revisando a sua partida…</item>
+        <item>Analisando a sua partida…</item>
+        <item>Conferindo a sua partida…</item>
+        <item>Dando uma olhada na sua partida…</item>
+        <item>Revisando os seus lances…</item>
+        <item>Analisando os seus lances…</item>
+        <item>Quase lá, estou revisando seus lances…</item>
+        <item>Quase lá, a revisão da sua partida está chegando…</item>
+        <item>Um instante enquanto carrego a Revisão da sua Partida…</item>
+        <item>Desmistificando os seus lances agora…</item>
+        <item>Um momento enquanto confiro a sua partida…</item>
+        <item>A Revisão da sua Partida está sendo carregada…</item>
+    </array>
+    <array name="learningTilesArray">
+        <item>Partidas acima à espera</item>
+        <item>Todas as Partidas Abaixo</item>
+        <item>Desativado</item>
+    </array>
+    <array name="loading_phrases">
+        <item>Fique sempre de olho em xeques, capturas e ameaças.</item>
+        <item>A Defesa Siciliana é a resposta mais popular contra 1.e4.</item>
+        <item>Desenvolva peças a partir de suas casas iniciais para ganhar controle do tabuleiro.</item>
+        <item>Tirar a sua dama muito cedo pode causar gafes na abertura.</item>
+        <item>Procure lances de peão que permitem o desenvolvimento das suas peças.</item>
+        <item>Mover a mesma peça duas vezes na abertura é geralmente considerado um desperdício de tempo.</item>
+        <item>O gráfico de avaliação calcula a vantagem do jogador após cada lance.</item>
+        <item>Uma Gafe %Blunder% é um lance que impacta significativamente a posição de um jogador de maneira negativa.</item>
+        <item>Uma Chance Perdida %Miss% é quando se deixa passar uma oportunidade tática ou uma chance de punir o erro do seu adversário.</item>
+        <item>Um Erro %Mistake% é um lance ruim que piora a sua posição imediatamente.</item>
+        <item>Uma Imprecisão %Inaccuracy% é um lance fraco que não é tão bom quanto o melhor lance.</item>
+        <item>Um lance de Livro %Book% é um lance padrão de abertura, jogado com frequência por bons jogadores.</item>
+        <item>Um lance Bom %Good% é aceitável, mas também havia outros lances melhores no tabuleiro!</item>
+        <item>Um lance Ótimo %Excellent% é um lance tão bom quanto o Melhor lance: orgulhe-se!</item>
+        <item>O Melhor %Best% lance é aquele que a engine determina como sendo o melhor lance.</item>
+        <item>Um lance Excelente %Great% é um lance crítico que mudou o rumo da partida.</item>
+        <item>Um lance Brilhante %Brilliant% é quando você encontra um ótimo sacrifício.</item>
+        <item>Precisão é uma medida de quão próximo você jogou dos Melhores %Best% lances.</item>
+        <item>Aprender uma nova abertura é uma forma divertida de renovar o xadrez.</item>
+        <item>Após 3 lances, há 121 milhões de posições possíveis.</item>
+        <item>Alguns acreditam que o “Sacrifício do Presente Grego” recebeu o nome de Gioachino Greco, que era italiano.</item>
+        <item>Stanley Kubrick jogava xadrez por dinheiro em uma praça de Washington para pagar suas refeições quando tinha 20 e poucos anos.</item>
+        <item>Há cerca de 1800 grandes mestres no mundo.</item>
+        <item>En passant, em francês, significa \"no passe\".</item>
+        <item>Se a origem da peça torre vem da palavra persa \"rukh\", que significa carruagem, por que essa peça se parece com uma torre?</item>
+        <item>Abhimanyu Mishra se tornou o grande mestre mais jovem de todos os tempos aos 12 anos, 4 meses e 25 dias.</item>
+        <item>O nome \"Deep Blue\" veio de uma competição de nomes feita pela IBM e é uma brincadeira com o seu apelido \"Big Blue.\"</item>
+        <item>Zugzwang, em alemão, significa \"movimento compulsório\" e acontece quando qualquer lance realizado coloca o jogador em desvantagem.</item>
+        <item>A partida de xadrez jogada em Blade Runner é uma recriação da “Partida Imortal” entre Adolf Anderssen e Lionel Kieseritzky, em 1851.</item>
+        <item>Há 960 posições iniciais possíveis em uma partida de Xadrez960.</item>
+        <item>Mestres de xadrez ingleses foram recrutados para decifrar códigos durante a Segunda Guerra Mundial.</item>
+        <item>Até meados dos anos 1800, as partidas de xadrez eram jogadas sem limite de tempo.</item>
+        <item>Até os anos 1600, o roque exigia dois lances.</item>
+        <item>O formato atual para anotar lances de xadrez, a notação algébrica, foi formalizado em 1981.</item>
+        <item>O primeiro computador de xadrez, O Turco Mecânico, era, na verdade, um cara escondido em uma caixa fingindo ser um autômata.</item>
+        <item>O último xeque-mate em um Campeonato Mundial foi em 1929.</item>
+        <item>Em 1951, o Mestre Internacional Robert Wade jogou um evento simultâneo contra 30 estudantes russos. Wade ganhou 0 partidas, empatou 10, e perdeu as outras 20.</item>
+        <item>O xeque-mate mais rápido é possível com apenas 2 lances.</item>
+        <item>O Campeão Mundial Alexander Alekhine tinha um gato chamado \"Xadrez\".</item>
+        <item>Durante o Torneio Mundial de 1978, Anatoly Karpov contratou um hipnotizador para sentar na primeira fileira e encarar o seu adversário.</item>
+        <item>O Campeão Mundial Mikhail Tal tinha apenas 3 dedos na mão direita.</item>
+        <item>O Gambito Evans recebe o nome do capitão marítimo galês do Século 19, William Davies Evans.</item>
+        <item>O Campeonato Mundial de 1984-85 foi abandonado após 5 meses e 48 partidas para preservar a saúde dos jogadores.</item>
+        <item>A partida mais longa da história do Campeonato Mundial foi a partida 6 do Campeonato Mundial de 2021, com 136 lances.</item>
+        <item>\"As gafes estão todas no tabuleiro esperando que sejam feitas.\" - Savielly Tartakower</item>
+        <item>\"Há dois tipos de sacrifício: Os corretos e os meus.\" - Mikhail Tal</item>
+        <item>\"Xadrez é a academia da mente.\" - Blaise Pascal</item>
+        <item>\"Até um plano ruim é melhor do que não ter plano nenhum.\" Mikhail Chigorin</item>
+        <item>\"O vencedor da partida é o jogador que comete o penúltimo erro.\" - Savielly Tarkower</item>
+        <item>\"Eu sou Alekhine, campeão mundial de xadrez. Eu tenho um gato chamado Xadrez.\" - Alexander Alekhine, quando parado sem passaporte na fronteira entre Polônia e Rússia.</item>
+        <item>\"Problemas de xadrez exigem do compositor as mesmas virtudes que caracterizam todas as artes que valem a pena.\" - Vladimir Nabokov</item>
+        <item>\"Xadrez é uma questão de discernimento delicado, de saber quando socar e quando se esquivar.\" - Bobby Fischer</item>
+        <item>\"Esforço constante é recompensado, mesmo que nem sempre de uma forma tangível e imediata.\" - Garry Kasparov</item>
+        <item>\"Um peão passado se fortalece a medida que o número de peças no tabuleiro diminui.\" - José Raúl Capablanca</item>
+        <item>\"Xadrez é a arte que expressa a ciência da lógica.\" - Mikhail Botvinnik</item>
+        <item>\"Se a vingança te motiva, vá atrás dela!\" - Viswanathan Anand</item>
+        <item>\"Se quer jogar bem, é importante se concentrar no agora.\" Vassily Ivanchuk</item>
+        <item>\"O maior desafio é satisfazer as suas próprias ideias sobre si mesmo.\" - Judit Polgar</item>
+        <item>O %websiteName% foi fundado em 2005 por dois amigos de faculdade, Erik e Jay.</item>
+        <item>Membros do %websiteName% jogam mais de um bilhão de partidas em um mês!</item>
+    </array>
+    <array name="offline_coach_messages">
+        <item>Ah, meu estudante favorito! Como é bom te ver.</item>
+        <item>Que bom que voltou. Adorei ver você de novo.</item>
+        <item>Tão bom te ver, amigo.</item>
+        <item>Se não é meu aluno favorito. Olá!</item>
+        <item>Um dia lindo para jogar um pouco de xadrez.</item>
+        <item>Um problema por dia só traz alegria.</item>
+        <item>Um problema por dia, sem capivarada na pista.</item>
+        <item>Quer subir de nível? Comece com um problema.</item>
+        <item>Estou com vontade de ensinar se você estiver com vontade de aprender.</item>
+        <item>Qual atividade de xadrez você deseja fazer?</item>
+        <item>No que tem se concentrado ultimamente?</item>
+        <item>Se precisar de algo, estou aqui para ajudar você a aprender.</item>
+        <item>Aprender aberturas novas de xadrez é fascinante.</item>
+        <item>A minha parte favorita de ensinar é ver os meus alunos melhorarem.</item>
+        <item>Jogar xadrez é uma forma divertida de manter o seu cérebro afiado.</item>
+        <item>Sempre que canso de ver memes de xadrez, tento resolver alguns problemas.</item>
+        <item>Vamos aprender uma nova estratégia de xadrez hoje.</item>
+        <item>Como estão as coisas? Tudo certo para jogar um pouco de xadrez?</item>
+        <item>É sempre muito bom ver você de novo. Divirta-se.</item>
+        <item>Ah, bom te ver de novo!</item>
+        <item>Que bom em te ver. Aqui fica melhor quando você aparece.</item>
+        <item>Ganhando ou perdendo, cada partida vai te ensinar alguma coisa.</item>
+        <item>O xadrez treina foco, lógica e imaginação, tudo ao mesmo tempo!</item>
+        <item>Olha só quem chegou! Meu jogador favorito de xadrez voltou.</item>
+        <item>Você joga as partidas, eu te ajudo a entendê-las.</item>
+        <item>Sou o seu treinador. Vou ajudar você a aprender, melhorar e ver o xadrez com outros olhos.</item>
+        <item>Estou aqui para te ajudar a aprender, revisar suas partidas e desmistificar os seus melhores lances.</item>
+        <item>Que bom que você está aqui! Vamos jogar e aprender algo novo juntos.</item>
+        <item>É uma maravilha te ver aqui de novo. Fico feliz que está dedicando um tempo para o xadrez hoje.</item>
+        <item>Boas vindas! Vamos voltar de onde paramos.</item>
+        <item>Que bom ver você por aqui. Vamos jogar algo novo hoje.</item>
+        <item>Problemas são muito bons para nos mantermos afiados.</item>
+        <item>Jogue contra um bot para melhorar sem pressão!</item>
+        <item>Quer esquentar um pouco resolvendo alguns problemas?</item>
+        <item>Saudações! Espeço que você goste de aprender tanto quanto eu gosto de ensinar!</item>
+        <item>Quer aprender algo novo hoje? Que tal uma aula?</item>
+        <item>Fico feliz em ver você aqui! Adoro quando meus alunos melhoram no xadrez.</item>
+        <item>Xadrez é sempre muito legal. Você sabia que a maioria das partidas são únicas dentre bilhões de possibilidades?</item>
+        <item>Quer melhorar? Faça o xadrez virar parte da sua rotina!</item>
+        <item>Sempre tem algo novo para aprender no xadrez. Por onde começamos?</item>
+        <item>Uma das minhas formas prediletas de manter o xadrez interessante é aprender uma abertura nova!</item>
+        <item>Aliás, se você jogar uma partida contra um bot, você poderá pedir dicas e voltar lances.</item>
+        <item>Você está aqui, deve ser hora do xadrez!</item>
+        <item>Cada lance é um passo à frente. Parabéns pela sua perseverança.</item>
+        <item>Esforço consistente é o que direciona ao progresso real.</item>
+        <item>Focar hoje irá trazer resultados amanhã.</item>
+        <item>Que bom que voltou. Vamos jogar?</item>
+        <item>O xadrez promove paciência e disciplina.</item>
+        <item>Que bom que voltou. Vamos aprender?</item>
+        <item>O progresso se constrói a partir de melhorias contínuas.</item>
+        <item>Olá! É aqui que os melhores hábitos são construídos.</item>
+        <item>Que tal testar o seu nível de xadrez?</item>
+        <item>Olá de novo! O que será que você preparou para hoje?</item>
+    </array>
+    <array name="puzzles_coach_comments_10_in_a_row">
+        <item>Foram 10 de uma vez só! Resolução imbatível!</item>
+        <item>Seu forte é resolver problemas!</item>
+        <item>Que visão perfeita! Foram 10 em seguida!</item>
+        <item>Dez problemas perfeitos em seguida? Fantástico!</item>
+        <item>Série épica! Você está resolvendo tudo!</item>
+    </array>
+    <array name="puzzles_coach_comments_3_in_a_row">
+        <item>Três em seguida! Não vai parar agora!</item>
+        <item>Você está indo muito bem!</item>
+        <item>1-2-3 em série! Bom trabalho!</item>
+        <item>Você faz parecer que é fácil!</item>
+        <item>Ótimo lance! Você está com tudo!</item>
+    </array>
+    <array name="puzzles_coach_comments_5_in_a_row">
+        <item>Uau! Você está brilhando!</item>
+        <item>Cinco em seguida? Que maravilha!</item>
+        <item>Esses problemas são fáceis demais para você!</item>
+        <item>Continue assim! Está mandando muito bem!</item>
+        <item>Você é uma máquina dos problemas!</item>
+    </array>
+    <array name="puzzles_coach_comments_7_in_a_row">
+        <item>A sua precisão foi impressionante!</item>
+        <item>Tá pegando fogo, bicho! Foram sete acertos em seguida!</item>
+        <item>Você não perde uma! Excelente.</item>
+        <item>Acho que você fazer resolução de problemas a sua profissão… se essa vaga existisse, pelo menos.</item>
+        <item>Sete problemas seguidos?! Brilhante!</item>
+    </array>
+    <array name="puzzles_coach_comments_general">
+        <item>Muito bem feito!</item>
+        <item>Sim! É esse o caminho!</item>
+        <item>Resultado muito bom!</item>
+        <item>Perfeito! Bom trabalho.</item>
+        <item>Sensacional! Você encontrou a solução!</item>
+        <item>Você conseguiu! Muito bom.</item>
+        <item>Boa! Você conseguiu.</item>
+        <item>Muito bom!</item>
+        <item>Você encontrou a solução. Excelente!</item>
+        <item>Correto! Bem jogado.</item>
+        <item>Bom trabalho!</item>
+        <item>Fantástico!</item>
+        <item>Jogou demais!</item>
+        <item>Isso mesmo! Você pegou!</item>
+        <item>Resolveu muito bem!</item>
+        <item>Jogada inteligente!</item>
+        <item>É isso aí! Jogou bem!</item>
+        <item>Visão perfeita! Bom trabalho!</item>
+        <item>Jogada excelente! Você conseguiu!</item>
+        <item>Partida ótima!</item>
+    </array>
+    <array name="puzzles_coach_comments_solution_shown">
+        <item>Esta é a resposta correta.</item>
+        <item>Esta é a solução do problema.</item>
+        <item>Boa tentativa! Aqui está a resposta correta.</item>
+        <item>Que problema complicado! Vamos tentar um diferente.</item>
+        <item>Veja se consegue lembrar este padrão.</item>
+        <item>Até mesmo os melhores alunos não acertam todos os problemas.</item>
+        <item>Não se preocupe. Na próxima você consegue!</item>
+        <item>Tente este problema novamente para memorizar o padrão.</item>
+        <item>Tente este problema novamente para aprender cada lance!</item>
+        <item>Treinador ao resgate! Que problema divertido.</item>
+        <item>Está tudo bem. De vez em quando os problemas são difíceis!</item>
+        <item>Estou sempre feliz em poder ajudar!</item>
+        <item>Fez uma bela tentativa. Quer tentar outro?</item>
+        <item>Estude este problema e tente entender os lances.</item>
+        <item>Você sempre pode tentar um problema de novo e praticar.</item>
+        <item>Boa tentativa! Quer mais um problema?</item>
+    </array>
+    <array name="puzzles_coach_home_array">
+        <item>Resolver problemas é a melhor forma de desenvolver reconhecimento de padrões e habilidades táticas.</item>
+        <item>Falam que 99% do xadrez se baseia em táticas… Que notícia boa! Problemas foram feitos para isso.</item>
+        <item>Resolver problemas diariamente faz com que você veja os erros dos adversários com mais facilidade.</item>
+        <item>Resolver problemas diariamente ajuda você a decidir quais são os lances mais seguros nas suas próprias partidas.</item>
+        <item>Os problemas ajudam você a jogar suas aberturas com mais segurança, o meio jogo com mais confiança e os finais com maior precisão.</item>
+        <item>Problemas são ótimos para praticar e melhorar no xadrez - e também são muito divertidos!</item>
+        <item>Quando você erra um problema, deve sempre tentar resolver o problema novamente e revisar a solução para ver onde foi que você errou.</item>
+        <item>Deu vontade de ir mais rápido? Marque pontos resolvendo problemas na Corrida de Problemas. Três erros e acabou!</item>
+        <item>Se tiver um pouco de tempo sobrando, a Corrida de Problemas vai fazer o seu cérebro trabalhar!</item>
+        <item>Sabia que os Problemas Diários ficam mais difíceis durante a semana? Os problemas do domingo são os mais pesados!</item>
+        <item>Nunca pule o dia de Problemas!</item>
+        <item>Quer melhorar as suas habilidades táticas com alguns Problemas?</item>
+        <item>É hora de resolver!</item>
+        <item>Cada posição do problema tem apenas um lance que funciona… Consegue encontrá-lo?</item>
+        <item>Que bom que voltou! Vamos continuar resolvendo problemas…</item>
+        <item>Gosta de problemas velozes e furiosos? Que tal jogar a Corrida de Problemas?</item>
+        <item>Está confiante que consegue resolver mais rápido do que os outros jogadores? Aqueça com a Corrida de Problemas!</item>
+    </array>
+    <array name="skills_name">
+        <item>Novato</item>
+        <item>Melhorando</item>
+        <item>Intermediário</item>
+        <item>Avançado</item>
+        <item>Especialista</item>
+    </array>
+</resources>

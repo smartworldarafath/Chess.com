@@ -1,0 +1,3 @@
+package=com.chess.features.play.gameover.v6
+file=GameOverV6SecondaryCtas
+private:GameOverV6SecondaryCtasPreview

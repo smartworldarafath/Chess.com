@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/margin_standard"
+    android:layout_marginVertical="@dimen/margin_small">
+    <TextView
+        android:textColor="@color/white"
+        android:id="@+id/chatTv"
+        android:background="@drawable/chat_phrase_bg"
+        android:padding="@dimen/margin_small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:fontFamily="@font/custom_medium"/>
+    <ImageView
+        android:layout_gravity="bottom"
+        android:layout_width="@dimen/half_margin_standard"
+        android:layout_height="@dimen/half_margin_standard"
+        android:src="@drawable/chat_arrow_tail"/>
+</LinearLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/snackBarContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.google.inputmethod.material.appbar.AppBarLayout
+        android:id="@+id/appBar"
+        android:background="@color/colorToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stateListAnimator="@null">
+        <com.chess.utils.android.toolbar.CenteredToolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </com.google.inputmethod.material.appbar.AppBarLayout>
+    <EditText
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:textColor="@color/black_65"
+        android:textColorHint="@color/black_40"
+        android:gravity="top"
+        android:id="@+id/noteEt"
+        android:background="@color/white"
+        android:padding="@dimen/margin_standard"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="@string/notes"
+        android:inputType="textMultiLine"
+        android:fontFamily="@font/custom_medium"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

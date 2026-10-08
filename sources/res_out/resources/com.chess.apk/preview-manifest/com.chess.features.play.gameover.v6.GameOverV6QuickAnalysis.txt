@@ -1,0 +1,7 @@
+package=com.chess.features.play.gameover.v6
+file=GameOverV6QuickAnalysis
+private:GameOverV6QuickAnalysisPreview
+private:GameOverV6QuickAnalysisStatsOnlyPreview
+private:GameOverV6QuickAnalysisMessageOnlyPreview
+private:GameOverV6QuickAnalysisLoadingPreview
+private:GameOverV6QuickAnalysisLoadingWithCoachPreview

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal">
+    <ImageView
+        android:id="@+id/icon"
+        android:background="@drawable/skill_level_bg"
+        android:padding="10dp"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        app:srcCompat="@drawable/color_piece_knight_white_border"/>
+    <TextView
+        android:textSize="16sp"
+        android:textColor="@color/skill_level_text_color"
+        android:gravity="center_vertical"
+        android:id="@+id/label"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/custom_regular"
+        android:layout_marginStart="@dimen/margin_standard"/>
+</merge>

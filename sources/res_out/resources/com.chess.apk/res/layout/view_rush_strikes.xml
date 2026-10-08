@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/loss"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize">
+    <ImageView
+        android:id="@+id/square1Img"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_margin="6dp"
+        android:contentDescription="@string/icon_content_description"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/square2Img"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/glyph_square_fill_cross"/>
+    <ImageView
+        android:id="@+id/square2Img"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_margin="6dp"
+        android:contentDescription="@string/icon_content_description"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/square3Img"
+        app:layout_constraintStart_toEndOf="@+id/square1Img"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/glyph_square_fill_cross"/>
+    <ImageView
+        android:id="@+id/square3Img"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_margin="6dp"
+        android:contentDescription="@string/icon_content_description"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/square2Img"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/glyph_square_fill_cross"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

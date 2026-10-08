@@ -1,0 +1,8 @@
+package=com.chess.features.play.gameover.v6
+file=GameOverV6RatingRank
+private:GameOverV6RatingRankWinPreview
+private:GameOverV6RatingRankLossPreview
+private:GameOverV6RatingRankDrawPreview
+private:GameOverV6RatingOnlyPreview
+private:GameOverV6RatingRankStackedLargePreview
+private:GameOverV6RatingRankCompactPreview

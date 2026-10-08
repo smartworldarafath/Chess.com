@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="articles_column_count">2</integer>
+    <integer name="comment_editor_lines">10</integer>
+    <integer name="design_snackbar_text_max_lines">1</integer>
+    <integer name="lesson_filters_column_count">4</integer>
+    <integer name="lesson_gauge_start_angle">-248</integer>
+    <integer name="visible_phone_only">@integer/view_gone</integer>
+    <integer name="visible_tablet_only">@integer/view_visible</integer>
+</resources>

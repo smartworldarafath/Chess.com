@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_feed_comments">
+        <item quantity="other">%d comments</item>
+    </plurals>
+    <plurals name="activity_feed_current_streak">
+        <item quantity="other">Current streak: %d days</item>
+    </plurals>
+    <plurals name="activity_feed_draws_chip">
+        <item quantity="other">%d draws</item>
+    </plurals>
+    <plurals name="activity_feed_losses_chip">
+        <item quantity="other">%d losses</item>
+    </plurals>
+    <plurals name="activity_feed_pin_limit">
+        <item quantity="other">You can only pin up to %d posts. Unpin a post to add another.</item>
+    </plurals>
+    <plurals name="activity_feed_played_games">
+        <item quantity="other">Played %d Games</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_points">
+        <item quantity="other">%d puzzle points</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_streak">
+        <item quantity="other">%d puzzles correct in a row</item>
+    </plurals>
+    <plurals name="activity_feed_reactions">
+        <item quantity="other">%d reactions</item>
+    </plurals>
+    <plurals name="activity_feed_streak_milestone_value">
+        <item quantity="other">%d Days</item>
+    </plurals>
+    <plurals name="activity_feed_wins_chip">
+        <item quantity="other">%d wins</item>
+    </plurals>
+    <plurals name="add_x_friends">
+        <item quantity="other">+ Tambah %d Teman</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_user">
+        <item quantity="other">Mainkan %d partai untuk mendapatkan rating Anda</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_visitor">
+        <item quantity="other">Statistik akan muncul setelah %d partai</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_decreased">
+        <item quantity="other">Turun sebesar %d poin</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_increased">
+        <item quantity="other">Naik sebesar %d poin</item>
+    </plurals>
+    <plurals name="app_update_message_no_action">
+        <item quantity="other">This app version will expire in %1$d days. Please update.</item>
+    </plurals>
+    <plurals name="app_update_message_with_action">
+        <item quantity="other">This app version will expire in %1$d days.</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_crowns">
+        <item quantity="other">%1$s, rating %2$s, Anda memiliki %3$d mahkota</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_points">
+        <item quantity="other">%1$s, rating %2$s, dapatkan %3$d poin</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_hours">
+        <item quantity="other">Your online play is currently restricted due to a violation of our &lt;a href=%1$s&gt;Community Policy&lt;/a&gt;. You may play again in %2$d hours.</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_minutes">
+        <item quantity="other">Your online play is currently restricted due to a violation of our &lt;a href=%1$s&gt;Community Policy&lt;/a&gt;. You may play again in %2$d minutes.</item>
+    </plurals>
+    <plurals name="coach_nudge_board_highlighted_squares">
+        <item quantity="other">Board with %d highlighted squares</item>
+    </plurals>
+    <plurals name="daily_puzzle_keep_streak_alive">
+        <item quantity="other">Keep your %d-day streak alive!</item>
+    </plurals>
+    <plurals name="daily_seeks_modal_subtitle">
+        <item quantity="other">Lawan Anda punya waktu %d hari untuk melangkah.</item>
+    </plurals>
+    <plurals name="daily_seeks_pending_modal_subtitle">
+        <item quantity="other">Setelah lawan Anda menerima tantangan Anda, mereka akan memiliki %d hari untuk menjalankan langkah pertama.</item>
+    </plurals>
+    <plurals name="event_reward_points_to_unlock">
+        <item quantity="other">%1$d %%tokenIcon%% untuk Membuka</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Maju cepat %d detik</item>
+        <item quantity="other">Maju cepat %d detik</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Mundur %d detik</item>
+        <item quantity="other">Mundur %d detik</item>
+    </plurals>
+    <plurals name="first_daily_move_game_message_plural">
+        <item quantity="other">Ini adalah permainan Catur Harian di mana lawan Anda memiliki waktu hingga %d hari untuk melangkah.</item>
+    </plurals>
+    <plurals name="first_daily_move_message_plural">
+        <item quantity="other">Lawan Anda sekarang punya waktu %d hari untuk melangkah.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_game_count">
+        <item quantity="other">Dimainkan %1$d kali.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_opening_stats">
+        <item quantity="other">Anda memainkan pembukaan ini %1$d kali, dengan tingkat kemenangan %2$s.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_revised_opening_stats">
+        <item quantity="other">Dimainkan %1$d kali. Angka kemenangan %2$s.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d notifikasi baru</item>
+        <item quantity="other">%d notifikasi baru</item>
+    </plurals>
+    <plurals name="play_more_blitz_games_count">
+        <item quantity="other">Mainkan %d lebih banyak catur Kilat untuk mendapatkan rating!</item>
+    </plurals>
+    <plurals name="play_more_bullet_games_count">
+        <item quantity="other">Mainkan %d lebih banyak catur Peluru untuk mendapatkan rating!</item>
+    </plurals>
+    <plurals name="play_more_chess960_games_count">
+        <item quantity="other">Mainkan %d lebih banyak catur Chess960 untuk mendapatkan rating!</item>
+    </plurals>
+    <plurals name="play_more_rapid_games_count">
+        <item quantity="other">Mainkan %d lebih banyak catur Cepat untuk mendapatkan rating!</item>
+    </plurals>
+    <plurals name="plural_day_streak">
+        <item quantity="other">%d Hari Beruntun</item>
+    </plurals>
+    <plurals name="plural_day_streak_">
+        <item quantity="other">hari beruntun!</item>
+    </plurals>
+    <plurals name="plural_puzzle_path_you_have_prestiged">
+        <item quantity="other">Anda telah mendapatkan prestise %dX</item>
+    </plurals>
+    <plurals name="plural_streak_days">
+        <item quantity="other">%d Days</item>
+    </plurals>
+    <plurals name="puzzle_bonus_reward_x_label">
+        <item quantity="other">Imbalan: %d Poin</item>
+    </plurals>
+    <plurals name="puzzle_bonus_x_daily_subtitle">
+        <item quantity="other">%d Teka-teki Diselesaikan</item>
+    </plurals>
+    <plurals name="puzzle_path_x_friends_passed_this_tier_already">
+        <item quantity="other">%d teman telah melewati tingkatan ini</item>
+    </plurals>
+    <plurals name="puzzles_rated_subtitle">
+        <item quantity="other">Train with more than %d puzzles</item>
+    </plurals>
+    <plurals name="relative_date_x_days_ago">
+        <item quantity="other">%d hari yang lalu</item>
+    </plurals>
+    <plurals name="stats_chess_com_players">
+        <item quantity="other">Pemain Chess.com</item>
+    </plurals>
+    <plurals name="stats_games_today">
+        <item quantity="other">Permainan Hari Ini</item>
+    </plurals>
+    <plurals name="stats_masters_playing_now">
+        <item quantity="other">Master yang Sedang Bermain</item>
+    </plurals>
+    <plurals name="stats_playing_now">
+        <item quantity="other">Sedang Bermain</item>
+    </plurals>
+    <plurals name="upgrade_puzzles_count">
+        <item quantity="other">%dk+ Teka-teki</item>
+    </plurals>
+    <plurals name="user_profile_provisional_tile">
+        <item quantity="other">Mainkan %d Partai</item>
+    </plurals>
+    <plurals name="x_bishop">
+        <item quantity="other">%d Gajah</item>
+    </plurals>
+    <plurals name="x_challenges">
+        <item quantity="other">%d tantangan</item>
+    </plurals>
+    <plurals name="x_contacts_found">
+        <item quantity="other">%d Kontak Ditemukan</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%d hari</item>
+    </plurals>
+    <plurals name="x_days_in_a_row_new">
+        <item quantity="other">%d days in a row!</item>
+    </plurals>
+    <plurals name="x_days_move">
+        <item quantity="other">%1$d hari/langkah</item>
+    </plurals>
+    <plurals name="x_days_short">
+        <item quantity="other">%dH</item>
+    </plurals>
+    <plurals name="x_friends_added">
+        <item quantity="other">%d teman ditambahkan!</item>
+    </plurals>
+    <plurals name="x_friends_online">
+        <item quantity="other">%d Teman Online</item>
+    </plurals>
+    <plurals name="x_games_analyzed">
+        <item quantity="other">%1$d Permainan Dianalisis</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="x_hours_short">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="x_knight">
+        <item quantity="other">%d Kuda</item>
+    </plurals>
+    <plurals name="x_lessons">
+        <item quantity="other">%d Pelajaran</item>
+    </plurals>
+    <plurals name="x_min">
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="x_minutes_short">
+        <item quantity="other">%d mnt</item>
+    </plurals>
+    <plurals name="x_months">
+        <item quantity="other">%d bulan</item>
+    </plurals>
+    <plurals name="x_new_announcements">
+        <item quantity="other">%d new announcements</item>
+    </plurals>
+    <plurals name="x_new_notes">
+        <item quantity="other">%d new notes</item>
+    </plurals>
+    <plurals name="x_new_posts">
+        <item quantity="other">%d new posts</item>
+    </plurals>
+    <plurals name="x_new_topics">
+        <item quantity="other">%d new topics</item>
+    </plurals>
+    <plurals name="x_num_points">
+        <item quantity="other">%d Poin</item>
+    </plurals>
+    <plurals name="x_pawn">
+        <item quantity="other">%d Pion</item>
+    </plurals>
+    <plurals name="x_puzzles_solved_new">
+        <item quantity="other">%d puzzles solved!</item>
+    </plurals>
+    <plurals name="x_queen">
+        <item quantity="other">%d Menteri</item>
+    </plurals>
+    <plurals name="x_rook">
+        <item quantity="other">%d Benteng</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%d detik</item>
+    </plurals>
+    <plurals name="x_seconds_short">
+        <item quantity="other">%d Dtk</item>
+    </plurals>
+    <plurals name="x_trophies">
+        <item quantity="other">%d Trophies</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="other">%d tahun</item>
+    </plurals>
+</resources>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_feed_comments">
+        <item quantity="other">%d comments</item>
+    </plurals>
+    <plurals name="activity_feed_current_streak">
+        <item quantity="other">Current streak: %d days</item>
+    </plurals>
+    <plurals name="activity_feed_draws_chip">
+        <item quantity="other">%d draws</item>
+    </plurals>
+    <plurals name="activity_feed_losses_chip">
+        <item quantity="other">%d losses</item>
+    </plurals>
+    <plurals name="activity_feed_pin_limit">
+        <item quantity="other">You can only pin up to %d posts. Unpin a post to add another.</item>
+    </plurals>
+    <plurals name="activity_feed_played_games">
+        <item quantity="other">Played %d Games</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_points">
+        <item quantity="other">%d puzzle points</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_streak">
+        <item quantity="other">%d puzzles correct in a row</item>
+    </plurals>
+    <plurals name="activity_feed_reactions">
+        <item quantity="other">%d reactions</item>
+    </plurals>
+    <plurals name="activity_feed_streak_milestone_value">
+        <item quantity="other">%d Days</item>
+    </plurals>
+    <plurals name="activity_feed_wins_chip">
+        <item quantity="other">%d wins</item>
+    </plurals>
+    <plurals name="add_x_friends">
+        <item quantity="other">+ 添加%d個朋友</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_user">
+        <item quantity="other">完成%d場對局即可獲得等級分</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_visitor">
+        <item quantity="other">完成%d盤對局後顯示統計數據</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_decreased">
+        <item quantity="other">Decreased by %d points</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_increased">
+        <item quantity="other">Increased by %d points</item>
+    </plurals>
+    <plurals name="app_update_message_no_action">
+        <item quantity="other">This app version will expire in %1$d days. Please update.</item>
+    </plurals>
+    <plurals name="app_update_message_with_action">
+        <item quantity="other">This app version will expire in %1$d days.</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_crowns">
+        <item quantity="other">%1$s，等級分 %2$s，您擁有 %3$d 個皇冠</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_points">
+        <item quantity="other">%1$s，等級分 %2$s，可獲得 %3$d 點數</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_hours">
+        <item quantity="other">Your online play is currently restricted due to a violation of our &lt;a href=%1$s&gt;Community Policy&lt;/a&gt;. You may play again in %2$d hours.</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_minutes">
+        <item quantity="other">Your online play is currently restricted due to a violation of our &lt;a href=%1$s&gt;Community Policy&lt;/a&gt;. You may play again in %2$d minutes.</item>
+    </plurals>
+    <plurals name="coach_nudge_board_highlighted_squares">
+        <item quantity="other">Board with %d highlighted squares</item>
+    </plurals>
+    <plurals name="daily_puzzle_keep_streak_alive">
+        <item quantity="other">Keep your %d-day streak alive!</item>
+    </plurals>
+    <plurals name="daily_seeks_modal_subtitle">
+        <item quantity="other">您的對手還有%d天可以走棋。</item>
+    </plurals>
+    <plurals name="daily_seeks_pending_modal_subtitle">
+        <item quantity="other">對手接受您的挑戰後，將有 %d 天 時間進行第一步棋。</item>
+    </plurals>
+    <plurals name="event_reward_points_to_unlock">
+        <item quantity="other">還需 %1$d %%tokenIcon%% 解鎖</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">快轉 %d 秒</item>
+        <item quantity="other">快轉 %d 秒</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">倒轉 %d 秒</item>
+        <item quantity="other">倒轉 %d 秒</item>
+    </plurals>
+    <plurals name="first_daily_move_game_message_plural">
+        <item quantity="other">這是一場通訊棋對局，您的對手有%d天的時間走棋。</item>
+    </plurals>
+    <plurals name="first_daily_move_message_plural">
+        <item quantity="other">您的對手現在有%d天時間走棋。</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_game_count">
+        <item quantity="other">已玩 %1$d 次。</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_opening_stats">
+        <item quantity="other">您走了%1$d次這個開局，勝率是%2$s。</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_revised_opening_stats">
+        <item quantity="other">已玩 %1$d 次。勝率 %2$s。</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d 則新通知</item>
+        <item quantity="other">%d 則新通知</item>
+    </plurals>
+    <plurals name="play_more_blitz_games_count">
+        <item quantity="other">再完成 %d 局快棋對局以獲得評級！</item>
+    </plurals>
+    <plurals name="play_more_bullet_games_count">
+        <item quantity="other">再完成 %d 局閃電戰對局以獲得評級！</item>
+    </plurals>
+    <plurals name="play_more_chess960_games_count">
+        <item quantity="other">再完成 %d 局 Chess960 即可獲得等級分！</item>
+    </plurals>
+    <plurals name="play_more_rapid_games_count">
+        <item quantity="other">再完成 %d 局常規對局以獲得評級！</item>
+    </plurals>
+    <plurals name="plural_day_streak">
+        <item quantity="other">%d 天連續記錄</item>
+    </plurals>
+    <plurals name="plural_day_streak_">
+        <item quantity="other">天連勝！</item>
+    </plurals>
+    <plurals name="plural_puzzle_path_you_have_prestiged">
+        <item quantity="other">您已獲得%d級增强</item>
+    </plurals>
+    <plurals name="plural_streak_days">
+        <item quantity="other">%d Days</item>
+    </plurals>
+    <plurals name="puzzle_bonus_reward_x_label">
+        <item quantity="other">獎勵：%d分</item>
+    </plurals>
+    <plurals name="puzzle_bonus_x_daily_subtitle">
+        <item quantity="other">解決了%d道謎題</item>
+    </plurals>
+    <plurals name="puzzle_path_x_friends_passed_this_tier_already">
+        <item quantity="other">%d 個好友已升級到這一聯賽</item>
+    </plurals>
+    <plurals name="puzzles_rated_subtitle">
+        <item quantity="other">Train with more than %d puzzles</item>
+    </plurals>
+    <plurals name="relative_date_x_days_ago">
+        <item quantity="other">%d 天前</item>
+    </plurals>
+    <plurals name="stats_chess_com_players">
+        <item quantity="other">Chess.com 棋手</item>
+    </plurals>
+    <plurals name="stats_games_today">
+        <item quantity="other">今日對局</item>
+    </plurals>
+    <plurals name="stats_masters_playing_now">
+        <item quantity="other">大師玩家正在對弈</item>
+    </plurals>
+    <plurals name="stats_playing_now">
+        <item quantity="other">開始下</item>
+    </plurals>
+    <plurals name="upgrade_puzzles_count">
+        <item quantity="other">%d, 000+謎題</item>
+    </plurals>
+    <plurals name="user_profile_provisional_tile">
+        <item quantity="other">玩 %d 局遊戲</item>
+    </plurals>
+    <plurals name="x_bishop">
+        <item quantity="other">%d 個主教</item>
+    </plurals>
+    <plurals name="x_challenges">
+        <item quantity="other">%d 挑戰</item>
+    </plurals>
+    <plurals name="x_contacts_found">
+        <item quantity="other">找到%d個聯系人</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="other">%d天</item>
+    </plurals>
+    <plurals name="x_days_in_a_row_new">
+        <item quantity="other">%d days in a row!</item>
+    </plurals>
+    <plurals name="x_days_move">
+        <item quantity="other">%1$d 天/步</item>
+    </plurals>
+    <plurals name="x_days_short">
+        <item quantity="other">%d 局和</item>
+    </plurals>
+    <plurals name="x_friends_added">
+        <item quantity="other">+ 已添加%d個朋友！</item>
+    </plurals>
+    <plurals name="x_friends_online">
+        <item quantity="other">%d 在線的朋友</item>
+    </plurals>
+    <plurals name="x_games_analyzed">
+        <item quantity="other">%1$d棋局分析</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="other">%d小時</item>
+    </plurals>
+    <plurals name="x_hours_short">
+        <item quantity="other">%d小時</item>
+    </plurals>
+    <plurals name="x_knight">
+        <item quantity="other">%d 個騎士</item>
+    </plurals>
+    <plurals name="x_lessons">
+        <item quantity="other">%d節課</item>
+    </plurals>
+    <plurals name="x_min">
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="other">%d分鐘</item>
+    </plurals>
+    <plurals name="x_minutes_short">
+        <item quantity="other">%d分鐘</item>
+    </plurals>
+    <plurals name="x_months">
+        <item quantity="other">%d月</item>
+    </plurals>
+    <plurals name="x_new_announcements">
+        <item quantity="other">%d new announcements</item>
+    </plurals>
+    <plurals name="x_new_notes">
+        <item quantity="other">%d new notes</item>
+    </plurals>
+    <plurals name="x_new_posts">
+        <item quantity="other">%d new posts</item>
+    </plurals>
+    <plurals name="x_new_topics">
+        <item quantity="other">%d new topics</item>
+    </plurals>
+    <plurals name="x_num_points">
+        <item quantity="other">%d 個點數</item>
+    </plurals>
+    <plurals name="x_pawn">
+        <item quantity="other">%d 個士兵</item>
+    </plurals>
+    <plurals name="x_puzzles_solved_new">
+        <item quantity="other">%d puzzles solved!</item>
+    </plurals>
+    <plurals name="x_queen">
+        <item quantity="other">%d 個皇后</item>
+    </plurals>
+    <plurals name="x_rook">
+        <item quantity="other">%d 個城堡</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="x_seconds_short">
+        <item quantity="other">%d秒</item>
+    </plurals>
+    <plurals name="x_trophies">
+        <item quantity="other">%d Trophies</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="other">%d年</item>
+    </plurals>
+</resources>

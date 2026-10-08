@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/settingsMenuItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:foreground="?attr/selectableItemBackground">
+    <ImageView
+        android:layout_gravity="start|center_vertical"
+        android:id="@+id/itemIcon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_margin="16dp"
+        android:contentDescription="@string/icon_content_description"/>
+    <TextView
+        android:gravity="start"
+        android:layout_gravity="start|center_vertical"
+        android:id="@+id/itemTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textDirection="locale"
+        android:textAlignment="viewStart"
+        android:layout_marginStart="72dp"
+        android:layout_marginEnd="16dp"
+        style="@style/SettingsText"/>
+</FrameLayout>

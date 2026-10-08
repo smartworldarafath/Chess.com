@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatRadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textSize="12sp"
+    android:textColor="@color/segmented_filter_text_selector"
+    android:ellipsize="end"
+    android:id="@+id/segmentedButton"
+    android:background="@drawable/filter_bg_selector"
+    android:layout_width="wrap_content"
+    android:layout_height="36dp"
+    android:button="@null"
+    android:lines="1"
+    android:layout_weight="1"
+    android:fontFamily="@font/custom_medium"
+    android:textDirection="locale"
+    android:textAlignment="center"
+    android:paddingHorizontal="8dp"/>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/content"
+    android:clipChildren="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.chess.chessboard.view.ChessBoardPreview
+        android:visibility="@+id/initialBoardPreview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cornerRadius="3dp"/>
+</FrameLayout>

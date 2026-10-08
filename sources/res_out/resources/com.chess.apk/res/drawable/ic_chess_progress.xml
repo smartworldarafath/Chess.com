@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <rotate
+            android:drawable="@drawable/ic_spinner_outside"
+            android:fromDegrees="0"
+            android:toDegrees="450"
+            android:pivotX="50%"
+            android:pivotY="50%"/>
+    </item>
+    <item android:drawable="@drawable/ic_spinner_inside"/>
+</layer-list>

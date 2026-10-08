@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="@dimen/preset_selected_item_frame_offset"
+        android:top="@dimen/preset_selected_item_frame_offset"
+        android:right="@dimen/preset_selected_item_frame_offset"
+        android:bottom="@dimen/preset_selected_item_frame_offset">
+        <shape android:shape="rectangle">
+            <stroke
+                android:width="@dimen/preset_selected_item_frame_thickness"
+                android:color="@color/win"/>
+            <corners android:radius="7.5dp"/>
+        </shape>
+    </item>
+</layer-list>

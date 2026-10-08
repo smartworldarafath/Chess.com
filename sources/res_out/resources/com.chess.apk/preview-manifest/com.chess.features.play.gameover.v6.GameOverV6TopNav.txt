@@ -1,0 +1,7 @@
+package=com.chess.features.play.gameover.v6
+file=GameOverV6TopNav
+private:GameOverV6TopNavPreview
+private:GameOverV6TopNavCrowdedPreview
+private:GameOverV6TopNavHeadlinePreview
+private:GameOverV6TopNavHeadlineBelowPreview
+private:GameOverV6TopNavCoachAudioHeadlinePreview

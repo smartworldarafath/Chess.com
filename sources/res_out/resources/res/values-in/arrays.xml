@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="daily_puzzle_correct_move_messages">
+        <item>Mata yang bagus! Itu langkah yang benar.</item>
+        <item>Kerja bagus. Itu langkah yang terbaik.</item>
+        <item>Ya. Itu gagasan yang benar.</item>
+        <item>Saya juga akan mengambil langkah yang sama.</item>
+        <item>Bagus!</item>
+        <item>Tepat sekali!</item>
+        <item>Bingo!</item>
+        <item>Kamu alami!</item>
+        <item>Itu langkah terbaik yang ada di papan.</item>
+        <item>Luar Biasa!</item>
+    </array>
+    <array name="daily_puzzle_hint_move_messages">
+        <item>Ini langkah terbaiknya.</item>
+        <item>Jalankan langkah ini untuk keluar dari kebuntuan.</item>
+        <item>Ini satu petunjuk yang dapat memicu pemikiran Anda.</item>
+        <item>Ini langkah terbaiknya.</item>
+        <item>Langkah ini akan membantumu keluar dari kebuntuan.</item>
+        <item>Ini gagasan yang benar.</item>
+        <item>Anda sebaiknya melakukan langkah ini.</item>
+        <item>Langkah ini lebih baik daripada yang lain.</item>
+        <item>Inilah yang akan saya mainkan.</item>
+        <item>Langkah ini seharusnya membantu.</item>
+    </array>
+    <array name="daily_puzzle_hint_piece_messages">
+        <item>Langkah terbaiknya dengan buah ini.</item>
+        <item>Perhatikan buah ini baik-baik.</item>
+        <item>Buah ini bisa jadi penentu di posisi ini.</item>
+        <item>Cari langkah untuk buah ini.</item>
+        <item>Ada langkah penentu dengan buah ini.</item>
+        <item>Lihat buah ini dan bayangkan apa yang akan terjadi selanjutnya.</item>
+        <item>Apa kamu melihat serangan, sekak, atau tangkapan dengan buah ini?</item>
+        <item>Gagasan utamanya berkaitan dengan buah ini.</item>
+        <item>Saya akan melihat buah ini kalau menjadi kamu.</item>
+        <item>Perhatikan setiap kemungkinan langkah dengan buah ini.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_first_heart_loss_messages">
+        <item>Itu bukan langkah terbaik.</item>
+        <item>Itu menghilangkan satu hati, tapi kamu masih punya kesempatan.</item>
+        <item>Jangan menyerah. Kamu masih punya kesempatan lebih banyak.</item>
+        <item>Itu salah, tapi kamu masih punya empat kesempatan lagi.</item>
+        <item>Cobalah manfaatkan sisa hati Anda sebaik-baiknya.</item>
+        <item>Jangan khawatir soal itu. Kamu masih punya hati yang lain.</item>
+        <item>Ada langkah yang lebih baik di papan. Anda masih memiliki empat kesempatan lagi.</item>
+        <item>Kamu kehilangan satu hati, tetapi masih ada empat kesempatan lagi.</item>
+        <item>Tidak apa-apa. Melalui coba-coba, pilihanmu akan semakin terbatas.</item>
+        <item>Lupakan kesalahan itu. Anda masih memiliki empat kesempatan lagi.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_generic_messages">
+        <item>Belum tepat. Pikirkan baik-baik sebelum menggunakan hati lagi.</item>
+        <item>Cari bidak, serangan, dan tangkapan.</item>
+        <item>Coba gunakan petunjuk jika Anda merasa buntu.</item>
+        <item>Itu bukan langkah terbaik. Coba lagi.</item>
+        <item>Ada langkah yang lebih baik di papan.</item>
+        <item>Pertimbangkan dengan baik sebelum menggunakan hati.</item>
+        <item>Jangan lupa pertimbangkan balasan lawan Anda.</item>
+        <item>Langkah mana yang akan membuat posisi Anda lebih baik?</item>
+        <item>Coba lagi. Ada langkah yang lebih baik.</item>
+        <item>Saya tahu apa yang kamu pikirkan, tapi itu bukan langkah terbaik.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_last_heart_remaining_messages">
+        <item>Tersisa satu hati. Pikirkan dengan baik.</item>
+        <item>Ini adalah kesempatan terakhirmu. Kamu pasti bisa.</item>
+        <item>Tenang saja. Tinggal satu hati lagi.</item>
+        <item>Perhatikan baik-baik langkah ini. Hanya ada satu hati yang tersisa.</item>
+        <item>Ingatlah untuk memeriksa setiap kemungkinan langkah pada percobaan terakhirmu.</item>
+        <item>Ini adalah kesempatan terakhirmu untuk menyelesaikan teka-teki ini.</item>
+        <item>Kamu masih bisa menyelesaikan teka-teki ini dengan satu kesempatan terakhir yang tersisa.</item>
+        <item>Tersisa satu hati. Kamu pasti bisa!</item>
+        <item>Itu bukan langkah terbaik. Kamu masih punya satu kesempatan lagi.</item>
+        <item>Tetap fokus. Anda masih memiliki satu kesempatan lagi.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_out_of_hearts_messages">
+        <item>Itu sulit. Datang kembali besok untuk teka-teki yang lain.</item>
+        <item>Hati habis. Lihat solusinya atau terus coba sendiri.</item>
+        <item>Itu hati terakhirmu. Kamu bisa melihat solusinya atau terus mencoba sendiri.</item>
+        <item>Besok akan ada teka-teki lain untuk dipecahkan.</item>
+        <item>Lihat solusinya atau coba lagi sendiri?</item>
+        <item>Hatimu sudah habis, tapi kamu bisa terus mencoba kalau kau mau.</item>
+        <item>Kamu bisa terus mencoba memecahkannya atau melihat solusinya.</item>
+        <item>Hatimu sudah habis, tapi kamu masih bisa terus mencoba.</item>
+        <item>Anda kehabisan kesempatan. Coba lagi atau lihat jawabannya.</item>
+        <item>Kalau kamu merasa buntu, kamu bisa melihat solusinya. Kalau kamu merasa bisa, coba terus!</item>
+    </array>
+    <array name="daily_puzzle_solved_all_hearts_messages">
+        <item>Sempurna! Kamu tidak melakukan kesalahan atau menggunakan petunjuk.</item>
+        <item>Tanpa kesalahan? Hebat!</item>
+        <item>Itu rangkaian sempurna! Kerja bagus.</item>
+        <item>Kamu bahkan tidak butuh petunjuk! Bagus sekali.</item>
+        <item>Kamu membuatnya terlihat mudah!</item>
+        <item>Rangkaian sempurna, dan kamu bahkan tidak menggunakan satu hati pun.</item>
+        <item>Berhasil! Kamu tidak memakai satu hati pun.</item>
+        <item>Hebat sekali menyelesaikannya tanpa kesalahan!</item>
+        <item>Wow! Teka-teki yang sempurna.</item>
+        <item>Benar sekali! Kamu menyelesaikannya tanpa kesalahan.</item>
+    </array>
+    <array name="daily_puzzle_solved_generic_messages">
+        <item>Bagus! Tonton videonya untuk mengetahui lebih lanjut tentang teka-teki ini.</item>
+        <item>Bagus! Itu langkah yang tepat.</item>
+        <item>Hebat! Itu teka-teki yang sulit.</item>
+        <item>Ya! Langkah itu adalah kunci untuk teka-teki ini.</item>
+        <item>Itu adalah teka-teki yang bagus untuk diingat ke depannya.</item>
+        <item>Itulah caranya! Ingat, ada teka-teki baru setiap hari.</item>
+        <item>Bagus! Kamu menemukan jawaban yang benar.</item>
+        <item>Teka-teki itu tidak ada apa-apanya bagimu!</item>
+        <item>Kamu punya bakat dalam memecahkan teka-teki.</item>
+        <item>Ya! Teka-teki itu tidak mudah.</item>
+    </array>
+    <array name="daily_puzzle_solved_no_hearts_messages">
+        <item>That was a tricky one. Try again tomorrow.</item>
+        <item>Come back tomorrow and try a new puzzle.</item>
+        <item>Now you know what you could’ve played. Watch this video to learn more.</item>
+        <item>Check out this video to learn about the best moves.</item>
+        <item>Try again tomorrow. Every puzzle is a chance to improve.</item>
+        <item>You’re out of hearts. Watch this video to learn about the best moves.</item>
+        <item>You missed the best moves, but there’s still something to learn.</item>
+        <item>Want to understand the best moves? Check out this video.</item>
+        <item>Nice try. You’ll get another chance tomorrow.</item>
+        <item>Hopefully this taught you something. Try again tomorrow.</item>
+    </array>
+    <array name="daily_puzzle_solved_one_heart_remaining_messages">
+        <item>Kamu berhasil dengan hati terakhirmu. Bagus sekali!</item>
+        <item>Berhasil, dan hanya dengan satu hati yang tersisa.</item>
+        <item>Benar sekali! Kerja bagus.</item>
+        <item>Kamu berhasil hanya dengan satu hati yang tersisa!</item>
+        <item>Bagus semenyelesaikan teka-teki dengan hanya tersisa satu hati yang tersisa!</item>
+        <item>Aku tahu kamu pasti bisa menyelesaikannya.</item>
+        <item>Kerja yang bagus dalam menyelesaikan Teka-teki Harian hari ini.</item>
+        <item>Wow! Ingatlah taktik-taktik itu ke depannya.</item>
+        <item>Tepat waktu! Kamu berhasil menyelesaikannya dengan hanya satu hati yang tersisa.</item>
+        <item>Nah, itu dia! Kerja yang bagus.</item>
+    </array>
+    <array name="daily_puzzle_starting_position_messages">
+        <item>Sekarang giliranmu. Sudah melihat langkah terbaiknya?</item>
+        <item>Giliranmu. Ada satu langkah yang lebih baik dari yang lain.</item>
+        <item>Bagaimana kamu bermain di partai yang sesungguhnya?</item>
+        <item>Ini waktumu untuk bersinar. Apa langkah terbaiknya?</item>
+        <item>Ini langkahmu. Coba pikir beberapa langkah ke depan.</item>
+        <item>Kamu punya satu langkah bagus. Apa kau lihat?</item>
+        <item>Ada satu langkah yang lebih baik dari yang lain di papan.</item>
+        <item>Sekarang langkahmu. Kamu bisa!</item>
+        <item>Pikirkan dengan matang sebelum menjalankan langkah pertamamu.</item>
+        <item>Kalau kamu merasa buntu, kamu bisa menggunakan satu hati untuk mendapatkan petunjuk.</item>
+    </array>
+    <array name="daily_puzzle_welcome_messages">
+        <item>Selamat datang! Ini seru sekali.</item>
+        <item>Teka-Teki Harian hari ini perlu dikalkulasi.</item>
+        <item>Saya tahu kamu bisa menyelesaikan Teka-Teki Harian ini.</item>
+        <item>Kamu pasti bisa!</item>
+        <item>Siap-siap menghadapi kejutan di Teka-Teka Harian hari ini.</item>
+        <item>Saya tahu kamu bisa menyelesaikan Teka-Teki Harian hari ini.</item>
+        <item>Ingat, Ingat, gunakan petunjuk kalau kamu kesulitan di teka-teki hari ini.</item>
+        <item>Ada banyak langkah yang memungkinkan tapi hanya ada satu langkah yang terbaik.</item>
+        <item>Aku percaya kepadamu</item>
+        <item>Selamat Datang! Teka-teki hari ini sulit, jadi gunakan waktumu.</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </array>
+    <array name="game_review_placeholders_impersonal">
+        <item>Reviewing the game…</item>
+        <item>Calculating best lines…</item>
+        <item>One moment while I analyze…</item>
+        <item>Give me a second to review…</item>
+        <item>One second, analyzing now…</item>
+        <item>Give me a moment, reviewing now…</item>
+        <item>Hang tight, I’m almost done analyzing…</item>
+        <item>Hang tight, I’m almost done reviewing…</item>
+        <item>Almost there, one second…</item>
+        <item>Game Review loading…</item>
+        <item>Loading Game Review now…</item>
+        <item>Loading Game Review…</item>
+        <item>One moment…</item>
+        <item>Analyzing…</item>
+        <item>Admiring the pretty horse pieces…</item>
+    </array>
+    <array name="game_review_placeholders_personal">
+        <item>Reviewing your game…</item>
+        <item>Analyzing your game…</item>
+        <item>Checking your game…</item>
+        <item>Looking over your game…</item>
+        <item>Reviewing your moves…</item>
+        <item>Analyzing your moves…</item>
+        <item>Almost there, reviewing your moves…</item>
+        <item>Almost there, your game review is coming…</item>
+        <item>One moment while your Game Review loads…</item>
+        <item>Breaking down your game now…</item>
+        <item>One moment while I break your game down…</item>
+        <item>Your Game Review is loading…</item>
+    </array>
+    <array name="learningTilesArray">
+        <item>Atas permainan tunda</item>
+        <item>Bawah semua permainan</item>
+        <item>Nonaktif</item>
+    </array>
+    <array name="loading_phrases">
+        <item>Selalu perhatikan kemungkinan sekak, pertukaran, dan ancaman.</item>
+        <item>Pertahanan Sisilia adalah respons paling populer untuk 1.e4.</item>
+        <item>Kembangkan perwira dari petak awalnya untuk menguasai papan.</item>
+        <item>Mengeluarkan menteri terlalu dini dapat menyebabkan blunder pembukaan.</item>
+        <item>Cari langkah pion yang memungkinkan Anda untuk mengembangkan perwira.</item>
+        <item>Menggerakkan perwira yang sama dua kali dalam pembukaan umumnya dianggap sebagai pemborosan tempo.</item>
+        <item>Grafik evaluasi menghitung keunggulan pemain setelah setiap langkah.</item>
+        <item>Blunder %Blunder% adalah langkah yang memberikan dampak negatif yang signifikan pada posisi pemain.</item>
+        <item>Terlewat %Miss% terjadi ketika ada peluang taktis atau kesempatan untuk menghukum kesalahan lawan yang terlewatkan.</item>
+        <item>Kesalahan %Mistake% adalah langkah buruk yang langsung memperburuk posisi Anda.</item>
+        <item>Ketidakakuratan %Inaccuracy% merupakan langkah lemah yang tidak sebagus langkah terbaik.</item>
+        <item>Langkah Teori %Book% adalah langkah pembukaan standar yang sering dimainkan oleh para pemain kuat.</item>
+        <item>Langkah Bagus %Good% sudah termasuk baik, tetapi ada langkah yang lebih baik!</item>
+        <item>Langkah Sangat Baik %Excellent% hampir sama bagusnya dengan Langkah Terbaik. Berbanggalah!</item>
+        <item>Langkah Terbaik %Best% merupakan langkah yang menurut analisis mesin berada di urutan teratas.</item>
+        <item>Langkah Bagus %Great% merupakan langkah krusial yang mengubah jalannya permainan.</item>
+        <item>Langkah Brilian %Brilliant% adalah ketika Anda menemukan pengorbanan yang luar biasa.</item>
+        <item>Akurasi adalah pengukuran sedekat apa permainan Anda dengan langkah-langkah Terbaik %Best%.</item>
+        <item>Learning a new opening is a fun way of keeping chess fresh.</item>
+        <item>After 3 moves there are 121 million possible positions.</item>
+        <item>Some believe the \"Greek Gift Sacrifice\" was named after Gioachino Greco, who was Italian.</item>
+        <item>Stanley Kubrick hustled chess in Washington Square Park to pay for food in his early 20s.</item>
+        <item>There are nearly 1,800 grandmasters in the world.</item>
+        <item>En passant is French for \"in passing\".</item>
+        <item>If \"rook\" comes from the Persian word \"rukh\" meaning chariot, why does the piece look like a tower?</item>
+        <item>Abhimanyu Mishra became the youngest grandmaster ever at the age of 12 years, 4 months, and 25 days.</item>
+        <item>The name \"Deep Blue\" came from a naming contest held by IBM and is a play on their nickname \"Big Blue.\"</item>
+        <item>Zugzwang is German for \"compulsion to move\" and happens when any move made puts the player at a disadvantage.</item>
+        <item>The chess game played in Blade Runner is a recreation of the \"Immortal Game\" between Adolf Anderssen and Lionel Kiseritzky in 1851.</item>
+        <item>There are 960 legal starting positions in a game of Chess960.</item>
+        <item>English chess masters were recruited as code breakers during World War II.</item>
+        <item>Until the mid-1800s, chess games were played without a time limit.</item>
+        <item>Until the 1600s, castling required two moves.</item>
+        <item>The current format for writing chess moves down, algebraic notation, was formalized in 1981.</item>
+        <item>The first chess computer, The Mechanical Turk, was actually just a guy hiding in a box pretending to be an automaton.</item>
+        <item>The last time checkmate happened in a World Championship match was 1929.</item>
+        <item>In 1951, IM Robert Wade played a simultaneous exhibition against 30 Russian schoolboys. Wade won 0 games, drew 10, and lost the other 20.</item>
+        <item>The quickest checkmate possible is only 2 moves.</item>
+        <item>World Champion Alexander Alekhine had a cat named \"Chess\".</item>
+        <item>During the 1978 World Championship, Anatoly Karpov hired a hypnotist to sit in the front row and stare at his opponent.</item>
+        <item>World Champion Mikhail Tal only had 3 fingers on his right hand.</item>
+        <item>The Evans Gambit is named after 19th Century Welsh sea captain William Davies Evans.</item>
+        <item>The 1984–85 World Championship was abandoned after 5 months and 48 games for the health of the players.</item>
+        <item>The longest chess game in the history of the World Championship was game 6 of the 2021 World Championship, at 136 moves.</item>
+        <item>\"The blunders are all there on the board, waiting to be made.\" - Savielly Tartakower</item>
+        <item>\"There are two types of sacrifices: Correct ones, and mine.\" - Mikhail Tal</item>
+        <item>\"Chess is the gymnasium of the mind.\" - Blaise Pascal</item>
+        <item>\"Even a poor plan is better than no plan at all.\" - Mikhail Chigorin</item>
+        <item>\"The winner of the game is the player who makes the next to last mistake.\" - Savielly Tartakower</item>
+        <item>\"I am Alekhine, chess champion of the world. I have a cat called Chess.\" - Alexander Alekhine, when stopped at the Polish-Russian border without a passport.</item>
+        <item>\"Chess problems demand from the composer the same virtues that characterize all worthwhile art.\" - Vladimir Nabokov</item>
+        <item>\"Chess is a matter of delicate judgment, knowing when to punch and how to duck.\" - Bobby Fischer</item>
+        <item>\"Steady effort pays off, even if not always in an immediate, tangible way.\" - Garry Kasparov</item>
+        <item>\"A passed pawn increases in strength as the number of pieces on the board diminishes.\" - Jose Raul Capablanca</item>
+        <item>\"Chess is the art which expresses the science of logic.\" - Mikhail Botvninnik</item>
+        <item>\"If revenge motivates you, go for it!\" - Viswanathan Anand</item>
+        <item>\"If you want to play well, it\'s important to concentrate on the now.\" - Vassily Ivanchuk</item>
+        <item>\"The biggest challenge is to fulfill your own ideas about yourself\" - Judit Polgar</item>
+        <item>%websiteName% was founded in 2005 by two college friends, Erik and Jay.</item>
+        <item>%websiteName% members play over a billion games a month!</item>
+    </array>
+    <array name="offline_coach_messages">
+        <item>Ah, murid favorit saya! Senang melihatmu.</item>
+        <item>Selamat datang kembali. Senang melihat Anda.</item>
+        <item>Senang bertemu denganmu, Kawan.</item>
+        <item>Kalau saja dia bukan murid kesayanganku. Halo!</item>
+        <item>Hari yang indah untuk bermain catur.</item>
+        <item>Satu teka-teki setiap hari menjauhkan Anda dari langkah buruk.</item>
+        <item>Satu teka-teki sehari menjauhkan Anda dari blunder.</item>
+        <item>Ingin naik level? Mulailah dengan teka-teki.</item>
+        <item>Saya siap mengajar jika Anda siap belajar.</item>
+        <item>Kegiatan catur apa yang ingin Anda lakukan?</item>
+        <item>Apa yang akan kamu fokuskan hari ini?</item>
+        <item>Jika kamu butuh bantuan, saya siap membantumu belajar.</item>
+        <item>Belajar pembukaan catur baru bisa sangat menarik.</item>
+        <item>Bagian yang paling saya sukai dari mengajar adalah melihat murid saya berkembang.</item>
+        <item>Bermain catur adalah cara yang menyenangkan untuk menjaga ketajaman otak.</item>
+        <item>Ketika saya tidak ingin bermain, saya malah mengerjakan beberapa teka-teki.</item>
+        <item>Ayo kita belajar strategi catur baru hari ini.</item>
+        <item>Bagaimana kabarmu? Siap bermain catur?</item>
+        <item>Senang sekali melihat Anda. Selamat datang kembali.</item>
+        <item>Ah ya, selamat datang kembali!</item>
+        <item>Senang melihatmu! Tempat ini jadi lebih baik kalau kamu ada di sini.</item>
+        <item>Menang atau kalah, setiap partai memberi pelajaran.</item>
+        <item>Catur melatih konsentrasi, logika, dan imajinasi secara bersamaan!</item>
+        <item>Lihat siapa yang datang! Pecatur favoritku kembali.</item>
+        <item>Kamu mainkan saja partai-partainya, saya akan membantumu memahaminya.</item>
+        <item>Saya pelatihmu. Saya akan membantumu belajar, berkembang, dan melihat catur dari sudut pandang yang baru.</item>
+        <item>Saya di sini untuk membantu Anda belajar, meninjau partai Anda, dan menemukan langkah terbaik Anda.</item>
+        <item>Senang sekali kamu ada di sini! Ayo bermain dan belajar hal baru bersama-sama.</item>
+        <item>Senang bertemu lagi dengan Anda. Saya senang Anda meluangkan waktu untuk bermain catur hari ini.</item>
+        <item>Selamat datang kembali! Mari kita lanjutkan dari mana Anda berhenti.</item>
+        <item>Senang bertemu lagi! Mari kita belajar sesuatu yang baru hari ini.</item>
+        <item>Teka-teki adalah cara cepat untuk membuat Anda tetap tajam.</item>
+        <item>Lawan bot untuk meningkatkan kemampuan dengan santai dan efektif!</item>
+        <item>Ingin pemanasan dengan beberapa teka-teki?</item>
+        <item>Selamat datang! Saya harap Anda suka belajar seperti saya suka melatih!</item>
+        <item>Ingin belajar hal baru hari ini? Coba ikuti pelajaran!</item>
+        <item>Senang bertemu denganmu! Saya senang melihat murid-murid saya makin mahir bermain catur.</item>
+        <item>Catur selalu menarik. Tahukah Anda bahwa sebagian besar permainan catur merupakan hal yang unik dari miliaran kemungkinan?</item>
+        <item>Ingin berkembang? Jadikan catur sebagai bagian dari rutinitas harian Anda!</item>
+        <item>Selalu ada hal baru yang bisa dipelajari dalam catur. Dari mana kita harus mulai?</item>
+        <item>Salah satu cara yang saya sukai untuk membuat catur tetap menarik adalah dengan mempelajari pembukaan baru!</item>
+        <item>Omong-omong, kalau sedang bermain game melawan bot, kamu bisa menggunakan fitur petunjuk dan urungkan langkah.</item>
+        <item>Anda ada di sini, jadi pasti sudah waktunya bermain catur!</item>
+        <item>Setiap langkah adalah langkah maju. Bagus sekali bisa tampil di papan catur.</item>
+        <item>Konsistensi upaya akan membawa kemajuan nyata.</item>
+        <item>Fokus hari ini akan membuahkan hasil besok.</item>
+        <item>Senang melihatmu kembali. Siap bermain?</item>
+        <item>Catur menghargai kesabaran dan disiplin.</item>
+        <item>Senang melihatmu kembali. Siap belajar?</item>
+        <item>Progres dibangun lewat perbaikan-perbaikan kecil.</item>
+        <item>Selamat datang! Di sinilah kebiasaan baik dibentuk.</item>
+        <item>Siap meningkatkan kemampuan caturmu?</item>
+        <item>Selamat datang kembali! Mari kita lihat apa yang kamu bawa hari ini.</item>
+    </array>
+    <array name="puzzles_coach_comments_10_in_a_row">
+        <item>Sudah 10 kali beruntun! Super!</item>
+        <item>Anda sedang menciptakan rekor yang hebat!</item>
+        <item>Penglihatan Anda tajam! Sudah 10 kali berturut-turut!</item>
+        <item>Sepuluh teka-teki terjawab beruntun!? Ajaib!</item>
+        <item>Rekor fantastis! Anda menjawab semuanya!</item>
+    </array>
+    <array name="puzzles_coach_comments_3_in_a_row">
+        <item>Tiga kali beruntun! Jangan berhenti sekarang!</item>
+        <item>Performa Anda bagus!</item>
+        <item>1-2-3 berturut-turut! Hebat!</item>
+        <item>Kelihatannya jadi mudah sekali di tangan Anda!</item>
+        <item>Langkah bagus! Anda sedang bagus-bagusnya!</item>
+    </array>
+    <array name="puzzles_coach_comments_5_in_a_row">
+        <item>Wow! Anda menggila!</item>
+        <item>Lima kali berturut-turut! Luar biasa!</item>
+        <item>Teka-teki ini terlalu mudah untuk Anda!</item>
+        <item>Pertahankan! Performa Anda sedang bagus!</item>
+        <item>Anda seperti mesin penjawab teka-teki!</item>
+    </array>
+    <array name="puzzles_coach_comments_7_in_a_row">
+        <item>Akurasi Anda sangat mengagumkan!</item>
+        <item>Papannya menyala! Sudah tujuh kali beruntun!</item>
+        <item>Anda melihat semuanya! Luar biasa.</item>
+        <item>Anda bisa jadi penjawab teka-teki profesional... kalau memang ada profesi itu.</item>
+        <item>Tujuh teka-teki beruntun?! Brilian!</item>
+    </array>
+    <array name="puzzles_coach_comments_general">
+        <item>Bagus sekali!</item>
+        <item>Ya! Itu dia caranya!</item>
+        <item>Jawaban bagus!</item>
+        <item>Hebat! Bagus sekali.</item>
+        <item>Bagus! Anda menemukan jawabannya!</item>
+        <item>Anda berhasil! Selamat.</item>
+        <item>Hore! Anda menemukannya.</item>
+        <item>Bagus sekali!</item>
+        <item>Anda menemukan jawabannya. Luar biasa!</item>
+        <item>Tepat sekali! Selamat.</item>
+        <item>Bagus sekali!</item>
+        <item>Luar Biasa!</item>
+        <item>Hebat!</item>
+        <item>Ya, betul! Anda berhasil!</item>
+        <item>Terjawab dengan baik!</item>
+        <item>Cerdas sekali!</item>
+        <item>Betul sekali! Selamat!</item>
+        <item>Mata Anda tajam! Hebat!</item>
+        <item>Permainan yang sangat baik! Anda berhasil menyelesaikannya!</item>
+        <item>Permainan bagus!</item>
+    </array>
+    <array name="puzzles_coach_comments_solution_shown">
+        <item>Ini jawaban yang benar.</item>
+        <item>Begini jawaban teka-tekinya.</item>
+        <item>Jawaban bagus! Tapi, ini yang benar.</item>
+        <item>Teka-teki yang rumit. Mari kita coba yang lain.</item>
+        <item>Lihat apakah Anda dapat mengingat pola ini.</item>
+        <item>Bahkan murid terbaik saya tidak bisa menjawab setiap teka-teki dengan benar.</item>
+        <item>Jangan khawatir. Lain kali pasti bisa!</item>
+        <item>Ulangi teka-teki ini dan coba ingat polanya.</item>
+        <item>Coba lagi teka-teki ini dan pahami tiap langkahnya!</item>
+        <item>Pelatih datang menolong! Benar-benar teka-teki yang seru.</item>
+        <item>Tidak apa-apa. Teka-teki memang kadang rumit!</item>
+        <item>Saya senang dapat membantu!</item>
+        <item>Anda sudah mencoba dengan baik. Siap untuk yang lainnya?</item>
+        <item>Pelajari teka-teki itu dan pahami langkah-langkahnya.</item>
+        <item>Anda dapat mengulangi teka-teki untuk berlatih.</item>
+        <item>Jawaban bagus! Siap untuk teka-teki lainnya?</item>
+    </array>
+    <array name="puzzles_coach_home_array">
+        <item>Menyelesaikan teka-teki adalah cara terbaik mengembangkan pengenalan pola dan kemampuan taktis.</item>
+        <item>Konon, catur itu 99%-nya taktik… Bagus sekali! Memang itu yang ditawarkan dalam Teka-Teki.</item>
+        <item>Menjawab Teka-Teki setiap hari membuat Anda lebih mudah melihat kesalahan lawan.</item>
+        <item>Menjawab Teka-Teki setiap hari membantu Anda memilih langkah yang aman dalam permainan Anda sendiri.</item>
+        <item>Teka-Teki membantu Anda memainkan pembukaan secara lebih aman, babak tengah dengan lebih percaya diri, dan permainan akhir yang lebih akurat.</item>
+        <item>Teka-Teki bagus untuk melatih dan mengembangkan permainan catur Anda - selain juga menyenangkan!</item>
+        <item>Ketika salah menjawab Teka-Teki, Anda harus selalu mencobanya kembali dan melihat solusinya untuk melihat apa yang Anda lewatkan.</item>
+        <item>Ingin yang lebih cepat? Cobalah menyelesaikan teka-teki dengan cepat di Teka-Teki Gegas. Tiga kali salah, selesai!</item>
+        <item>Jika Anda punya sedikit waktu luang, Teka-Teki gegas akan membuat otak Anda berlatih!</item>
+        <item>Tahukah Anda bahwa Teka-Teki harian makin sulit setiap harinya dalam seminggu? Teka-teki hari Minggu sangat susah!</item>
+        <item>Jangan pernah lewatkan hari Teka-Teki!</item>
+        <item>Saatnya membentuk otot taktis dengan Teka-Teki?</item>
+        <item>Saatnya menyelesaikan teka-teki!</item>
+        <item>Dalam setiap posisi Teka-Teki, hanya ada satu langkah yang benar… Bisakah kamu menemukannya?</item>
+        <item>Selamat datang kembali! Ayo kita mengerjakan Teka-Teki…</item>
+        <item>Mau yang lebih cepat? Bagaimana kalau kita coba Teka-Teki Gegas?</item>
+        <item>Merasa lebih cepat dari yang lain? Coba lakukan pemanasan dengan Teka-Teki Duel!</item>
+    </array>
+    <array name="skills_name">
+        <item>Baru</item>
+        <item>Berkembang</item>
+        <item>Menengah</item>
+        <item>Tingkat Lanjut</item>
+        <item>Ahli+</item>
+    </array>
+</resources>

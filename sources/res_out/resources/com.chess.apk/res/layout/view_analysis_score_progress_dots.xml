@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:scaleType="fitXY"
+    android:contentDescription="@string/quick_analysis_progress">
+    <ImageView
+        android:id="@+id/dot1"
+        android:importantForAccessibility="no"
+        style="@style/analysisInProgressDot"/>
+    <ImageView
+        android:id="@+id/dot2"
+        android:importantForAccessibility="no"
+        style="@style/analysisInProgressDot"/>
+    <ImageView
+        android:id="@+id/dot3"
+        android:importantForAccessibility="no"
+        style="@style/analysisInProgressDot"/>
+</merge>

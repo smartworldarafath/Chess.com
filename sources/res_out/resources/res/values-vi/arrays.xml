@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="daily_puzzle_correct_move_messages">
+        <item>Mắt tinh đấy! Đó là nước đi đúng.</item>
+        <item>Làm tốt lắm. Đó là nước đi hay nhất.</item>
+        <item>Đúng rồi. Đó là ý tưởng đúng.</item>
+        <item>Tôi cũng sẽ thực hiện nước đi đó.</item>
+        <item>Tuyệt!</item>
+        <item>Chính xác!</item>
+        <item>Trúng rồi!</item>
+        <item>Bạn thật là giỏi!</item>
+        <item>Đó là nước đi hay nhất trên bàn cờ.</item>
+        <item>Làm tốt lắm!</item>
+    </array>
+    <array name="daily_puzzle_hint_move_messages">
+        <item>Đây là nước đi tốt nhất.</item>
+        <item>Thực hiện nước đi này để thoát khỏi tình huống bế tắc.</item>
+        <item>Đây là một gợi ý để bạn suy nghĩ.</item>
+        <item>Đây là nước đi tốt nhất.</item>
+        <item>Động thái này sẽ giúp bạn thoát khỏi tình huống bế tắc.</item>
+        <item>Đây là ý tưởng đúng.</item>
+        <item>Bạn nên thực hiện nước đi này.</item>
+        <item>Động tác này tốt hơn tất cả các động tác còn lại.</item>
+        <item>Đây là cách tôi sẽ chơi.</item>
+        <item>Động tác này sẽ giúp ích cho bạn.</item>
+    </array>
+    <array name="daily_puzzle_hint_piece_messages">
+        <item>Động thái tốt nhất là với mảnh ghép này.</item>
+        <item>Hãy chú ý đến mảnh ghép này.</item>
+        <item>Mảnh ghép này có thể tạo ra sự khác biệt lớn ở đây.</item>
+        <item>Hãy tìm một nước đi với quân cờ này.</item>
+        <item>Có một nước đi thay đổi cục diện với mảnh ghép này.</item>
+        <item>Hãy nhìn vào mảnh ghép này và tưởng tượng xem điều gì sẽ xảy ra tiếp theo.</item>
+        <item>Bạn có thấy nước đi tấn công, chiếu hoặc bắt quân nào với quân cờ này không?</item>
+        <item>Ý tưởng chính liên quan đến mảnh ghép này.</item>
+        <item>Nếu là bạn, tôi sẽ xem xét mảnh ghép này.</item>
+        <item>Hãy xem xét mọi nước đi có thể với quân cờ này.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_first_heart_loss_messages">
+        <item>Đó không phải là nước đi hay nhất.</item>
+        <item>Bạn đã mất một trái tim, nhưng bạn vẫn còn nhiều cơ hội khác.</item>
+        <item>Đừng bỏ cuộc. Bạn vẫn còn nhiều cơ hội nữa.</item>
+        <item>Điều đó không đúng, nhưng bạn vẫn còn bốn cơ hội nữa.</item>
+        <item>Hãy cố gắng tận dụng tối đa những trái tim còn lại của bạn.</item>
+        <item>Đừng lo lắng về điều đó. Bạn vẫn còn nhiều trái tim.</item>
+        <item>Có một nước đi tốt hơn trên bàn cờ. Bạn vẫn còn bốn lần thử nữa.</item>
+        <item>Bạn đã mất một trái tim, nhưng bạn vẫn còn bốn lần thử nữa.</item>
+        <item>Không sao đâu. Thử và sai sẽ giúp bạn thu hẹp các lựa chọn.</item>
+        <item>Hãy quên đi sai lầm đó. Bạn còn bốn lần thử nữa.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_generic_messages">
+        <item>Chưa đúng. Hãy suy nghĩ kỹ trước khi sử dụng thêm một trái tim.</item>
+        <item>Hãy tìm các nước chiếu, các nước tấn công và các nước bắt.</item>
+        <item>Hãy thử sử dụng gợi ý nếu bạn gặp khó khăn.</item>
+        <item>Đó không phải là nước đi tốt nhất. Hãy thử lại.</item>
+        <item>Có một nước đi tốt hơn trên bàn cờ.</item>
+        <item>Hãy suy nghĩ kỹ trước khi sử dụng một trái tim.</item>
+        <item>Hãy nhớ suy nghĩ về phản ứng của đối thủ.</item>
+        <item>Động thái nào sẽ giúp bạn có vị trí tốt hơn?</item>
+        <item>Hãy thử lại. Có một nước đi tốt hơn.</item>
+        <item>Tôi hiểu bạn đang nghĩ gì, nhưng đó không phải là nước đi hay nhất.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_last_heart_remaining_messages">
+        <item>Còn lại một trái tim. Hãy suy nghĩ kỹ.</item>
+        <item>Đây là lần thử cuối cùng của bạn. Bạn làm được mà.</item>
+        <item>Hãy từ từ. Chỉ còn một trái tim.</item>
+        <item>Hãy tập trung thật kỹ vào nước đi này. Bạn chỉ còn lại một trái tim.</item>
+        <item>Hãy nhớ xem xét mọi nước đi có thể trong lần thử cuối cùng của bạn.</item>
+        <item>Đây là cơ hội cuối cùng của bạn để giải câu đố.</item>
+        <item>Bạn vẫn có thể hoàn thành câu đố này với lần thử cuối cùng còn lại.</item>
+        <item>Còn lại một trái tim. Bạn có thể làm được mà!</item>
+        <item>Đó không phải là nước đi tốt nhất. Bạn còn một lần thử nữa.</item>
+        <item>Hãy tập trung. Bạn còn một lần thử nữa.</item>
+    </array>
+    <array name="daily_puzzle_incorrect_out_of_hearts_messages">
+        <item>Câu đố này khá khó nhỉ. Hãy quay lại vào ngày mai để thử câu đố khác nhé.</item>
+        <item>Hết trái tim. Xem đáp án hoặc tiếp tục thử tự giải.</item>
+        <item>Đó là trái tim cuối cùng của bạn. Bạn có thể xem đáp án hoặc tiếp tục thử.</item>
+        <item>Ngày mai sẽ có một câu đố khác để giải.</item>
+        <item>Xem đáp án hay tiếp tục thử tự giải?</item>
+        <item>Bạn đã hết trái tim, nhưng bạn vẫn có thể tiếp tục thử nếu muốn.</item>
+        <item>Bạn có thể tiếp tục giải hoặc xem đáp án.</item>
+        <item>Bạn đã hết trái tim, nhưng vẫn có thể tiếp tục thử.</item>
+        <item>Bạn đã hết lượt thử. Hãy tiếp tục thử hoặc xem đáp án.</item>
+        <item>Nếu bạn bị kẹt, bạn có thể xem đáp án. Nếu bạn nghĩ mình đã giải được, hãy tiếp tục thử!</item>
+    </array>
+    <array name="daily_puzzle_solved_all_hearts_messages">
+        <item>Hoàn hảo! Bạn không mắc lỗi nào và cũng không dùng gợi ý.</item>
+        <item>Không có sai sót nào? Thật ấn tượng!</item>
+        <item>Đó là một lượt chơi hoàn hảo! Làm tốt lắm.</item>
+        <item>Bạn thậm chí còn không cần gợi ý! Làm tốt lắm.</item>
+        <item>Bạn làm cho nó trông thật dễ dàng!</item>
+        <item>Hoàn thành xuất sắc, và bạn thậm chí còn không tốn một trái tim nào.</item>
+        <item>Làm được rồi! Bạn không tốn bất kỳ trái tim nào.</item>
+        <item>Giải rất tốt, không có sai sót nào!</item>
+        <item>Wow! Một câu đố hoàn hảo.</item>
+        <item>Đúng rồi! Bạn đã giải đúng mà không mắc lỗi nào.</item>
+    </array>
+    <array name="daily_puzzle_solved_generic_messages">
+        <item>Tuyệt quá! Hãy xem video để tìm hiểu thêm về câu đố này.</item>
+        <item>Làm được rồi! Đó là nước đi đúng.</item>
+        <item>Thật ấn tượng! Đó là một câu đố khó nhằn.</item>
+        <item>Đúng rồi! Động tác đó là chìa khóa để giải câu đố này.</item>
+        <item>Đó là một câu đố hay để ghi nhớ cho tương lai.</item>
+        <item>Đó là cách làm! Hãy nhớ rằng, mỗi ngày đều có một câu đố mới.</item>
+        <item>Mắt tinh thật! Bạn đã tìm ra đáp án đúng.</item>
+        <item>Câu đố đó không thể làm khó bạn!</item>
+        <item>Bạn có tài giải đố.</item>
+        <item>Đúng rồi! Câu đố đó không dễ chút nào.</item>
+    </array>
+    <array name="daily_puzzle_solved_no_hearts_messages">
+        <item>That was a tricky one. Try again tomorrow.</item>
+        <item>Come back tomorrow and try a new puzzle.</item>
+        <item>Now you know what you could’ve played. Watch this video to learn more.</item>
+        <item>Check out this video to learn about the best moves.</item>
+        <item>Try again tomorrow. Every puzzle is a chance to improve.</item>
+        <item>You’re out of hearts. Watch this video to learn about the best moves.</item>
+        <item>You missed the best moves, but there’s still something to learn.</item>
+        <item>Want to understand the best moves? Check out this video.</item>
+        <item>Nice try. You’ll get another chance tomorrow.</item>
+        <item>Hopefully this taught you something. Try again tomorrow.</item>
+    </array>
+    <array name="daily_puzzle_solved_one_heart_remaining_messages">
+        <item>Bạn đã giải được câu đố với trái tim cuối cùng. Làm tốt lắm!</item>
+        <item>Đã giải xong, và chỉ còn lại một trái tim.</item>
+        <item>Đúng rồi! Làm tốt lắm.</item>
+        <item>Bạn đã làm được rồi, chỉ còn lại một trái tim!</item>
+        <item>Giải rất tốt khi chỉ còn lại một trái tim!</item>
+        <item>Tôi biết bạn sẽ giải được câu đố đó.</item>
+        <item>Chúc mừng bạn đã giải được câu đố hàng ngày hôm nay.</item>
+        <item>Wow! Hãy ghi nhớ những chiến thuật đó cho tương lai.</item>
+        <item>Đúng lúc! Bạn đã giải được câu đố khi chỉ còn lại một trái tim.</item>
+        <item>Xong rồi! Làm tốt lắm.</item>
+    </array>
+    <array name="daily_puzzle_starting_position_messages">
+        <item>Đến lượt bạn rồi. Bạn có thấy nước đi tốt nhất không?</item>
+        <item>Đến lượt bạn. Có một nước đi tốt hơn các nước đi còn lại.</item>
+        <item>Bạn sẽ chơi như thế nào trong một trận đấu thực sự?</item>
+        <item>Đã đến lúc bạn tỏa sáng. Nước đi nào là tốt nhất?</item>
+        <item>Đến lượt bạn rồi. Hãy thử suy nghĩ trước vài nước đi.</item>
+        <item>Bạn có một nước đi hay. Bạn có thấy không?</item>
+        <item>Có một nước đi tốt hơn tất cả các nước đi khác trên bàn cờ.</item>
+        <item>Đến lượt bạn rồi. Bạn làm được mà!</item>
+        <item>Hãy suy nghĩ kỹ trước khi thực hiện nước đi đầu tiên.</item>
+        <item>Nếu bạn gặp khó khăn, bạn có thể sử dụng một trái tim để nhận gợi ý.</item>
+    </array>
+    <array name="daily_puzzle_welcome_messages">
+        <item>Chào mừng! Đây là một câu đố thú vị.</item>
+        <item>Câu đố hàng ngày hôm nay là một câu đố đòi hỏi sự suy nghĩ.</item>
+        <item>Tôi biết bạn có thể giải được Câu đố hàng ngày.</item>
+        <item>Bạn làm được mà!</item>
+        <item>Hãy chuẩn bị tinh thần cho những tình huống bất ngờ trong Câu đố hàng ngày hôm nay.</item>
+        <item>Tôi biết bạn có thể giải được câu đố hàng ngày hôm nay.</item>
+        <item>Hãy nhớ sử dụng gợi ý nếu bạn gặp khó khăn với câu đố hôm nay.</item>
+        <item>Có rất nhiều nước đi khả thi nhưng chỉ có một nước đi tốt nhất.</item>
+        <item>Tôi tin tưởng vào bạn!</item>
+        <item>Chào mừng! Câu đố hôm nay khá hóc búa, nên hãy dành thời gian giải nhé.</item>
+    </array>
+    <array name="exo_controls_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>Bình thường</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </array>
+    <array name="game_review_placeholders_impersonal">
+        <item>Reviewing the game…</item>
+        <item>Calculating best lines…</item>
+        <item>One moment while I analyze…</item>
+        <item>Give me a second to review…</item>
+        <item>One second, analyzing now…</item>
+        <item>Give me a moment, reviewing now…</item>
+        <item>Hang tight, I’m almost done analyzing…</item>
+        <item>Hang tight, I’m almost done reviewing…</item>
+        <item>Almost there, one second…</item>
+        <item>Game Review loading…</item>
+        <item>Loading Game Review now…</item>
+        <item>Loading Game Review…</item>
+        <item>One moment…</item>
+        <item>Analyzing…</item>
+        <item>Admiring the pretty horse pieces…</item>
+    </array>
+    <array name="game_review_placeholders_personal">
+        <item>Reviewing your game…</item>
+        <item>Analyzing your game…</item>
+        <item>Checking your game…</item>
+        <item>Looking over your game…</item>
+        <item>Reviewing your moves…</item>
+        <item>Analyzing your moves…</item>
+        <item>Almost there, reviewing your moves…</item>
+        <item>Almost there, your game review is coming…</item>
+        <item>One moment while your Game Review loads…</item>
+        <item>Breaking down your game now…</item>
+        <item>One moment while I break your game down…</item>
+        <item>Your Game Review is loading…</item>
+    </array>
+    <array name="learningTilesArray">
+        <item>Chờ đợi các ván đấu trên</item>
+        <item>Tất cả các ván đấu dưới</item>
+        <item>Tắt</item>
+    </array>
+    <array name="loading_phrases">
+        <item>Luôn để ý việc chiếu, ăn quân và tấn công.</item>
+        <item>Phòng thủ Sicilia là phản ứng phổ biến nhất đối với 1.e4.</item>
+        <item>Phát triển các quân cờ từ những ô vuông ban đầu để giành quyền kiểm soát bàn cờ.</item>
+        <item>Đưa quân hậu lên quá sớm có thể dẫn đến những sai lầm ngớ ngẩn.</item>
+        <item>Hãy tìm những nước đi của con tốt cho phép bạn phát triển quân của mình.</item>
+        <item>Di chuyển cùng một quân hai lần trong khai cuộc thường bị coi là lãng phí nhịp độ.</item>
+        <item>Biểu đồ đánh giá tính toán lợi thế của người chơi sau mỗi nước đi.</item>
+        <item>Sai lầm %Blunder% là một nước đi tác động đáng kể đến vị thế của người chơi theo hướng tiêu cực.</item>
+        <item>Nước đi Bỏ Lỡ %Miss% là nước đi bỏ qua một cơ hội chiến thuật hoặc cơ hội để trừng phạt đối thủ.</item>
+        <item>Một nước đi lỗi %Mistake% là một nước đi tệ khiến bạn thất thế ngay lập tức.</item>
+        <item>Một nước đi %Inaccuracy% Không Chính Xác là nước đi yếu và không tốt như nước đi Tốt Nhất.</item>
+        <item>Nước đi Giáo Khoa %Book% là nước đi khai cuộc tiêu chuẩn thường được đi bởi những người chơi giỏi.</item>
+        <item>Một nước đi tốt %Good% là nước đi ổn, nhưng có nước đi khác còn hay hơn!</item>
+        <item>Một nước đi %Excellent% xuất sắc thì cơ bản là tốt ngang bằng với nước đi Tốt nhất: đáng để tự hào!</item>
+        <item>Nước đi%Best% tốt nhất là điều đi mà công cụ phân tích xác định là nước đi hàng đầu.</item>
+        <item>Một nước đi tuyệt vời %Great% là một nước đi quan trọng làm thay đổi cục diện ván cờ.</item>
+        <item>Một nước đi Thiên Tài %Brilliant% là khi bạn tìm thấy một nước thí quân hay.</item>
+        <item>Độ chính xác là điểm số khi so sánh nước đi của bạn với nước đi tốt nhất %Best%.</item>
+        <item>Learning a new opening is a fun way of keeping chess fresh.</item>
+        <item>After 3 moves there are 121 million possible positions.</item>
+        <item>Some believe the \"Greek Gift Sacrifice\" was named after Gioachino Greco, who was Italian.</item>
+        <item>Stanley Kubrick hustled chess in Washington Square Park to pay for food in his early 20s.</item>
+        <item>There are nearly 1,800 grandmasters in the world.</item>
+        <item>En passant is French for \"in passing\".</item>
+        <item>If \"rook\" comes from the Persian word \"rukh\" meaning chariot, why does the piece look like a tower?</item>
+        <item>Abhimanyu Mishra became the youngest grandmaster ever at the age of 12 years, 4 months, and 25 days.</item>
+        <item>The name \"Deep Blue\" came from a naming contest held by IBM and is a play on their nickname \"Big Blue.\"</item>
+        <item>Zugzwang is German for \"compulsion to move\" and happens when any move made puts the player at a disadvantage.</item>
+        <item>The chess game played in Blade Runner is a recreation of the \"Immortal Game\" between Adolf Anderssen and Lionel Kiseritzky in 1851.</item>
+        <item>There are 960 legal starting positions in a game of Chess960.</item>
+        <item>English chess masters were recruited as code breakers during World War II.</item>
+        <item>Until the mid-1800s, chess games were played without a time limit.</item>
+        <item>Until the 1600s, castling required two moves.</item>
+        <item>The current format for writing chess moves down, algebraic notation, was formalized in 1981.</item>
+        <item>The first chess computer, The Mechanical Turk, was actually just a guy hiding in a box pretending to be an automaton.</item>
+        <item>The last time checkmate happened in a World Championship match was 1929.</item>
+        <item>In 1951, IM Robert Wade played a simultaneous exhibition against 30 Russian schoolboys. Wade won 0 games, drew 10, and lost the other 20.</item>
+        <item>The quickest checkmate possible is only 2 moves.</item>
+        <item>World Champion Alexander Alekhine had a cat named \"Chess\".</item>
+        <item>During the 1978 World Championship, Anatoly Karpov hired a hypnotist to sit in the front row and stare at his opponent.</item>
+        <item>World Champion Mikhail Tal only had 3 fingers on his right hand.</item>
+        <item>The Evans Gambit is named after 19th Century Welsh sea captain William Davies Evans.</item>
+        <item>The 1984–85 World Championship was abandoned after 5 months and 48 games for the health of the players.</item>
+        <item>The longest chess game in the history of the World Championship was game 6 of the 2021 World Championship, at 136 moves.</item>
+        <item>\"The blunders are all there on the board, waiting to be made.\" - Savielly Tartakower</item>
+        <item>\"There are two types of sacrifices: Correct ones, and mine.\" - Mikhail Tal</item>
+        <item>\"Chess is the gymnasium of the mind.\" - Blaise Pascal</item>
+        <item>\"Even a poor plan is better than no plan at all.\" - Mikhail Chigorin</item>
+        <item>\"The winner of the game is the player who makes the next to last mistake.\" - Savielly Tartakower</item>
+        <item>\"I am Alekhine, chess champion of the world. I have a cat called Chess.\" - Alexander Alekhine, when stopped at the Polish-Russian border without a passport.</item>
+        <item>\"Chess problems demand from the composer the same virtues that characterize all worthwhile art.\" - Vladimir Nabokov</item>
+        <item>\"Chess is a matter of delicate judgment, knowing when to punch and how to duck.\" - Bobby Fischer</item>
+        <item>\"Steady effort pays off, even if not always in an immediate, tangible way.\" - Garry Kasparov</item>
+        <item>\"A passed pawn increases in strength as the number of pieces on the board diminishes.\" - Jose Raul Capablanca</item>
+        <item>\"Chess is the art which expresses the science of logic.\" - Mikhail Botvninnik</item>
+        <item>\"If revenge motivates you, go for it!\" - Viswanathan Anand</item>
+        <item>\"If you want to play well, it\'s important to concentrate on the now.\" - Vassily Ivanchuk</item>
+        <item>\"The biggest challenge is to fulfill your own ideas about yourself\" - Judit Polgar</item>
+        <item>%websiteName% was founded in 2005 by two college friends, Erik and Jay.</item>
+        <item>%websiteName% members play over a billion games a month!</item>
+    </array>
+    <array name="offline_coach_messages">
+        <item>À, học viên yêu quý của tôi! Rất vui được gặp lại bạn.</item>
+        <item>Chào mừng bạn quay lại. Rất vui được gặp lại bạn.</item>
+        <item>Rất vui được gặp bạn, người bạn của tôi.</item>
+        <item>Chắc chắn là học sinh yêu thích của tôi rồi. Xin chào!</item>
+        <item>Hôm nay là một ngày đẹp trời để chơi cờ vua.</item>
+        <item>Mỗi ngày một ván đố sẽ giúp bạn tránh những nước đi sai lầm.</item>
+        <item>Mỗi ngày một ván đố giúp tránh những sai lầm.</item>
+        <item>Muốn nâng cấp? Hãy bắt đầu với một ván đố.</item>
+        <item>Tôi sẵn sàng dạy nếu bạn sẵn sàng học.</item>
+        <item>Bạn muốn tham gia hoạt động cờ vua nào?</item>
+        <item>Hôm nay bạn sẽ tập trung vào điều gì?</item>
+        <item>Nếu bạn cần gì, tôi luôn sẵn sàng giúp bạn học.</item>
+        <item>Học các thế khai cuộc mới có thể rất thú vị.</item>
+        <item>Điều tôi thích nhất khi dạy học là được chứng kiến sự tiến bộ của học viên.</item>
+        <item>Chơi cờ vua là một cách thú vị để giữ cho trí óc luôn minh mẫn.</item>
+        <item>Khi tôi không muốn chơi cờ, tôi sẽ giải vài ván đố thay thế.</item>
+        <item>Hôm nay chúng ta hãy cùng tìm hiểu một chiến thuật cờ vua mới.</item>
+        <item>Mọi chuyện thế nào? Sẵn sàng chơi cờ vua chưa?</item>
+        <item>Luôn vui khi gặp lại bạn. Chào mừng bạn quay lại.</item>
+        <item>Tuyệt, chào mừng bạn quay lại!</item>
+        <item>Rất vui được gặp bạn! Nơi đây vui hơn khi có bạn.</item>
+        <item>Dù thắng hay thua, mỗi trận đấu đều mang lại cho bạn những bài học quý giá.</item>
+        <item>Cờ vua giúp rèn luyện sự tập trung, logic và trí tưởng tượng cùng một lúc!</item>
+        <item>Xem ai đây! Cờ thủ yêu thích của tôi đã trở lại.</item>
+        <item>Bạn chơi đi, tôi sẽ giúp bạn hiểu chúng.</item>
+        <item>Tôi là huấn luyện viên của bạn. Tôi sẽ giúp bạn học hỏi, tiến bộ và nhìn nhận cờ vua theo những cách mới.</item>
+        <item>Tôi ở đây để giúp bạn học hỏi, phân tích các ván đấu và khám phá những nước đi hay nhất của bạn.</item>
+        <item>Rất vui vì bạn đã đến đây! Hãy cùng nhau chơi và học hỏi điều mới nhé.</item>
+        <item>Rất vui được gặp lại bạn. Tôi rất mừng vì bạn dành thời gian để chơi cờ hôm nay.</item>
+        <item>Chào mừng bạn quay lại! Hãy tiếp tục từ nơi bạn đã dừng lại.</item>
+        <item>Rất vui được gặp lại bạn! Hôm nay chúng ta hãy cùng học điều mới nhé.</item>
+        <item>Cờ đố là cách nhanh chóng để giữ trí óc minh mẫn.</item>
+        <item>Chơi với bot để cải thiện kỹ năng một cách thoải mái!</item>
+        <item>Bạn muốn khởi động bằng một vài ván đố không?</item>
+        <item>Chào mừng! Tôi hy vọng bạn thích học nhiều như tôi thích huấn luyện!</item>
+        <item>Bạn muốn học điều gì đó mới hôm nay? Hãy thử một bài học!</item>
+        <item>Rất vui được gặp bạn! Tôi rất mừng khi thấy các học viên của mình tiến bộ trong cờ vua.</item>
+        <item>Cờ vua luôn thú vị. Bạn có biết hầu hết các ván cờ đều độc nhất vô nhị trong hàng tỷ khả năng không?</item>
+        <item>Muốn tiến bộ? Hãy biến cờ vua thành một phần trong thói quen hàng ngày của bạn!</item>
+        <item>Trong cờ vua, luôn có điều mới mẻ để học. Chúng ta nên bắt đầu từ đâu?</item>
+        <item>Một trong những cách yêu thích của tôi để giữ cho cờ vua luôn mới mẻ là học một nước đi khai cuộc mới!</item>
+        <item>Nhân tiện, nếu bạn chơi một ván cờ với bot, bạn có thể chơi với các gợi ý và quyền rút lại nước đi.</item>
+        <item>Bạn đang ở đây, vậy chắc hẳn đã đến lúc chơi cờ!</item>
+        <item>Mỗi bước đi đều là một bước tiến. Rất tốt khi tham gia vào bảng.</item>
+        <item>Nỗ lực đều đặn sẽ mang lại tiến bộ thực sự.</item>
+        <item>Sự tập trung hôm nay sẽ mang lại kết quả vào ngày mai.</item>
+        <item>Rất vui được chào đón bạn trở lại. Sẵn sàng chơi chưa?</item>
+        <item>Cờ vua trao thưởng cho sự kiên nhẫn và kỷ luật.</item>
+        <item>Rất vui được chào đón bạn trở lại. Sẵn sàng học chưa?</item>
+        <item>Sự tiến bộ được xây dựng từ nhiều cải tiến nhỏ.</item>
+        <item>Chào mừng! Đây là nơi hình thành những thói quen tốt.</item>
+        <item>Sẵn sàng kiểm tra kỹ năng cờ vua của bạn?</item>
+        <item>Chào mừng bạn quay lại! Hãy xem hôm nay bạn có gì nhé.</item>
+    </array>
+    <array name="puzzles_coach_comments_10_in_a_row">
+        <item>Đó là 10 lần liên tiếp! Giải quyết thật tuyệt vời!</item>
+        <item>Bạn đang có chuỗi giải quyết tuyệt vời!</item>
+        <item>Tầm nhìn của bạn thật sắc bén! Đó là 10 lần liên tiếp!</item>
+        <item>Mười ván đố hoàn hảo liên tiếp!? Thật tuyệt vời!</item>
+        <item>Chuỗi chiến thắng hoành tráng! Bạn đang giải quyết mọi thứ!</item>
+    </array>
+    <array name="puzzles_coach_comments_3_in_a_row">
+        <item>Ba lần liên tiếp! Đừng dừng lại!</item>
+        <item>Bạn đang làm rất tốt!</item>
+        <item>1-2-3 liên tiếp! Làm tốt lắm!</item>
+        <item>Bạn làm trông việc này có vẻ dễ dàng quá!</item>
+        <item>Tuyệt vời! Bạn đang trên đà tiến triển!</item>
+    </array>
+    <array name="puzzles_coach_comments_5_in_a_row">
+        <item>Wow! Bạn đang rất bùng cháy!</item>
+        <item>Năm lần liên tiếp! Thật tuyệt!</item>
+        <item>Những cờ đố này quá dễ đối với bạn!</item>
+        <item>Cố lên! Bạn làm tốt lắm!</item>
+        <item>Bạn là một cỗ máy giải đố!</item>
+    </array>
+    <array name="puzzles_coach_comments_7_in_a_row">
+        <item>Độ chính xác của bạn thật ấn tượng!</item>
+        <item>Bắn vào bảng! Đúng bảy lần liên tiếp!</item>
+        <item>Bạn đang nhìn thấy mọi thứ! Thật tuyệt vời.</item>
+        <item>Bạn có thể trở thành người giải đố chuyên nghiệp... nếu bạn có khả năng đó.</item>
+        <item>Bảy ván đố liên tiếp?! Thật tuyệt vời!</item>
+    </array>
+    <array name="puzzles_coach_comments_general">
+        <item>Làm tốt lắm!</item>
+        <item>Đúng! Đó là cách!</item>
+        <item>Phương án hay!</item>
+        <item>Hoàn hảo! Làm tốt lắm.</item>
+        <item>Tuyệt! Bạn đã tìm ra giải pháp rồi!</item>
+        <item>Bạn đã hiểu rồi! Làm tốt lắm.</item>
+        <item>Bingo! Bạn đã hiểu rồi.</item>
+        <item>Rất tốt!</item>
+        <item>Bạn đã tìm ra giải pháp. Tuyệt vời!</item>
+        <item>Đúng! Chơi hay lắm.</item>
+        <item>Làm tốt lắm!</item>
+        <item>Tuyệt!</item>
+        <item>Thật tuyệt vời!</item>
+        <item>Đúng thế! Bạn đã hiểu rồi!</item>
+        <item>Giải quyết rất tốt!</item>
+        <item>Chơi rất thông minh!</item>
+        <item>Đúng rồi! Chơi hay lắm!</item>
+        <item>Bạn rất tinh mắt! Làm tốt lắm!</item>
+        <item>Chơi rất hay! Bạn đã giải quyết được rồi!</item>
+        <item>Chơi hay lắm!</item>
+    </array>
+    <array name="puzzles_coach_comments_solution_shown">
+        <item>Đây là câu trả lời đúng.</item>
+        <item>Dưới đây là giải pháp cho ván cờ đố.</item>
+        <item>Có cố gắng! Đây là câu trả lời đúng.</item>
+        <item>Đây quả là một ván đố hóc búa. Hãy thử một ván đố khác nhé.</item>
+        <item>Hãy xem bạn có thể nhớ được mẫu này không.</item>
+        <item>Ngay cả những học sinh giỏi nhất của tôi cũng không giải đúng mọi ván cờ đố.</item>
+        <item>Đừng lo lắng. Lần sau bạn sẽ làm được!</item>
+        <item>Hãy thử lại ván cờ đố này và cố gắng ghi nhớ mẫu.</item>
+        <item>Hãy thử lại ván đố này và cố gắng hiểu từng nước đi!</item>
+        <item>Huấn luyện viên đến cứu! Thật là một ván cờ đố thú vị.</item>
+        <item>Không sao đâu. Cờ đố đôi khi cũng khó khăn mà!</item>
+        <item>Tôi luôn sẵn lòng giúp đỡ!</item>
+        <item>Bạn đã rất cố gắng. Sẵn sàng cho một ván đố khác chưa?</item>
+        <item>Hãy nghiên cứu ván đố này và cố gắng hiểu các nước đi.</item>
+        <item>Bạn luôn có thể thử lại một ván đố để luyện tập.</item>
+        <item>Rất cố gắng! Sẵn sàng cho một ván đố khác chưa?</item>
+    </array>
+    <array name="puzzles_coach_home_array">
+        <item>Giải thế đố là cách tốt nhất để phát triển khả năng nhận dạng mẫu và kỹ năng chiến thuật.</item>
+        <item>Người ta nói rằng cờ vua là 99% chiến thuật… Tin tốt đây! Đó chính là mục đích của cờ thế.</item>
+        <item>Giải đố mỗi ngày giúp bạn dễ dàng nhận ra lỗi sai của đối thủ.</item>
+        <item>Giải đố mỗi ngày giúp bạn lựa chọn nước đi an toàn trong ván cờ của mình.</item>
+        <item>Cờ đố giúp bạn chơi khai cuộc an toàn hơn, chơi trung cuộc tự tin hơn và chơi tàn cuộc chính xác hơn.</item>
+        <item>Cờ đố rất tuyệt vời để luyện tập và cải thiện khả năng chơi cờ của bạn - và chúng cũng rất thú vị nữa!</item>
+        <item>Khi bạn giải sai một câu đố, bạn nên thử lại và xem lại lời giải để xem mình đã bỏ sót điều gì.</item>
+        <item>Bạn muốn tăng tốc mọi thứ? Hãy ghi điểm khi giải nhanh trong Puzzle Rush, lỗi thứ ba của bạn sẽ là lỗi cuối cùng!</item>
+        <item>Nếu bạn có vài phút rảnh rỗi, Puzzle Rush sẽ giúp não bạn được rèn luyện!</item>
+        <item>Bạn có biết rằng cờ đố hàng ngày sẽ khó hơn vào mỗi tuần không? Câu đố Chủ Nhật rất khó!</item>
+        <item>Đừng bao giờ bỏ qua ván đố ngày!</item>
+        <item>Đã đến lúc rèn luyện khả năng chiến thuật của bạn với một số ván cờ đố chưa?</item>
+        <item>Đã đến lúc phải giải quyết!</item>
+        <item>Trong mỗi vị trí thế đố, chỉ có một nước đi được áp dụng... Bạn có thể tìm thấy nó không?</item>
+        <item>Chào mừng trở lại! Hãy cùng nhau giải quyết.…</item>
+        <item>Bạn có muốn thử sức với tốc độ không? Hãy thử chơi Puzzle Rush nhé?</item>
+        <item>Bạn nghĩ mình nhanh hơn hầu hết những người giải khác? Hãy thử khởi động với một Trận đấu Cờ đố!</item>
+    </array>
+    <array name="skills_name">
+        <item>Mới</item>
+        <item>Đang cải thiện</item>
+        <item>Trung cấp</item>
+        <item>Nâng cao</item>
+        <item>Chuyên gia +</item>
+    </array>
+</resources>

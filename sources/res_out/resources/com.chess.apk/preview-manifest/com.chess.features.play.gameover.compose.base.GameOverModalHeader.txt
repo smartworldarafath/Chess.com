@@ -1,0 +1,3 @@
+package=com.chess.features.play.gameover.compose.base
+file=GameOverModalHeader
+private:GameOverHeaderPreview

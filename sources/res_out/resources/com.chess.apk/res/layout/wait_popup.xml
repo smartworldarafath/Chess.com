@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/grey_rounded_background"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:animateLayoutChanges="true"
+    android:paddingHorizontal="16dp"
+    android:paddingVertical="20dp">
+    <ImageView
+        android:id="@+id/gameImageView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:contentDescription="@string/game_type_content_description"/>
+    <TextView
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#d9d9d9"
+        android:gravity="center_horizontal"
+        android:id="@+id/inviteDetailsTxt"
+        android:paddingTop="@dimen/margin_standard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="16sp"
+            android:textColor="#8b8987"
+            android:id="@+id/waitingForGameTxt"
+            android:paddingTop="@dimen/emoji_padding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="1"/>
+    </FrameLayout>
+</LinearLayout>

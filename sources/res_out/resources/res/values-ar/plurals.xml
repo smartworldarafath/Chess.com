@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_feed_comments">
+        <item quantity="zero">%d تعليق</item>
+        <item quantity="one">%d تعليق</item>
+        <item quantity="two">%d تعليقان</item>
+        <item quantity="few">%d تعليقات</item>
+        <item quantity="many">%d تعليق</item>
+        <item quantity="other">%d تعليق</item>
+    </plurals>
+    <plurals name="activity_feed_current_streak">
+        <item quantity="zero">السلسلة الحالية: %d يوم</item>
+        <item quantity="one">السلسلة الحالية: %d يوم</item>
+        <item quantity="two">السلسلة الحالية: %d يومان</item>
+        <item quantity="few">السلسلة الحالية: %d أيام</item>
+        <item quantity="many">السلسلة الحالية: %d يوم</item>
+        <item quantity="other">السلسلة الحالية: %d يوم</item>
+    </plurals>
+    <plurals name="activity_feed_draws_chip">
+        <item quantity="zero">%d تعادل</item>
+        <item quantity="one">%d تعادل</item>
+        <item quantity="two">%d تعادلان</item>
+        <item quantity="few">%d تعادلات</item>
+        <item quantity="many">%d تعادل</item>
+        <item quantity="other">%d تعادل</item>
+    </plurals>
+    <plurals name="activity_feed_losses_chip">
+        <item quantity="zero">%d خسارة</item>
+        <item quantity="one">%d خسارة</item>
+        <item quantity="two">%d خسارتان</item>
+        <item quantity="few">%d خسارات</item>
+        <item quantity="many">%d خسارة</item>
+        <item quantity="other">%d خسارة</item>
+    </plurals>
+    <plurals name="activity_feed_pin_limit">
+        <item quantity="zero">يمكنك تثبيت ما يصل إلى %d منشور فقط. ألغِ تثبيت منشور لإضافة آخر.</item>
+        <item quantity="one">يمكنك تثبيت ما يصل إلى %d منشور فقط. ألغِ تثبيت منشور لإضافة آخر.</item>
+        <item quantity="two">يمكنك تثبيت ما يصل إلى %d منشورين فقط. ألغِ تثبيت منشور لإضافة آخر.</item>
+        <item quantity="few">يمكنك تثبيت ما يصل إلى %d منشورات فقط. ألغِ تثبيت منشور لإضافة آخر.</item>
+        <item quantity="many">يمكنك تثبيت ما يصل إلى %d منشور فقط. ألغِ تثبيت منشور لإضافة آخر.</item>
+        <item quantity="other">يمكنك تثبيت ما يصل إلى %d منشور فقط. ألغِ تثبيت منشور لإضافة آخر.</item>
+    </plurals>
+    <plurals name="activity_feed_played_games">
+        <item quantity="zero">لعبت %d مباراة</item>
+        <item quantity="one">لعبت %d مباراة</item>
+        <item quantity="two">لعبت %d مباراتين</item>
+        <item quantity="few">لعبت %d مباريات</item>
+        <item quantity="many">لعبت %d مباراة</item>
+        <item quantity="other">لعبت %d مباراة</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_points">
+        <item quantity="zero">%d نقطة ألغاز</item>
+        <item quantity="one">%d نقطة ألغاز</item>
+        <item quantity="two">%d نقطتي ألغاز</item>
+        <item quantity="few">%d نقاط ألغاز</item>
+        <item quantity="many">%d نقطة ألغاز</item>
+        <item quantity="other">%d نقطة ألغاز</item>
+    </plurals>
+    <plurals name="activity_feed_puzzle_streak">
+        <item quantity="zero">%d لغز صحيح على التوالي</item>
+        <item quantity="one">%d لغز صحيح على التوالي</item>
+        <item quantity="two">%d لغزان صحيحان على التوالي</item>
+        <item quantity="few">%d ألغاز صحيحة على التوالي</item>
+        <item quantity="many">%d لغز صحيح على التوالي</item>
+        <item quantity="other">%d لغز صحيح على التوالي</item>
+    </plurals>
+    <plurals name="activity_feed_reactions">
+        <item quantity="zero">%d تفاعل</item>
+        <item quantity="one">%d تفاعل</item>
+        <item quantity="two">%d تفاعلان</item>
+        <item quantity="few">%d تفاعلات</item>
+        <item quantity="many">%d تفاعل</item>
+        <item quantity="other">%d تفاعل</item>
+    </plurals>
+    <plurals name="activity_feed_streak_milestone_value">
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d يومان</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوم</item>
+        <item quantity="other">%d يوم</item>
+    </plurals>
+    <plurals name="activity_feed_wins_chip">
+        <item quantity="zero">%d انتصار</item>
+        <item quantity="one">%d انتصار</item>
+        <item quantity="two">%d انتصاران</item>
+        <item quantity="few">%d انتصارات</item>
+        <item quantity="many">%d انتصار</item>
+        <item quantity="other">%d انتصار</item>
+    </plurals>
+    <plurals name="add_x_friends">
+        <item quantity="zero">أضف %d صديق</item>
+        <item quantity="one">أضف %d صديق</item>
+        <item quantity="two">أضف %d صديقين</item>
+        <item quantity="few">أضف %d أصدقاء</item>
+        <item quantity="many">أضف %d صديق</item>
+        <item quantity="other">أضف %d صديق</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_user">
+        <item quantity="zero">اِلعب %d مباراة لتحصل على تقييم</item>
+        <item quantity="one">اِلعب %d مباراة لتحصل على تقييم</item>
+        <item quantity="two">اِلعب %d مباراتين لتحصل على تقييم</item>
+        <item quantity="few">اِلعب %d مباريات لتحصل على تقييم</item>
+        <item quantity="many">اِلعب %d مباراة لتحصل على تقييم</item>
+        <item quantity="other">اِلعب %d مباراة لتحصل على تقييم</item>
+    </plurals>
+    <plurals name="adv_stats_no_data_visitor">
+        <item quantity="zero">ستظهر الإحصاءات بعد %d مباراة</item>
+        <item quantity="one">ستظهر الإحصاءات بعد %d مباراة</item>
+        <item quantity="two">ستظهر الإحصاءات بعد %d مباراتين</item>
+        <item quantity="few">ستظهر الإحصاءات بعد %d مباريات</item>
+        <item quantity="many">ستظهر الإحصاءات بعد %d مباراة</item>
+        <item quantity="other">ستظهر الإحصاءات بعد %d مباراة</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_decreased">
+        <item quantity="zero">نقص بمقدار %d نقطة</item>
+        <item quantity="one">نقص بمقدار %d نقطة</item>
+        <item quantity="two">نقص بمقدار %d نقطتين</item>
+        <item quantity="few">نقص بمقدار %d نقاط</item>
+        <item quantity="many">نقص بمقدار %d نقطة</item>
+        <item quantity="other">نقص بمقدار %d نقطة</item>
+    </plurals>
+    <plurals name="adv_stats_rating_diff_increased">
+        <item quantity="zero">زيادة بمقدار %d نقطة</item>
+        <item quantity="one">زيادة بمقدار %d نقطة</item>
+        <item quantity="two">زيادة بمقدار %d نقطتين</item>
+        <item quantity="few">زيادة بمقدار %d نقاط</item>
+        <item quantity="many">زيادة بمقدار %d نقطة</item>
+        <item quantity="other">زيادة بمقدار %d نقطة</item>
+    </plurals>
+    <plurals name="app_update_message_no_action">
+        <item quantity="zero">تنتهي صلاحية نسخة التطبيق هذه في %1$d يوم. يرجى التحديث.</item>
+        <item quantity="one">تنتهي صلاحية نسخة التطبيق هذه في %1$d يوم. يرجى التحديث.</item>
+        <item quantity="two">تنتهي صلاحية نسخة التطبيق هذه في %1$d يومين. يرجى التحديث.</item>
+        <item quantity="few">تنتهي صلاحية نسخة التطبيق هذه في %1$d أيام. يرجى التحديث.</item>
+        <item quantity="many">تنتهي صلاحية نسخة التطبيق هذه في %1$d يوم. يرجى التحديث.</item>
+        <item quantity="other">تنتهي صلاحية نسخة التطبيق هذه في %1$d يوم. يرجى التحديث.</item>
+    </plurals>
+    <plurals name="app_update_message_with_action">
+        <item quantity="zero">تنتهي صلاحية نسخة التطبيق هذه في %1$d يوم.</item>
+        <item quantity="one">تنتهي صلاحية نسخة التطبيق هذه في %1$d يوم.</item>
+        <item quantity="two">تنتهي صلاحية نسخة التطبيق هذه في %1$d يومين.</item>
+        <item quantity="few">تنتهي صلاحية نسخة التطبيق هذه في %1$d أيام.</item>
+        <item quantity="many">تنتهي صلاحية نسخة التطبيق هذه في %1$d يوم.</item>
+        <item quantity="other">تنتهي صلاحية نسخة التطبيق هذه في %1$d يوم.</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_crowns">
+        <item quantity="zero">%1$s، تقييم %2$s، لديك %3$d تاج</item>
+        <item quantity="one">%1$s، تقييم %2$s، لديك %3$d تاج</item>
+        <item quantity="two">%1$s، تقييم %2$s، لديك %3$d تاجان</item>
+        <item quantity="few">%1$s، تقييم %2$s، لديك %3$d تيجان</item>
+        <item quantity="many">%1$s، تقييم %2$s، لديك %3$d تاج</item>
+        <item quantity="other">%1$s، تقييم %2$s، لديك %3$d تاج</item>
+    </plurals>
+    <plurals name="bot_name_voice_over_with_points">
+        <item quantity="zero">%1$s، تقييم %2$s، اِكسب %3$d نقطة</item>
+        <item quantity="one">%1$s، تقييم %2$s، اِكسب %3$d نقطة</item>
+        <item quantity="two">%1$s، تقييم %2$s، اِكسب %3$d نقطتين</item>
+        <item quantity="few">%1$s، تقييم %2$s، اِكسب %3$d نقاط</item>
+        <item quantity="many">%1$s، تقييم %2$s، اِكسب %3$d نقطة</item>
+        <item quantity="other">%1$s، تقييم %2$s، اِكسب %3$d نقطة</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_hours">
+        <item quantity="zero">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d ساعة.</item>
+        <item quantity="one">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d ساعة.</item>
+        <item quantity="two">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d ساعتين.</item>
+        <item quantity="few">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d ساعات.</item>
+        <item quantity="many">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d ساعة.</item>
+        <item quantity="other">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d ساعة.</item>
+    </plurals>
+    <plurals name="challenge.play_ban_with_minutes">
+        <item quantity="zero">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d دقيقة.</item>
+        <item quantity="one">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d دقيقة.</item>
+        <item quantity="two">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d دقيقتين.</item>
+        <item quantity="few">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d دقائق.</item>
+        <item quantity="many">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d دقيقة.</item>
+        <item quantity="other">لعبك عبر الإنترنت مقيد حاليًا بسبب انتهاك &lt;a href=%1$s&gt;سياسة مجتمعنا&lt;/a&gt;. يمكنك اللعب مرة أخرى في %2$d دقيقة.</item>
+    </plurals>
+    <plurals name="coach_nudge_board_highlighted_squares">
+        <item quantity="zero">رقعة مع %d مربّع مبرز</item>
+        <item quantity="one">رقعة مع %d مربّع مبرز</item>
+        <item quantity="two">رقعة مع %d مربّعين مبرزين</item>
+        <item quantity="few">رقعة مع %d مربّعات مبرزة</item>
+        <item quantity="many">رقعة مع %d مربّع مبرز</item>
+        <item quantity="other">رقعة مع %d مربّع مبرز</item>
+    </plurals>
+    <plurals name="daily_puzzle_keep_streak_alive">
+        <item quantity="zero">حافظ على سلسلتك من %d يوم!</item>
+        <item quantity="one">حافظ على سلسلتك من %d يوم!</item>
+        <item quantity="two">حافظ على سلسلتك من %d يومين!</item>
+        <item quantity="few">حافظ على سلسلتك من %d أيام!</item>
+        <item quantity="many">حافظ على سلسلتك من %d يوم!</item>
+        <item quantity="other">حافظ على سلسلتك من %d يوم!</item>
+    </plurals>
+    <plurals name="daily_seeks_modal_subtitle">
+        <item quantity="zero">يحق لخصمك %d يوم ليلعب نقلته.</item>
+        <item quantity="one">يحق لخصمك %d يوم ليلعب نقلته.</item>
+        <item quantity="two">يحق لخصمك %d يومان ليلعب نقلته.</item>
+        <item quantity="few">يحق لخصمك %d أيام ليلعب نقلته.</item>
+        <item quantity="many">يحق لخصمك %d يوم ليلعب نقلته.</item>
+        <item quantity="other">يحق لخصمك %d يوم ليلعب نقلته.</item>
+    </plurals>
+    <plurals name="daily_seeks_pending_modal_subtitle">
+        <item quantity="zero">بعد قبول خصمك التحدّي، سيكون لديه %d يوم للعب نقلته الأولى.</item>
+        <item quantity="one">بعد قبول خصمك التحدّي، سيكون لديه %d يوم للعب نقلته الأولى.</item>
+        <item quantity="two">بعد قبول خصمك التحدّي، سيكون لديه %d يومان للعب نقلته الأولى.</item>
+        <item quantity="few">بعد قبول خصمك التحدّي، سيكون لديه %d أيام للعب نقلته الأولى.</item>
+        <item quantity="many">بعد قبول خصمك التحدّي، سيكون لديه %d يوم للعب نقلته الأولى.</item>
+        <item quantity="other">بعد قبول خصمك التحدّي، سيكون لديه %d يوم للعب نقلته الأولى.</item>
+    </plurals>
+    <plurals name="event_reward_points_to_unlock">
+        <item quantity="zero">%1$d %%tokenIcon%% لإلغاء القفل</item>
+        <item quantity="one">%1$d %%tokenIcon%% لإلغاء القفل</item>
+        <item quantity="two">%1$d %%tokenIcon%% لإلغاء القفل</item>
+        <item quantity="few">%1$d %%tokenIcon%% لإلغاء القفل</item>
+        <item quantity="many">%1$d %%tokenIcon%% لإلغاء القفل</item>
+        <item quantity="other">%1$d %%tokenIcon%% لإلغاء القفل</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="first_daily_move_game_message_plural">
+        <item quantity="zero">هذه مباراة شطرنج يومية حيث يُتاح لخصمك %d يوم للعب نقلة.</item>
+        <item quantity="one">هذه مباراة شطرنج يومية حيث يُتاح لخصمك %d يوم للعب نقلة.</item>
+        <item quantity="two">هذه مباراة شطرنج يومية حيث يُتاح لخصمك %d يومان للعب نقلة.</item>
+        <item quantity="few">هذه مباراة شطرنج يومية حيث يُتاح لخصمك %d أيام للعب نقلة.</item>
+        <item quantity="many">هذه مباراة شطرنج يومية حيث يُتاح لخصمك %d يوم للعب نقلة.</item>
+        <item quantity="other">هذه مباراة شطرنج يومية حيث يُتاح لخصمك %d يوم للعب نقلة.</item>
+    </plurals>
+    <plurals name="first_daily_move_message_plural">
+        <item quantity="zero">يحق لخصمك %d يوم ليقوم بنقلته.</item>
+        <item quantity="one">يحق لخصمك %d يوم ليقوم بنقلته.</item>
+        <item quantity="two">يحق لخصمك %d يومين ليقوم بنقلته.</item>
+        <item quantity="few">يحق لخصمك %d أيام ليقوم بنقلته.</item>
+        <item quantity="many">يحق لخصمك %d يوم ليقوم بنقلته.</item>
+        <item quantity="other">يحق لخصمك %d يوم ليقوم بنقلته.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_game_count">
+        <item quantity="zero">لُعب %1$d مرة.</item>
+        <item quantity="one">لُعب %1$d مرة.</item>
+        <item quantity="two">لُعب %1$d مرتين.</item>
+        <item quantity="few">لُعب %1$d مرات.</item>
+        <item quantity="many">لُعب %1$d مرة.</item>
+        <item quantity="other">لُعب %1$d مرة.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_opening_stats">
+        <item quantity="zero">لقد لعبت هذا الافتتاح %1$d مرة، بنسبة فوز %2$s.</item>
+        <item quantity="one">لقد لعبت هذا الافتتاح %1$d مرة، بنسبة فوز %2$s.</item>
+        <item quantity="two">لقد لعبت هذا الافتتاح %1$d مرتين، بنسبة فوز %2$s.</item>
+        <item quantity="few">لقد لعبت هذا الافتتاح %1$d مرات، بنسبة فوز %2$s.</item>
+        <item quantity="many">لقد لعبت هذا الافتتاح %1$d مرة، بنسبة فوز %2$s.</item>
+        <item quantity="other">لقد لعبت هذا الافتتاح %1$d مرة، بنسبة فوز %2$s.</item>
+    </plurals>
+    <plurals name="game_review_opening_commentary_revised_opening_stats">
+        <item quantity="zero">لعب %1$d مرة. نسبة الفوز %2$s.</item>
+        <item quantity="one">لعب %1$d مرة. نسبة الفوز %2$s.</item>
+        <item quantity="two">لعب %1$d مرتين. نسبة الفوز %2$s.</item>
+        <item quantity="few">لعب %1$d مرات. نسبة الفوز %2$s.</item>
+        <item quantity="many">لعب %1$d مرة. نسبة الفوز %2$s.</item>
+        <item quantity="other">لعب %1$d مرة. نسبة الفوز %2$s.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+        <item quantity="other">%d إشعار جديد</item>
+    </plurals>
+    <plurals name="play_more_blitz_games_count">
+        <item quantity="zero">اِلعب %d مباراة خاطفة لتحصل على تقييم!</item>
+        <item quantity="one">اِلعب %d مباراة خاطفة لتحصل على تقييم!</item>
+        <item quantity="two">اِلعب %d مباراتين خاطفتين لتحصل على تقييم!</item>
+        <item quantity="few">اِلعب %d مباريات خاطفة لتحصل على تقييم!</item>
+        <item quantity="many">اِلعب %d مباراة خاطفة لتحصل على تقييم!</item>
+        <item quantity="other">اِلعب %d مباراة خاطفة لتحصل على تقييم!</item>
+    </plurals>
+    <plurals name="play_more_bullet_games_count">
+        <item quantity="zero">اِلعب %d مباراة طلقة لتحصل على تقييم!</item>
+        <item quantity="one">اِلعب %d مباراة طلقة لتحصل على تقييم!</item>
+        <item quantity="two">اِلعب %d مباراتين طلقة لتحصل على تقييم!</item>
+        <item quantity="few">اِلعب %d مباريات طلقة لتحصل على تقييم!</item>
+        <item quantity="many">اِلعب %d مباراة طلقة لتحصل على تقييم!</item>
+        <item quantity="other">اِلعب %d مباراة طلقة لتحصل على تقييم!</item>
+    </plurals>
+    <plurals name="play_more_chess960_games_count">
+        <item quantity="zero">اِلعب %d مباراة في شطرنج960 لتحصل على تقييم!</item>
+        <item quantity="one">اِلعب %d مباراة في شطرنج960 لتحصل على تقييم!</item>
+        <item quantity="two">اِلعب %d مباراتين في شطرنج960 لتحصل على تقييم!</item>
+        <item quantity="few">اِلعب %d مباريات في شطرنج960 لتحصل على تقييم!</item>
+        <item quantity="many">اِلعب %d مباراة في شطرنج960 لتحصل على تقييم!</item>
+        <item quantity="other">اِلعب %d مباراة في شطرنج960 لتحصل على تقييم!</item>
+    </plurals>
+    <plurals name="play_more_rapid_games_count">
+        <item quantity="zero">اِلعب %d مباراة سريعة لتحصل على تقييم!</item>
+        <item quantity="one">اِلعب %d مباراة سريعة لتحصل على تقييم!</item>
+        <item quantity="two">اِلعب %d مباراتين سريعتين لتحصل على تقييم!</item>
+        <item quantity="few">اِلعب %d مباريات سريعة لتحصل على تقييم!</item>
+        <item quantity="many">اِلعب %d مباراة سريعة لتحصل على تقييم!</item>
+        <item quantity="other">اِلعب %d مباراة سريعة لتحصل على تقييم!</item>
+    </plurals>
+    <plurals name="plural_day_streak">
+        <item quantity="zero">%d يوم متتالي</item>
+        <item quantity="one">%d يوم متتالي</item>
+        <item quantity="two">%d يومان متتاليان</item>
+        <item quantity="few">%d أيام متتالية</item>
+        <item quantity="many">%d يوم متتالي</item>
+        <item quantity="other">%d يوم متتالي</item>
+    </plurals>
+    <plurals name="plural_day_streak_">
+        <item quantity="zero">يوم على التوالي!</item>
+        <item quantity="one">يوم على التوالي!</item>
+        <item quantity="two">يومان على التوالي!</item>
+        <item quantity="few">أيام على التوالي!</item>
+        <item quantity="many">يوم على التوالي!</item>
+        <item quantity="other">يوم على التوالي!</item>
+    </plurals>
+    <plurals name="plural_puzzle_path_you_have_prestiged">
+        <item quantity="zero">حققت بريستيج %dX</item>
+        <item quantity="one">حققت بريستيج %dX</item>
+        <item quantity="two">حققت بريستيجين %dX</item>
+        <item quantity="few">حققت بريستيجات %dX</item>
+        <item quantity="many">حققت بريستيج %dX</item>
+        <item quantity="other">حققت بريستيج %dX</item>
+    </plurals>
+    <plurals name="plural_streak_days">
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d يومان</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوم</item>
+        <item quantity="other">%d يوم</item>
+    </plurals>
+    <plurals name="puzzle_bonus_reward_x_label">
+        <item quantity="zero">المكافأة: %d نقطة</item>
+        <item quantity="one">المكافأة: %d نقطة</item>
+        <item quantity="two">المكافأة: %d نقطتين</item>
+        <item quantity="few">المكافأة: %d نقاط</item>
+        <item quantity="many">المكافأة: %d نقطة</item>
+        <item quantity="other">المكافأة: %d نقطة</item>
+    </plurals>
+    <plurals name="puzzle_bonus_x_daily_subtitle">
+        <item quantity="zero">%d لغز محلول</item>
+        <item quantity="one">%d لغز محلول</item>
+        <item quantity="two">%d لغزان محلولان</item>
+        <item quantity="few">%d ألغاز محلولة</item>
+        <item quantity="many">%d لغز محلول</item>
+        <item quantity="other">%d لغز محلول</item>
+    </plurals>
+    <plurals name="puzzle_path_x_friends_passed_this_tier_already">
+        <item quantity="zero">لقد اِجتاز %d صديق هذه الفئة</item>
+        <item quantity="one">لقد اِجتاز %d صديق هذه الفئة</item>
+        <item quantity="two">لقد اِجتاز %d صديقان هذه الفئة</item>
+        <item quantity="few">لقد اِجتاز %d أصدقاء هذه الفئة</item>
+        <item quantity="many">لقد اِجتاز %d صديق هذه الفئة</item>
+        <item quantity="other">لقد اِجتاز %d صديق هذه الفئة</item>
+    </plurals>
+    <plurals name="puzzles_rated_subtitle">
+        <item quantity="zero">تمرّن على أكثر من %d لغز</item>
+        <item quantity="one">تمرّن على أكثر من %d لغز</item>
+        <item quantity="two">تمرّن على أكثر من %d لغزين</item>
+        <item quantity="few">تمرّن على أكثر من %d ألغاز</item>
+        <item quantity="many">تمرّن على أكثر من %d لغز</item>
+        <item quantity="other">تمرّن على أكثر من %d لغز</item>
+    </plurals>
+    <plurals name="relative_date_x_days_ago">
+        <item quantity="zero">منذ %d يوم</item>
+        <item quantity="one">منذ %d يوم</item>
+        <item quantity="two">منذ %d يومين</item>
+        <item quantity="few">منذ %d أيام</item>
+        <item quantity="many">منذ %d يوم</item>
+        <item quantity="other">منذ %d يوم</item>
+    </plurals>
+    <plurals name="stats_chess_com_players">
+        <item quantity="zero">لاعب Chess.com</item>
+        <item quantity="one">لاعب Chess.com</item>
+        <item quantity="two">لاعبا Chess.com</item>
+        <item quantity="few">لاعبو Chess.com</item>
+        <item quantity="many">لاعب Chess.com</item>
+        <item quantity="other">لاعب Chess.com</item>
+    </plurals>
+    <plurals name="stats_games_today">
+        <item quantity="zero">مباراة اليوم</item>
+        <item quantity="one">مباراة اليوم</item>
+        <item quantity="two">مباراتان اليوم</item>
+        <item quantity="few">مباريات اليوم</item>
+        <item quantity="many">مباراة اليوم</item>
+        <item quantity="other">مباراة اليوم</item>
+    </plurals>
+    <plurals name="stats_masters_playing_now">
+        <item quantity="zero">أستاذ يلعب الآن</item>
+        <item quantity="one">أستاذ يلعب الآن</item>
+        <item quantity="two">أستاذان يلعبان الآن</item>
+        <item quantity="few">أساتذة يلعبون الآن</item>
+        <item quantity="many">أستاذ يلعب الآن</item>
+        <item quantity="other">أستاذ يلعب الآن</item>
+    </plurals>
+    <plurals name="stats_playing_now">
+        <item quantity="zero">جارٍ الآن</item>
+        <item quantity="one">جارٍ الآن</item>
+        <item quantity="two">جارٍ الآن</item>
+        <item quantity="few">جارٍ الآن</item>
+        <item quantity="many">جارٍ الآن</item>
+        <item quantity="other">جارٍ الآن</item>
+    </plurals>
+    <plurals name="upgrade_puzzles_count">
+        <item quantity="zero">+%dألف لغز</item>
+        <item quantity="one">+%dألف لغز</item>
+        <item quantity="two">+%d لغز</item>
+        <item quantity="few">+%dألف لغز</item>
+        <item quantity="many">+%dألف لغز</item>
+        <item quantity="other">+%dألف لغز</item>
+    </plurals>
+    <plurals name="user_profile_provisional_tile">
+        <item quantity="zero">اِلعب %d مباراة</item>
+        <item quantity="one">اِلعب %d مباراة</item>
+        <item quantity="two">اِلعب %d مباراتين</item>
+        <item quantity="few">اِلعب %d مباريات</item>
+        <item quantity="many">اِلعب %d مباراة</item>
+        <item quantity="other">اِلعب %d مباراة</item>
+    </plurals>
+    <plurals name="x_bishop">
+        <item quantity="zero">%d فيل</item>
+        <item quantity="one">%d فيل</item>
+        <item quantity="two">%d فيلان</item>
+        <item quantity="few">%d فيلة</item>
+        <item quantity="many">%d فيل</item>
+        <item quantity="other">%d فيل</item>
+    </plurals>
+    <plurals name="x_challenges">
+        <item quantity="zero">%d تحدٍ</item>
+        <item quantity="one">%d تحدٍ</item>
+        <item quantity="two">%d تحدٍ</item>
+        <item quantity="few">%d تحدٍ</item>
+        <item quantity="many">%d تحدٍ</item>
+        <item quantity="other">%d تحدٍ</item>
+    </plurals>
+    <plurals name="x_contacts_found">
+        <item quantity="zero">عُثر على %d جهة اتصال</item>
+        <item quantity="one">عُثر على %d جهة اتصال</item>
+        <item quantity="two">عُثر على %d جهتي اتصال</item>
+        <item quantity="few">عُثر على %d جهات اتصال</item>
+        <item quantity="many">عُثر على %d جهة اتصال</item>
+        <item quantity="other">عُثر على %d جهة اتصال</item>
+    </plurals>
+    <plurals name="x_days">
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d يوم</item>
+        <item quantity="few">%d يوم</item>
+        <item quantity="many">%d يوم</item>
+        <item quantity="other">%d يوم</item>
+    </plurals>
+    <plurals name="x_days_in_a_row_new">
+        <item quantity="zero">%d يوم على التوالي!</item>
+        <item quantity="one">%d يوم على التوالي!</item>
+        <item quantity="two">%d يومان على التوالي!</item>
+        <item quantity="few">%d أيام على التوالي!</item>
+        <item quantity="many">%d يوم على التوالي!</item>
+        <item quantity="other">%d يوم على التوالي!</item>
+    </plurals>
+    <plurals name="x_days_move">
+        <item quantity="zero">%1$d يوم/ نقلة</item>
+        <item quantity="one">%1$d يوم/نقلة</item>
+        <item quantity="two">%1$d يومان/ نقلة</item>
+        <item quantity="few">%1$d أيام/ نقلة</item>
+        <item quantity="many">%1$d يوم/ نقلة</item>
+        <item quantity="other">%1$d يوم/ نقلة</item>
+    </plurals>
+    <plurals name="x_days_short">
+        <item quantity="zero">%d تعادل</item>
+        <item quantity="one">%d تعادل</item>
+        <item quantity="two">%d تعادلان</item>
+        <item quantity="few">%d تعادلات</item>
+        <item quantity="many">%d تعادل</item>
+        <item quantity="other">%d تعادل</item>
+    </plurals>
+    <plurals name="x_friends_added">
+        <item quantity="zero">تمت إضافة %d صديق!</item>
+        <item quantity="one">تمت إضافة %d صديق!</item>
+        <item quantity="two">تمت إضافة %d صديقين!</item>
+        <item quantity="few">تمت إضافة %d أصدقاء!</item>
+        <item quantity="many">تمت إضافة %d صديق!</item>
+        <item quantity="other">تمت إضافة %d صديق!</item>
+    </plurals>
+    <plurals name="x_friends_online">
+        <item quantity="zero">%d صديق أونلاين</item>
+        <item quantity="one">%d صديق أونلاين</item>
+        <item quantity="two">%d صديقان أونلاين</item>
+        <item quantity="few">%d أصدقاء أونلاين</item>
+        <item quantity="many">%d صديق أونلاين</item>
+        <item quantity="other">%d صديق أونلاين</item>
+    </plurals>
+    <plurals name="x_games_analyzed">
+        <item quantity="zero">%1$d مباراة محللة</item>
+        <item quantity="one">%1$d مباراة محللة</item>
+        <item quantity="two">%1$d مباراتان محللتان</item>
+        <item quantity="few">%1$d مباريات محللة</item>
+        <item quantity="many">%1$d مباراة محللة</item>
+        <item quantity="other">%1$d مباراة محللة</item>
+    </plurals>
+    <plurals name="x_hours">
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">%d ساعة</item>
+        <item quantity="few">%d ساعة</item>
+        <item quantity="many">%d ساعة</item>
+        <item quantity="other">%d ساعة</item>
+    </plurals>
+    <plurals name="x_hours_short">
+        <item quantity="zero">%dس</item>
+        <item quantity="one">%dس</item>
+        <item quantity="two">%dس</item>
+        <item quantity="few">%dس</item>
+        <item quantity="many">%dس</item>
+        <item quantity="other">%dس</item>
+    </plurals>
+    <plurals name="x_knight">
+        <item quantity="zero">%d حصان</item>
+        <item quantity="one">%d حصان</item>
+        <item quantity="two">%d حصانان</item>
+        <item quantity="few">%d أحصنة</item>
+        <item quantity="many">%d حصان</item>
+        <item quantity="other">%d حصان</item>
+    </plurals>
+    <plurals name="x_lessons">
+        <item quantity="zero">%d درس</item>
+        <item quantity="one">%d درس</item>
+        <item quantity="two">%d درسان</item>
+        <item quantity="few">%d دروس</item>
+        <item quantity="many">%d دروس</item>
+        <item quantity="other">%d درس</item>
+    </plurals>
+    <plurals name="x_min">
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">%d دقيقتان</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+        <item quantity="other">%d دقيقة</item>
+    </plurals>
+    <plurals name="x_minutes">
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">%d دقيقة</item>
+        <item quantity="few">%d دقيقة</item>
+        <item quantity="many">%d دقيقة</item>
+        <item quantity="other">%d دقيقة</item>
+    </plurals>
+    <plurals name="x_minutes_short">
+        <item quantity="zero">%dد</item>
+        <item quantity="one">%dد</item>
+        <item quantity="two">%dد</item>
+        <item quantity="few">%dد</item>
+        <item quantity="many">%dد</item>
+        <item quantity="other">%dد</item>
+    </plurals>
+    <plurals name="x_months">
+        <item quantity="zero">%d شهر</item>
+        <item quantity="one">%d شهر</item>
+        <item quantity="two">%d شهر</item>
+        <item quantity="few">%d شهر</item>
+        <item quantity="many">%d شهر</item>
+        <item quantity="other">%d شهر</item>
+    </plurals>
+    <plurals name="x_new_announcements">
+        <item quantity="zero">%d إعلان جديد</item>
+        <item quantity="one">%d إعلان جديد</item>
+        <item quantity="two">%d إعلانان جديدان</item>
+        <item quantity="few">%d إعلانات جديدة</item>
+        <item quantity="many">%d إعلان جديد</item>
+        <item quantity="other">%d إعلان جديد</item>
+    </plurals>
+    <plurals name="x_new_notes">
+        <item quantity="zero">%d ملاحظة جديدة</item>
+        <item quantity="one">%d ملاحظة جديدة</item>
+        <item quantity="two">%d ملاحظتان جديدتان</item>
+        <item quantity="few">%d ملاحظات جديدة</item>
+        <item quantity="many">%d ملاحظة جديدة</item>
+        <item quantity="other">%d ملاحظة جديدة</item>
+    </plurals>
+    <plurals name="x_new_posts">
+        <item quantity="zero">%d منشور جديد</item>
+        <item quantity="one">%d منشور جديد</item>
+        <item quantity="two">%d منشوران جديدان</item>
+        <item quantity="few">%d منشورات جديدة</item>
+        <item quantity="many">%d منشور جديد</item>
+        <item quantity="other">%d منشور جديد</item>
+    </plurals>
+    <plurals name="x_new_topics">
+        <item quantity="zero">%d موضوع جديد</item>
+        <item quantity="one">%d موضوع جديد</item>
+        <item quantity="two">%d موضوعان جديدان</item>
+        <item quantity="few">%d مواضيع جديدة</item>
+        <item quantity="many">%d موضوع جديد</item>
+        <item quantity="other">%d موضوع جديد</item>
+    </plurals>
+    <plurals name="x_num_points">
+        <item quantity="zero">%d نقطة</item>
+        <item quantity="one">%d نقطة</item>
+        <item quantity="two">%d نقطة</item>
+        <item quantity="few">%d نقطة</item>
+        <item quantity="many">%d نقطة</item>
+        <item quantity="other">%d نقطة</item>
+    </plurals>
+    <plurals name="x_pawn">
+        <item quantity="zero">%d بيدق</item>
+        <item quantity="one">%d بيدق</item>
+        <item quantity="two">%d بيدقان</item>
+        <item quantity="few">%d بيادق</item>
+        <item quantity="many">%d بيدق</item>
+        <item quantity="other">%d بيدق</item>
+    </plurals>
+    <plurals name="x_puzzles_solved_new">
+        <item quantity="zero">%d لغز محلول!</item>
+        <item quantity="one">%d لغز محلول!</item>
+        <item quantity="two">%d لغزان محلولان!</item>
+        <item quantity="few">%d ألغاز محلولة!</item>
+        <item quantity="many">%d لغز محلول!</item>
+        <item quantity="other">%d لغز محلول!</item>
+    </plurals>
+    <plurals name="x_queen">
+        <item quantity="zero">%d وزير</item>
+        <item quantity="one">%d وزير</item>
+        <item quantity="two">%d وزيران</item>
+        <item quantity="few">%d وزراء</item>
+        <item quantity="many">%d وزير</item>
+        <item quantity="other">%d وزير</item>
+    </plurals>
+    <plurals name="x_rook">
+        <item quantity="zero">%d قلعة</item>
+        <item quantity="one">%d قلعة</item>
+        <item quantity="two">%d قلعتان</item>
+        <item quantity="few">%d قلاع</item>
+        <item quantity="many">%d قلعة</item>
+        <item quantity="other">%d قلعة</item>
+    </plurals>
+    <plurals name="x_seconds">
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">%d ثانية</item>
+        <item quantity="two">%d ثانية</item>
+        <item quantity="few">%d ثانية</item>
+        <item quantity="many">%d ثانية</item>
+        <item quantity="other">%d ثانية</item>
+    </plurals>
+    <plurals name="x_seconds_short">
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">%d ثانية</item>
+        <item quantity="two">%d ثانيتان</item>
+        <item quantity="few">%d ثواني</item>
+        <item quantity="many">%d ثانية</item>
+        <item quantity="other">%d ثانية</item>
+    </plurals>
+    <plurals name="x_trophies">
+        <item quantity="zero">%d كأس</item>
+        <item quantity="one">%d كأس</item>
+        <item quantity="two">%d كأسان</item>
+        <item quantity="few">%d كؤوس</item>
+        <item quantity="many">%d كأس</item>
+        <item quantity="other">%d كأس</item>
+    </plurals>
+    <plurals name="x_years">
+        <item quantity="zero">%d عام</item>
+        <item quantity="one">%d عام</item>
+        <item quantity="two">%d عامان</item>
+        <item quantity="few">%d أعوام</item>
+        <item quantity="many">%d عام</item>
+        <item quantity="other">%d عام</item>
+    </plurals>
+</resources>

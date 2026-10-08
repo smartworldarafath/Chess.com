@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.chess.internal.recyclerview.AutoColumnRecyclerView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/videosCategoriesRecyclerView"
+    android:paddingTop="@dimen/home_recyclerview_top_padding"
+    android:paddingBottom="@dimen/home_recyclerview_bottom_padding"
+    android:clipToPadding="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="@dimen/home_recyclerview_horizontal_padding"
+    android:paddingEnd="@dimen/home_recyclerview_horizontal_padding"
+    app:columnWidth="@dimen/home_tile_large_column_width"
+    app:minColumnCount="2"/>

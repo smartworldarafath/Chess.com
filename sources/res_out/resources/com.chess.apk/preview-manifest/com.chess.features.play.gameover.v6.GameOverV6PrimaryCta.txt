@@ -1,0 +1,4 @@
+package=com.chess.features.play.gameover.v6
+file=GameOverV6PrimaryCta
+private:GameOverV6PrimaryCtaPreview
+private:GameOverV6PrimaryCtaNoIconPreview

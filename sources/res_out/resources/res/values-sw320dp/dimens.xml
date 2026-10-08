@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="emoji_padding">3dp</dimen>
+    <dimen name="home_connect_header_item_image_margin">15dp</dimen>
+    <dimen name="home_connect_header_item_margin_vertical">15dp</dimen>
+    <dimen name="home_new_game_config_tile_column_width">102dp</dimen>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textSize="12sp"
+        android:id="@+id/countLabelTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="@string/rated_puzzles"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <ImageView
+        android:id="@+id/countIcon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="2dp"
+        android:src="@drawable/glyph_graph_bars_ascending"
+        android:importantForAccessibility="no"
+        android:layout_marginEnd="@dimen/margin_x_small"
+        app:layout_constraintBottom_toBottomOf="@+id/countValueTxt"
+        app:layout_constraintEnd_toStartOf="@+id/countValueTxt"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/countValueTxt"
+        app:tint="@color/white_40"/>
+    <TextView
+        android:textSize="26sp"
+        android:gravity="center"
+        android:id="@+id/countValueTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/countIcon"
+        app:layout_constraintTop_toBottomOf="@+id/countLabelTxt"
+        style="@style/Numbers"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
